@@ -1,0 +1,94 @@
+Resolution Engine
+Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
+
+Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary group is always dependent on what is being attempted: 
+Physical for movement, combat, etc. 
+Mental for comprehension, invention, deduction, etc.
+Social for debate, argument, intimidation, etc. 
+Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
+
+In addition to the Primary group, the player also chooses a Supporting group defining how their character is attempting to perform the action. For example:
+Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
+Using facts and logical argument in a debate would be a Mental assist to a Social action. 
+Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
+Attempting to triumph through raw persistence would be an Endurance Supporting.
+Dice
+When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary group for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
+Adding Dice
+Spending Power
+By spending Power from the roll, extra dice can be purchased one-for-one, up to a total of both Abilities combined.
+Spending Effort
+Dice can be purchased with Effort at a two-for-one rate, up to a total of both Abilities combined, including with the above.
+External Bonuses
+Prepare Actions, Gear, Supporting Reactions, Chaining, and so on can apply extra Dice, up to a combined total from all sources of double the above limit.
+Spending Dice
+All of the following options can be taken multiple times.
+Guaranteeing Dice
+By spending two dice, the player can add a Success to the final roll, maximum 4.
+Increasing Tier
+By spending 8 dice, the Tier of an Action may be increased by 1, before rolling.
+Talents/Traits
+A character’s Talents or the Traits of an Asset or Challenge involved may allow or require the player to spend Dice in exchange for some other effect.
+Dice Limits
+Recap:
+For the Action being rolled, the player chooses a Primary and a Supporting Ability group. 
+The Action starts with the Primary Action Ability’s rating in dice.
+An additional amount, up to the Supporting Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
+Outside sources may add extra Dice until the total number of dice is equal to double the above total, including dice that are being spent.
+
+No attempt may physically roll more than ten dice. If an attempt has more than ten unspent dice when rolling, the extras are lost to no effect.
+Difficulty
+The difficulty of a roll is the number of successes required for the attempt to have any effect. This is 1, unless stated otherwise. Each success above the Difficulty grants 1 additional Power.
+Fortune
+A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power does not count against the normal caps, and may be spent on any normal effect at any time, even if they would normally have to be declared before rolling, such as rolling additional dice or guaranteeing successes by turning failed dice into successes.
+Power
+The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary group before accounting for bonuses or penalties.
+
+Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
+
+If penalties or mitigation from Reacting characters, passive defenses, or Resilience of challenges result in Power being reduced to 0, the Action fails and has no effect.
+Spending Power
+Power may be spent to improve the dice roll, or buy additional effects for a successful attempt that aren’t direct progress on the objective.
+Extra Dice
+Before rolling, pay 1 per die, as above.
+Conditions
+After rolling, the player may choose to trade Power for a lasting benefit to themselves or an ally, or a negative effect on an opponent or challenge. The cost of this varies with the strength of the Condition.
+Tier
+After rolling, the player may choose to trade 8 Power to increase the Tier of the roll.
+Tier
+The Tier of a roll relates to the scale of the Action it is part of, how large and significant of a challenge or opponent it is capable of meaningfully affecting, and the duration of its effects.
+
+Long-term Projects and Crises, large-scale Obstacles, and powerful opponents need Actions of a certain Tier or higher in order to be affected at all, and if an Action is opposed by a Reaction of higher Tier, it automatically fails as if it rolled 0 successes and had 0 Power.
+Spending Tiers
+If an Action has a higher Tier than is required to succeed, the surplus Tiers can be spent on additional powerful effects. If multiple Tiers are being spent, no single effect can account for more than half of the spent Tiers, rounded down.
+Raising Damage
+If an attack would deal damage to one of a target’s PA tracks, instead deal damage to a higher track (APA → SPA → NPA). If it would already damage their highest track, they are defeated instantly.
+Negate Difficulty
+Set the Difficulty of an Action to 0, including the effects of any opposing Reactions. 
+Negate Resistance
+Remove any penalties to Power from an Action, including the inherent Resistance of a Challenge, or any opposing Reactions.
+Multitasking
+The same roll can also be applied to an additional Action for no AP cost. Spending additional Tiers adds even more extra Actions.
+Area
+If the Action has targets or affects an area, increase the size of that area, increasing from Single Target → Engagement → Entire Zone → Adjacent Zones → Entire Scene
+
+Increasing above Full Scene may have narrative-scale effects, but will not immediately impact the scene.
+Goal Reinforcement
+The player may choose to increase the amount of Impact committed to a Goal within the Scene by 1, either as Investment or Bonus.
+Negate Spillover
+High-Tier Actions have Spillover effects, below. Each Tier spent on this Bonus reduces the effective Tier of the Action by 2 when determining Spillover effects. The normal limit on purchasing Bonuses does not apply, but the effective Tier cannot be reduced below 0.
+Raising Tiers
+An Action’s Tier can be raised before rolling by Major Talents, Ascended Abilities, or outside assistance applied for the Action, or after rolling by spending 4 Successes, 8 Power, an Ascension Token, or using high-Tier Gear.
+Granted Bonuses
+Some effects, such as the Lethal trait on attacks, give the effects of a spent Tier directly. These do not count as Tier increases for the purposes of Spillover or the Success threshold for an Action, but they do count for purchasing effects. For example, a Lethal attack already has the “Raise Damage” bonus. To apply it a second time, the Action would have to be raised three Tiers, for a total of four “spent tiers”.
+If an Action has multiple such bonuses, they each count towards this total, thus a Lethal Area Attack would only need two more Tiers before another could be spent on raising damage.
+
+If these are expended simply meeting the minimum Tier for the Action, as Lethal might be to reach an appropriate Tier for damaging a tough opponent, the above does not apply.
+Spillover
+High-Tier Actions are massively powerful, and rarely clean of any side effects or collateral damage. To represent this, apply a second, related Action with the same roll to either the surrounding environment or nearby characters, spending as many Tiers (min. 1) on Area as needed to appropriately represent the consequences.
+
+This is not necessarily harmful to the player’s intent, and it should fall to the acting Player to declare the form it takes. For example, it is perfectly reasonable to suggest that enemy Minions got caught in the middle of a barrage against a more powerful adversary. However, as with all things, narrative consequence should reign supreme, and Players deliberately choosing negative (or at least heavily complicating) side effects should be rewarded with Ascension Tokens.
+Compromised Success
+If an Action fails to succeed, lacks enough power to overcome Resistance and have any effect, or has insufficient Tier, the player may choose to succeed at a significant price instead of outright failing. The consequences should be agreed upon with the rest of the player group and be worked into the circumstances of the Scene. As a rule of thumb, spend the amount of Power required to guarantee the missing successes, and shortfall in Tier, then combine that cost with any shortfall in Power and double the total. Apply this result as Conditions or unmitigated damage to the character, representing extreme measures the character was forced to resort to, or bad luck on their part. 
+
+For example, a character attempting to hide may have found the only viable “cover” was out of the window… of the third floor. Or, when jumping to clear a gap, come short and have to free a hand to catch themselves, dropping equipment and becoming Disarmed.
