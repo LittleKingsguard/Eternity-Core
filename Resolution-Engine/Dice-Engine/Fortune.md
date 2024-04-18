@@ -1,0 +1,1 @@
+A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power does not count against the normal caps, and may be spent on any normal effect at any time, even if they would normally have to be declared before rolling, such as rolling additional dice or guaranteeing successes by turning failed dice into successes.
