@@ -1,0 +1,1 @@
+An Ascension Token may be spent at any point in a roll to upgrade the tier. Only one my be spent on a given roll.

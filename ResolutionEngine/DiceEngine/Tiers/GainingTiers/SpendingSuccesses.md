@@ -1,0 +1,1 @@
+By spending 4 successes, the Tier of a roll may be upgraded before or after rolling.

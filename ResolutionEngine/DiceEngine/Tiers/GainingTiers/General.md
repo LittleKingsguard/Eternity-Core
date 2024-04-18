@@ -1,0 +1,1 @@
+Increases in Tiers are referred to as "upgrades". Unless explicitly noted otherwise, each upgrade only increases Tier once. However, multiple uses from the same category stack. For example, 16 Power can be traded for two Tier upgrades.

@@ -1,0 +1,1 @@
+Dice can be purchased with Effort at a two-for-one rate, up to the soft cap.

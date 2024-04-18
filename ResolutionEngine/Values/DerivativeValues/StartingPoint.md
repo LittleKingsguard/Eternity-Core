@@ -1,0 +1,2 @@
+Any Derivative Value starts as equal to the Primary or most relevant of the two base values chosen. If this distinction is not made, then use the highest of the two.
+Spending may take this value lower than this point. 

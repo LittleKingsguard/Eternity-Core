@@ -1,0 +1,1 @@
+By spending three dice, the player can add a Success to the final roll.

@@ -1,0 +1,1 @@
+All options in this category must be decided when a roll is declared.

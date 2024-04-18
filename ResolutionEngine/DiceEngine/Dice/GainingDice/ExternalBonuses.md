@@ -1,0 +1,1 @@
+Prepare Actions, Gear, Supporting Reactions, Chaining, and so on can apply extra Dice, up to the hard cap.

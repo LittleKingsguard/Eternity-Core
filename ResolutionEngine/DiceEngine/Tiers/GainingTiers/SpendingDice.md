@@ -1,0 +1,1 @@
+By spending 8 Dice, the Tier of a roll may be upgraded before rolling.

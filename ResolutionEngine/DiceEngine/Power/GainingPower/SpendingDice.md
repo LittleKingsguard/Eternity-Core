@@ -1,0 +1,1 @@
+By spending Dice from the roll, extra Power can be purchased one-for-one, up to the soft cap.

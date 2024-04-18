@@ -1,0 +1,1 @@
+If an Asset is used for a roll, the Tier is upgraded. This cannot result in the final Tier being higher than the Asset's.

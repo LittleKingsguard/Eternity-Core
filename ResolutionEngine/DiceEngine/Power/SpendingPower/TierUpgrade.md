@@ -1,0 +1,1 @@
+By spending 8 Power, the Tier of a roll may be upgraded before or after rolling.
