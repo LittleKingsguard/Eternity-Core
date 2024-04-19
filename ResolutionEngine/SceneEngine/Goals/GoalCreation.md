@@ -1,0 +1,3 @@
+The acting player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may invest both Agency and Impact across those Goals. Each Goal must have at least one Agency and 1 Impact, and the player is not required to spend all of either. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability.
+
+Each goal is represented mechanically by a Obstacle, Crisis, or Minion that must be overcome to achieve the Goal in question, with Difficulty (for Obstacles/Crises) or Dice (For Minions) equal to the Agency of the Goal

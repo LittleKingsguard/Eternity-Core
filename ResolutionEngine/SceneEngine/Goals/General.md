@@ -1,0 +1,3 @@
+A Scene Goal is something a player introduces into the Scene when their character starts or joins the Scene, and presents an opportunity to advance their plans or otherwise benefit them or harm an adversary. 
+
+When creating the Goal, the player describes what they want to accomplish, such as attacking a rival or acquiring an Asset, and then *dictates* the existence of something in the Scene that, if handled appropriately, will fulfill that objective. Depending on the nature of the objective, their knowledge of the target, and the secrecy of the Scene, the character may or may not know the details or existence of the Goal, but it does exist. They're in the Scene for a reason, after all.

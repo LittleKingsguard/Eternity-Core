@@ -1,0 +1,1 @@
+Remove any penalties to Power from an Action, including the inherent Resistance of a Challenge, or any opposing Reactions.

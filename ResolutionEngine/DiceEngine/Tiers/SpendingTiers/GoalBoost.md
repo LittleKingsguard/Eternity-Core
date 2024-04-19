@@ -1,0 +1,1 @@
+The player may choose to increase the amount of Impact committed to a Goal within the Scene by 1, either as Investment or Bonus.
