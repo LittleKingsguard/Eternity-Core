@@ -1,0 +1,7 @@
+If introducing a Scene Goal as an Obstacle, the Difficulty equals half of the amount of Agency invested in the Goal, and the Resistance is equal to the Impact invested. It is three Tiers greater than the Goal itself, or two Tiers greater if it is also a Lethal or equivalently risky Hazard.
+
+Overcoming the Obstacle completes the Goal. This usually requires a Project considering the high Tier of the Obstacle.
+
+Design notes:
+Obstacle Goals are a mechanical structure for any non-interactive challenge to overcome. While this can include physical barriers such as cliffs, walls, or security systems, it may also more abstractly be investigating a well-concealed crime scene, impressing the attendees of a party, and so on.
+The adjustment of an Obstacle's Tier is so high because by default Obstacles lack any form of time constraint or punishment for failing an attempt, thus the Tier of the challenge (and, by extension, the number of Project steps required) is the primary means of making the challenge appropriately time-consuming and/or resource taxing. If the Obstacle does have a time constraint (ex. a Crisis on the other side of the Obstacle) or has punishments for failure (ex. is also a Lethal Hazard), this Tier adjustment may be reduced.

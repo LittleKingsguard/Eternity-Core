@@ -1,0 +1,1 @@
+All values are rounded up during division unless otherwise noted.
