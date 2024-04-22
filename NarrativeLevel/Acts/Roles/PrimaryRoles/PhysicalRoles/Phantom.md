@@ -1,0 +1,1 @@
+If another character attempts to detect or investigate a non-Overt Physical Action by the Phantom, the Phantom Opposes it passively.

@@ -1,0 +1,1 @@
+If, during a Physical Scene, the character would lose Stealth completely as the result of an Overt Action or other effect, they instead have the Stealth condition downgraded one level.
