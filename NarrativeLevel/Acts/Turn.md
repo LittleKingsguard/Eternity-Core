@@ -1,0 +1,1 @@
+When the Priority count reaches a character's Priority, they may choose to either delay until a later count, or start one Scene at no cost.
