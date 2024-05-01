@@ -1,0 +1,1 @@
+A roll may benefit from bonuses from multiple sources. However, if multiple bonuses are applied from the same type of source (ex. Assets, Supporting Reactions, Chaining, etc.) the player may only use one of the available Dice/Power pairs, and it must come from the highest Tier available. Any traits possessed by the other sources are still applied.
