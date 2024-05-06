@@ -1,0 +1,1 @@
+Preliminary Objectives are the necessary middle steps the Heroes or any Adversary must complete before they can make a direct attempt at the final Objective. While the exact requirements may vary depending on the decisions made when framing the story, the defaul assumption is that there should be at least one for the Heroes and for each Adversary.
