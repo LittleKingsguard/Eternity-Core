@@ -1,0 +1,3 @@
+Events are a way for the setting to change between Acts, and a way for characters to distance themselves from the results of their Projects. Events take place in a random order at the end of the Act.
+
+A completed, Narrative-level Crisis typically adds an Event, and players may choose to make the results of a Project an Event instead of immediate. Doing so makes any link to the character(s) responsible Secret, even if the effects would normally be Overt. If it would already be Secret, the character's Defense when using it as a Lead is upgraded.

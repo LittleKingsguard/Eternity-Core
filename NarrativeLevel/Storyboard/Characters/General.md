@@ -1,0 +1,1 @@
+The spaces for Characters on the Storyboard show all information about the characters that is public knowledge, or required for game flow, such as Priority. Character sheets have their own private board to track secret knowledge of other characters, Assets, and events.

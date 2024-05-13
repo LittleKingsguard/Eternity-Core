@@ -1,0 +1,3 @@
+A scene ends and play returns to the Narrative if the players of all remaining characters present agree there are no more useful actions to be made, including if all characters have left.
+
+At the end of the Scene, any completed Goals are tallied up and assessed as under [Scene Resolution](https://github.com/LittleKingsguard/Eternity-Core/blob/8487a87b348ba463a9237bb567457a3392376ce9/ResolutionEngine/SceneEngine/Goals/SceneResolution.md), then all characters not part of the Scene learn of any Overt events that occurred during the Scene and any knowledge relevant to them. Finally, play resumes in the Narrative level.

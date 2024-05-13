@@ -1,0 +1,1 @@
+When the Initiative count reaches a character's Initiative, they may choose to either delay until a later count, or take one Action at no cost. They may then take additional Actions on any later count by spending AP.
