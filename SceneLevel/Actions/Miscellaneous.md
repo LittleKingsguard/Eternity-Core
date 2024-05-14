@@ -1,0 +1,1 @@
+An action that doesn’t fit any others described succeeds automatically without a roll, unless opposed.

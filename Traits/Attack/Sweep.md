@@ -1,0 +1,1 @@
+A Sweep Attack may target any number of characters in reach (usually Engaged), in an order of the attacker’s choice. The same roll is used for all targets. However, if any damage is dealt after Oppose Reactions or if a character mitigates it with a Parry, that much Power is reduced from the roll against all subsequent targets.

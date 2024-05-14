@@ -1,0 +1,3 @@
+A character may choose to Track another character if they are Hidden or Undetected by the target character when the target leaves a Scene. This lasts until the target character enters a Scene that the other character does not follow them into, the target character ends a Scene Hidden or Undetected by the tracker, or they identify the tracker during a Scene.
+
+The tracking character may always choose to initiate a Scene targeting the Tracked character, or Join a Scene they participate in. The Tracker starts Undetected by their target, but the Target can only be Hidden from the Tracker. The Tracker also begins with a Lead on their target's location.
