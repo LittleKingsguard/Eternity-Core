@@ -1,0 +1,3 @@
+Control effects use a Dilemma to force characters to take a certain Action, start or join a certain Scene, or other effect. This usually a Mental or Social roll that represents persuasion, manipulation, blackmail, or simply arranging the situation such that the option the controller want the target to choose is genuinely the best (or even only viable) path forward.
+
+As with Influence, the scale of the future actions a Control Dilemma can affect depends on the PA track affected.

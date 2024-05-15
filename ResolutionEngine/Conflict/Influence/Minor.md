@@ -1,0 +1,1 @@
+If the Influence has presence in the SPA track, it may modify existing Minor Intimacies or create new ones.

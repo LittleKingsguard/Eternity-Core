@@ -1,0 +1,7 @@
+Pure Social conflict does not directly try to harm a target, merely change their outlook and opinions. For the purposes of tracking and resolution, however, an attempt to influence a character still uses similar mechanics to an Attack, merely carried out with words and appeals in place of violence, with the caveat that a Social influence roll will always have an associated Dilemma, usually forgiving all related damage if the target changes their Intimacies or takes an Action the influencing character is attempting to encourage. This damage represents the distraction and morale loss that comes from a mind clouded by convincing argument or conflicted emotion, and so fades away when the target has made a decision.
+
+Intimacies represent what a character values and how they see the world, and a major use of social conflict is to sway others into agreeing with one’s own perspective, or at least moving them away from opposing it.
+
+The Dilemma imposed by the Influence attempt and its related damage may affect the target depending on the severity of the highest track its associated damage is on.
+
+If an Influence attempt aims to change an existing Intimacy, that Intimacy always resists it. It is thus recommended to first instill a new, conflicting Intimacy that can be leveraged against the original one.
