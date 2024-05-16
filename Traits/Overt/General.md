@@ -1,0 +1,3 @@
+Overt effects are very obvious and will tend to ruin Stealth or attempts to remain mysterious. If another character could perceive an Overt Action, Asset, etc., they may passively React to Discover it. If they choose to actively React, the attempt is Upgraded. Similarly, Overt effects leave more traces than more subtle methods, and Discover Attempts to turn Leads into Evidence are Upgraded.
+
+If an Action or other effect is Overt for multiple reasons, this is cumulative. For each Overt trait after the first, all such attempts, including Passive Reactions, are upgraded.

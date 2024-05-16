@@ -1,0 +1,3 @@
+A character may have an Offense faked for them by another character. This is treated as an Acquire Action, on which the character must pay Tiers equal to the target's Defense Tier. On a success, the character commits an Offense, but also acquires Evidence that the target was responsible.
+
+This is still an Offense committed by the acting character, and investigation from other characters, including the target, may reveal the deception and generate their own Evidence against the acting character.
