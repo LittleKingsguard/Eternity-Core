@@ -1,0 +1,1 @@
+An Obvious Action, Talent, or Asset will be recognized immediately, but lacks the loud or flashy quality that would make an effect fully Overt. An Obvious Action is treated as Overt, but only by characters the acting character does not have Stealth against.
