@@ -1,0 +1,1 @@
+Abilities may be investigated similarly to Talents.

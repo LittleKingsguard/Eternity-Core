@@ -1,0 +1,1 @@
+See [Evidence](https://github.com/LittleKingsguard/Eternity-Core/blob/d68a05997db9e2fb0771dd0b17dd2345b67dfdfc/ResolutionEngine/Conflict/Investigate/Evidence.md).

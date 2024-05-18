@@ -1,0 +1,3 @@
+See [Leads](https://github.com/LittleKingsguard/Eternity-Core/blob/d68a05997db9e2fb0771dd0b17dd2345b67dfdfc/ResolutionEngine/Conflict/Investigate/Leads.md) for base rules. If a character witnesses an unknown Talent, Asset, Intimacy or Flaw being invoked, they gain a Lead on Discovering it. If it is Obvious or Overt, they instead Discover it immediately.
+
+Witnessing an unknown character outside of Stealth or Discovering information about them grants a Lead on their Identity.

@@ -1,0 +1,1 @@
+If one Tier is spent increasing the scale, the Trap instead blocks the targeted act for the full duration of the Scene, or until it first triggered. 

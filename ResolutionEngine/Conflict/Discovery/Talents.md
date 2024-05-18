@@ -1,0 +1,1 @@
+A Talent can be identified as a Reaction whenever it is invoked during a Scene, or as a Scene Goal if it is invoked while starting the Scene. It may also be Discovered with Actions or Goals as normal by gathering evidence, following stories of past use or instruction, and so on. 

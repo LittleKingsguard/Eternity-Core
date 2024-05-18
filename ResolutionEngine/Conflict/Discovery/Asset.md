@@ -1,0 +1,3 @@
+Assets typically have three qualities an investigating character might need to know to destroy, steal, or counter them: location, type, and effect. Each must be discovered individually, unless the Asset is in use in the Scene. An Asset's Type is Obvious, as is it's Location if it is incapable of being moved between Scenes.
+
+An Asset cannot be forced into a Scene as a target unless its location is known, and Scene Goals cannot be established against it unless both its Type and Effect are known.

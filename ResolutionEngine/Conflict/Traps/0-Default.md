@@ -1,0 +1,1 @@
+If no Tiers are spent increasing the scale, a Trap can only impact the very next Action the target takes. A different character may attempt to Counter this before that Action is taken.

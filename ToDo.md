@@ -5,4 +5,4 @@ Add Scheming when migrating Project rules
 Generalize Traps out of Mental to allow for more deception-based uses
 Add examples of Objectives
 Add Escalation rules
-Add rules for destroying or discrediting Evidence
+Add rules for summoning Guards when Offenses are committed
