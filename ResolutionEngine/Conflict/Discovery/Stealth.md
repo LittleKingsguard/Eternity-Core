@@ -1,0 +1,3 @@
+If a target is in Stealth, a character may React to any Action they take to Discover their location. If the target is not benefitting from cover, concealment, or disguise, this succeeds as a Miscellaneous Action and the target loses Stealth. Otherwise, this is a normal Discovery Dilemma.
+
+If the target is Concealed or Hidden instead of Undetected or Unknown, the character can also attempt this as an Action. This is upgraded if the target is in the same Zone or within sight.
