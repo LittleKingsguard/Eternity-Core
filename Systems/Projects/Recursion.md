@@ -1,0 +1,1 @@
+A Project may itself be advanced by other, smaller Projects. However, if a Project that is advancing another Project suffers a setback, the Redundancy of both Projects gets lowered.

@@ -1,0 +1,1 @@
+If an Action/Scene used to advance a Project has remaining Power after applying Resistance, this is attached to the Project as Progress, and becomes a generic bonus on the next attempt.

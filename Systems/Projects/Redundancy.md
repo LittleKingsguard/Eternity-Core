@@ -1,0 +1,5 @@
+Projects have a Redundancy score, each point of which increases the Difficulty by 1 or the Resistance by 2 (but not the result of the completed Project). If this would raise it above its maximum value, reduce and raise the required Tier as normal, also without changing the final result of the Project. 
+
+If a Project would suffer a setback, either as the result of a failure on a Progress attempt or due to another character successfully targeting the Project with a hostile Progress Action, the Redundancy is reduced by 1. If this would reduce it below 0, the Project instead fails outright.
+
+With the GM/tables's permission, in place of the Project's failure, the player may choose to introduce desperate measures to continue the Project, causing te Project to become Overt, involve an Offense, require sacrificing an Asset, or similar drawback.

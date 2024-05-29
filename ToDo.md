@@ -6,3 +6,4 @@ Generalize Traps out of Mental to allow for more deception-based uses
 Add examples of Objectives
 Add Escalation rules
 Add rules for summoning Guards when Offenses are committed
+Add Bonus Types and Generic Bonuses
