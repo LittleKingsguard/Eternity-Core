@@ -1,0 +1,7 @@
+For the sake of simplicity, Eternity Ascendant prefers to reuse the same systems in different contexts rather than invent new special-purpose rules.
+
+Conflict scenes and Actions are intended to cover all varieties of Man vs. Man plots, from violent combat to games of wits or social debate, using the same basic framework of damage and dilemmas. As an example, an investigation is the Detective “attacking” the Criminal by trying to find evidence to prove their identity, while the Criminal Reacts by retroactively declaring what they did to confound the Detective, using their own Actions to retroactively falsify evidence that throws them off course. If this interaction is repeated enough, this “damage” will accumulate until one of them starts getting uncomfortably low on Plot Armor and submits the Dilemma, sending the Criminal on the run or the Detective permanently off the scent. Expending Plot Armor in this sense is then inventing ways in when a particular piece of evidence wasn't quite as conclusive as the opponent wished, the judge was caught in an unfriendly mood, and so on.
+
+In cases that aren’t supposed to have lasting consequences for a character’s presence in the story, such as a friendly competition or wager in a game of wits, invoking a Dilemma to erase the damage makes for a “battle to first blood”.
+
+Likewise, Obstacles, Hazards, and Crises are intended as adaptable tools for emulating Man vs. Nature/Environment conflicts, or more impersonal examples of Man vs. Society.

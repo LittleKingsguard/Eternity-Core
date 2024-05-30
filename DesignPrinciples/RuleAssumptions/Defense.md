@@ -1,0 +1,3 @@
+A character may always attempt to defend a Conflict Action or Scene, so long as they are at least aware of the possibility, have a reasonable means of defending, and have the AP/SP available to spend. This may even take the form of flashbacks to retroactively declared actions, or routine behaviors that happen to complicate the opposed action. 
+
+For example, a criminal opposing a detective’s investigation of the crime scene by elaborating on how they cleaned up the evidence they’re searching for, or a routine patrol happening to interrupt an assassin’s attempts to infiltrate their target’s estate.

@@ -1,0 +1,3 @@
+When an action, reaction, or scene introduces a minor element of scenery or setting information, or takes advantage of a some detail previously established by another event, this establishes a Chain, giving that attempt a +1 generic Bonus. This bonus grows as other attempts Chain off that one, going to +2 on the second follow-on attempt to +3 on one that follows on from that one, and so on.
+
+Any active (passive Reactions do not count) attempt may be chained off of, regardless of success, failure, or the character who started it (as long as you can explain the connection), but a Reaction to oppose a Chained attempt cannot benefit from the same Chain.
