@@ -1,0 +1,1 @@
+A Delayed effect is one that has significant amounts (at least one Round) of lag between when it is triggered and when it takes effect, and provides reasonable options to escape or avoid before it does so. In exchange, it is far more powerful than normal.

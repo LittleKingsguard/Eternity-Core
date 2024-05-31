@@ -1,0 +1,1 @@
+An Action using this Delay triggers at the end of the Scene if it has not yet been dealt with, and has its Tier increased by 2.

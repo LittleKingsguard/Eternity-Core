@@ -1,0 +1,1 @@
+This follows the same rules as the Scene Round Delay, but at the Narrative scale, and its Tier is increased by 3.

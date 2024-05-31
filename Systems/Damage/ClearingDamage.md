@@ -1,0 +1,1 @@
+If a PA track is completely filled, the track is instead reset to 0 damage, and 1 point of damage is dealt to the next highest track (Action --> Scene --> Narrative). The Narrative track cannot be cleared.
