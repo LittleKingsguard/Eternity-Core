@@ -1,0 +1,1 @@
+To Overcome an Obstacle is simply to get past it, and is usually the easiest means of interacting with it. The Obstacle is still present, and if the character later has to deal with it again, they must Overcome it again. If an Obstacle only has one rating given, it is rating to Overcome it.

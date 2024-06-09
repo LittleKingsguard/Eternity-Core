@@ -1,3 +1,5 @@
 An Obstacle is distinct from a Crisis in that it will not change without active intervention. A cliff, locked door, trapped hallway, minefield, or puzzle would all be Physical Obstacles, while more abstract issues such as social conventions regarding access to important people, broaching of strong taboos topics, puzzling out complex systems and academic/scholarly questions might be Social or Mental Obstacles.
 
 Obstacles have Tier, Difficulty, and Resistance just like most tasks, however they are often of a Tier significantly beyond what a character could reasonably accomplish in a single Action, requiring a Project instead.
+
+Obstacles can be overcome, bypassed, or destroyed.
