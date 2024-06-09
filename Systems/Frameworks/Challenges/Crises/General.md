@@ -1,0 +1,3 @@
+A Crisis represents an entity or circumstance in the Narrative or Scene that actively changes if left to its own accord. Fires, floods, time bombs, poisons, epidemics, etc. are example Crises. More abstractly, a social issue with no clear leaders or structure, such as a panicking crowd, unruly mob, or crime wave may be run as a Crisis.
+
+ A Crisis, mechanically, is treated as a self-advancing Project, automatically succeeding at progress attempts at a defined pace, typically once per Round/Act. A Progress Action can be used to either prevent the Crisis from advancing that Round, or reduce its Persistence by 1.

@@ -1,0 +1,1 @@
+Unlike in a Project, a Crisis’s Progress is gained from and applied as a generic bonus to Actions/Scenes meant to manage the Crisis.

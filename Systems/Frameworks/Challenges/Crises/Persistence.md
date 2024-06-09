@@ -1,0 +1,1 @@
+The Persistence of a Crisis is the counterpart of a Project’s Redundancy for attempting to combat the Crisis. Characters attempting to stop the Crisis may take Progress Actions/Scenes to reduce the Persistence by 1. If this would reduce the Persistence below 0, the Crisis is stopped.

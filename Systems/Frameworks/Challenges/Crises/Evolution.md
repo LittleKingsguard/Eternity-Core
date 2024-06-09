@@ -1,0 +1,3 @@
+A Crisis’s Evolution trait defines when it advances, and what occurs on completion. This is not necessarily negative; a crisis that simply disappears when completed could be used to track a Hazard that will naturally disappear with time, such as a passing storm, or a fire burning itself out.
+
+A Crisis might also replace itself with another, bigger Crisis on completion, such as a fire spreading to additional Zones, herald the appearance of a powerful Minion or Adversary, or even transcend the Scene and become a lasting problem in the Narrative level.

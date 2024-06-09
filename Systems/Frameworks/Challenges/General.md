@@ -1,0 +1,1 @@
+Challenges are environmental concerns, barriers, hazards, and growing threats that lack any agency to be interpreted as a character, but still affect the world and how characters engage and progress through it.
