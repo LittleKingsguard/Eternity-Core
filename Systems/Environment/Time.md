@@ -1,0 +1,1 @@
+The length of any given Action, Round, or Scene is variable depending on the nature of what is being done, but largely scales with Escalation: a Tier 0 Action might take seconds to a minute or two in a Scene that take a minute to an hour; while gods and empires acting at multiple Escalations might spend years on a single Attack.

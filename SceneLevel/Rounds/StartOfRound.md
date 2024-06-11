@@ -5,3 +5,5 @@ After this, AP may be spent on increasing character's Initiative point-for-point
 Then, on on all Rounds after the first Round of a Scene, all characters may choose to Drift.
 
 After this, the Round proceeds by Initiative countdown.
+
+TODO: #9 Link Drifting

@@ -1,0 +1,1 @@
+Characters may “move” within the Zone they occupy as part of any Action they take, becoming Engaged with or Threatened by any other characters or Hazards within the Zone, unless another character Opposes them and prevents their Action.

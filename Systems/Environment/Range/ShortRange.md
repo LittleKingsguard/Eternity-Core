@@ -1,0 +1,1 @@
+A Short Range Action can be taken at any distance, but the Difficulty is increased by 1 for each Zone they are from the target, including their own. They take no penalty and do not need to be Engaged with a target in their own Zone, a -1 penalty with a target in an adjacent Zone, and so on for further Zones.

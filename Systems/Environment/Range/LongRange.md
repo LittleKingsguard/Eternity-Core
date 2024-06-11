@@ -1,0 +1,1 @@
+A Long Range Action takes no penalty for any distance within the Scene.
