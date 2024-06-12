@@ -1,0 +1,3 @@
+The Physical Ability defines how capable the character is in motion and physical action.
+The Action half corresponds to agility, grace, manual dexterity, and finesse, and high Difficulty on Physical Actions represents a task requiring extreme precision and/or speed.
+The Effort half corresponds to brute strength, stamina, and toughness. High Resistance on Physical Actions represents a task that requires the character to use or withstand incredible force.

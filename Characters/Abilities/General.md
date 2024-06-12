@@ -1,0 +1,3 @@
+A character's Abilities are their primary relevant statistics, and provide the starting values and caps for all relevant game attributes, including AP/Effort, SP/Resources, Dice/Power, and Plot Armor. Each Ability is a pair, one side boosting AP/SP/Dice, and another boosting Effort/Resources/Power.
+
+Higher is better, and no Ability can be below 0. A character cannot raise any Ability above 5 without choosing a valid Transcendence effect for that Ability. A character must have the four Core Abilities or functional equivalents, and may unlock additional ones with the purchase of a Major Talent for that Ability.
