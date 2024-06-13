@@ -9,3 +9,4 @@ Add rules for summoning Guards when Offenses are committed
 Add Bonus Types and Generic Bonuses
 Add Saves somewhere
 Add details for Expanded Abilities -- May be pending setting-specific forks
+Add Dramatic Loss rules

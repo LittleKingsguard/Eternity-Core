@@ -1,0 +1,3 @@
+A character's Defense Tier is the minimum Tier any hostile Action against them must be in order to have any effect at all. Effects that upgrade the Damage of an Action stack with the Action's Tier for this purpose.
+
+The Defense Tier starts at 0 and cannot be reduced lower. It can be raised with Major Talents or by reducing the character's effective Persistence ratings by a total of 4 when calculating the character's Plot Armor. This may be done repeatedly.

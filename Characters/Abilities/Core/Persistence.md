@@ -1,4 +1,4 @@
-A character's Persistence is their ability to persevere despite setbacks. 
+A character's Persistence is their ability to persevere despite setbacks. While a character cannot use Persistence as the Primary Ability for an Action, it is always the Primary Ability for Saves.
 
 The Action half corresponds to luck. While there are no Persistence Actions, a character with high ratings here might have their Persistence-Supported Actions narrated with convenient flukes of luck and chance, or, when expending PA, contrive seemingly-random coincidences or interference that aid them or foil an enemy's action.
 The Effort half represents willpower and determination. A character with high ratings here might have their relevant actions described in terms of powering through adversity or "giving 110%".

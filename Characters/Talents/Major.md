@@ -1,0 +1,1 @@
+A Major Talent is a powerful effect that typically raises the Tier of a valid Action using it and may unlock the use of an Extended Ability. 
