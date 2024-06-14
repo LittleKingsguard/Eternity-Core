@@ -1,0 +1,3 @@
+Conversely to their expendability, Assets are typically easier to gain in the first place than Talents are. Acquiring a new Asset is an Action with D/R equal to its total Bonus and three Tiers higher. Upgrading an existing Asset is easier, being only two Tiers higher than the final Asset’s. In either case this is usually done with Projects, due to the high Tier required.
+
+Willing characters may freely trade most Assets between Scenes.

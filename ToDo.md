@@ -10,3 +10,4 @@ Add Bonus Types and Generic Bonuses
 Add Saves somewhere
 Add details for Expanded Abilities -- May be pending setting-specific forks
 Add Dramatic Loss rules
+TODO: #11 Consider how to handle Defense Tier advancement
