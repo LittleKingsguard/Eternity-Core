@@ -1,0 +1,1 @@
+An Access Asset allows characters to enter a Restricted or Confidential Scene or bypass significant Obstacles without extra effort, and would include tools such as security passes or  keys (genuine or forged), arrangements with smugglers or inside men, or even pre-prepared secret entrances established during an earlier break-in.

@@ -1,0 +1,1 @@
+If Capital can be leveraged to acquire materials, work environment, access, or other benefits toward acquiring another Asset, its bonus applies. Capital can also be expended as part of a Scene Goal to transform it into an equal or lesser Asset of a different type upon successful resolution of the Scene, including as a Flashback or Cutaway Scene.

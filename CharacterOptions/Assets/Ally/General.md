@@ -1,0 +1,1 @@
+An Ally Asset is another significant character who is willing to directly assist, but does not have any motivation that would justify them joining the Narrative as a separate PC or Adversary. When adding the Ally, describe why they want to assist the character (duty, favors owed, love, money, etc.), loose details of background, and specialty.

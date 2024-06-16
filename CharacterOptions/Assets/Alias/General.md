@@ -1,0 +1,3 @@
+An Alias is a constructed, consistent alternate identity that a character may choose to assume when entering Scenes to avoid any Offenses or information being traced back to their real identity. An Alias can have other Assets attached to it, but by doing so they cannot use them “out of character” or risk compromising the alias.
+
+An Alias is often used by criminals, spies, vigilantes, and other people who have good reason to keep their personal and professional lives completely separate, and typically requires some combination of a disguise, a known reputation within a community, forged documents, and strong acting skills to sell that the two identities are entirely different people.

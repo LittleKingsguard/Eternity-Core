@@ -1,0 +1,1 @@
+Capital does not have any default traits.

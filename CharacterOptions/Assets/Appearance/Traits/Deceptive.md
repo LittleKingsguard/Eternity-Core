@@ -1,0 +1,3 @@
+A Deceptive Appearance leads observers to make false assumptions about the character, their status, skills, or life experience. A “professional” craftsman might dress the part while actually knowing very little about their role, or a skilled fighter or manipulator might present as far more naive and innocent than they really are to lead others to underestimate them. The Asset is still Overt, but this nature of it is Confidential, and will only be learned by other characters if they specifically investigate it, or the deception is used against them.
+
+However, if the Asset is used in any Overt Action that is sufficiently public, it will be expended as the reality becomes common knowledge.

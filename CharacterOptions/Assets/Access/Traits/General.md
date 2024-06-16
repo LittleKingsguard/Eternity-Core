@@ -1,0 +1,1 @@
+By default, Access is Confidential, and as long as any serious attempt at Stealth is made, trying to learn anything about how the character got in or out will require active Investigation. Use of illegitimate Access such as forged or stolen documents or keys is always an Offense.

@@ -1,0 +1,2 @@
+Cost: -- or +1 Tier if Asset has other uses 
+A Nondescript Appearance hides anything remarkable or identifying about the character, and thus benefits Social rolls to blend into crowds or avoid notice in non-combat Scenes, and acts as armor against investigation from characters that can perceive them, passively Opposing attempts to reveal information about them, except for Talents and Gear currently being used. This is not Overt.

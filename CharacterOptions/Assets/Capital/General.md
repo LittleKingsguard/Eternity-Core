@@ -1,0 +1,1 @@
+A Capital Asset is something valuable in the financial sense, but typically doesn’t affect the character’s day-to-day life. This can be a large sum of money saved away, deeds to valuable land or property, shares in or ownership of a business, or expensive trade goods they have stored or hidden away. Capital is extremely useful, though mostly in the acquisition of other Assets.
