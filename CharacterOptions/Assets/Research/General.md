@@ -1,0 +1,3 @@
+Research consists of specific, focused knowledge that may be relevant to an opponent, Challenge, or Project the character is facing, such as a case study on prior attempts at similar tasks, or specialized training on how a specific type of enemy fights. It is generally Confidential when Research is used, and even the target of an Action benefiting from it might need to actively investigate to realize what is going on.
+
+Research can be used to benefit Actions similarly to the bonuses of a Prepare Action.

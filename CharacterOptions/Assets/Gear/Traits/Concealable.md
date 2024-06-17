@@ -1,0 +1,2 @@
+Cost: +2 D
+A Concealable item can be stored discreetly on a character’s person when not in use. Until the character draws it out as an Action, the difficulty of identifying or detecting it is increased by 1 Tier, and if it would normally be Overt, that trait is reduced to Overt-Use.

@@ -1,0 +1,1 @@
+When creating or otherwise acquiring a new Gear Asset, describe its form and purpose (ex. Weapon, armor, tool, etc.) to define the circumstances the Asset can be used for. Gear Assets generally either cannot be used without expending them, or gain nothing from being expended, depending on traits chosen.

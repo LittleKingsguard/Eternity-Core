@@ -1,0 +1,1 @@
+Most Talents are only active when they are specifically being used. These come in several varieties, depending on the benefits provided, how long the effects last, and in what time scale they are used.

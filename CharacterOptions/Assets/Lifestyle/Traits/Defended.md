@@ -1,0 +1,2 @@
+Cost: +1 Tier
+If attacked or infiltrated, the Asset is protected by a full encounter of guards of the appropriate Tier, or otherwise requires a Hazardous Project of the appropriate Tier to force entry.

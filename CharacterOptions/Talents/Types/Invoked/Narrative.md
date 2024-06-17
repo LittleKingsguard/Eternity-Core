@@ -1,0 +1,1 @@
+Narrative Talents can only be invoked in the Narrative scope when starting or joining Scenes. They can either be Simple or Scaling, and if they provide a benefit in a Scene when they are invoked, it cannot be canceled and may only be Countered by an Action of Tier higher than the minimum required by the Scene’s Escalation.

@@ -1,0 +1,1 @@
+Gear does not have default traits.

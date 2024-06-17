@@ -1,0 +1,1 @@
+Followers themselves are as Overt as they are played in-Scene. However, their affiliation with the character is Confidential, unless they are detected in the same Scene.

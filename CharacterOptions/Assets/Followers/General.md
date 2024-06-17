@@ -1,0 +1,1 @@
+Followers behave similarly to an Ally, except that a Followers Asset correlates to a larger number of individually less competent Minions.

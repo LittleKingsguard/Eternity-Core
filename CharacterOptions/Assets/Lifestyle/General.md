@@ -1,0 +1,1 @@
+Lifestyle Assets represent housing, amenities, daily life places they’re accepted regulars at, and so on. By default, Lifestyle Assets always have the Recovery use, and may have more uses added by their Traits.

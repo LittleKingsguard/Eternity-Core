@@ -1,0 +1,2 @@
+Cost: +1 D or +2R per copy
+The item is actually a set of identical lesser items, such as a belt of grenades, or a redundant rack of tools, giving the character multiple uses of otherwise Single-Use or Long-Load items, or letting them use multiple at once or equip allies with spare copies.

@@ -1,0 +1,1 @@
+If a character has a Permanent Talent, it is always on, and instead may have a cost to temporarily suppress the Talent and any drawbacks it may have.

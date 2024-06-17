@@ -1,0 +1,1 @@
+When Recovering on the Scene track, or working on a Project to Recover on the NPA track, add the Asset’s Bonus to the character’s Persistence Ratings to determine how much they Recover. This only applies if the Asset’s Tier equals or exceeds the character’s Defense Tier.

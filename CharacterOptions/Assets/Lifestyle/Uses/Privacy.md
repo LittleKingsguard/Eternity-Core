@@ -1,0 +1,1 @@
+Most Lifestyle Assets have a definite, fixed location and some limited measures of security or property rights that limit (safe/legal) access, and can be used for Private Scenes.

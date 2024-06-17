@@ -1,0 +1,1 @@
+A Scaling Talent has either a cost in AP, Effort, Plot Armor, or some other currency, or a drawback of variable severity, such as a bonus to future enemy attacks. The power of the Talent increases with increasing cost or severity.

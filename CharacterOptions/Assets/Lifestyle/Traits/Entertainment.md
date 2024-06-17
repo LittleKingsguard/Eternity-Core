@@ -1,0 +1,2 @@
+Cost: +2 D or +4 R
+The location is well appointed for hosting parties and impressing guests, providing opportunities to leverage it's provided Bonus for Social training or Acquiring Ally or Connection Assets.
