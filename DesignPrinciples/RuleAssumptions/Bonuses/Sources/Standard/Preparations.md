@@ -1,0 +1,1 @@
+If an Action is spent [Preparing](https://github.com/LittleKingsguard/Eternity-Core/blob/1387327383b3450649408197bae483585201055e/SceneLevel/Actions/Prepare.md) for a second Action, that Action gains a bonus with Dice equal to the Successes and half the Power of the Prepare Action.

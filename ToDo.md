@@ -6,7 +6,7 @@ Add Supporting Roles
 Add examples of Objectives
 Add Escalation rules
 Add rules for summoning Guards when Offenses are committed
-Add Bonus Types and Generic Bonuses
+~~Add Bonus Types and Floating Bonuses~~
 Add Saves somewhere
 Add details for Expanded Abilities -- May be pending setting-specific forks
 Add Dramatic Loss rules

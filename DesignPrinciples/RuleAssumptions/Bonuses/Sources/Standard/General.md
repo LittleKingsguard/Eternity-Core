@@ -1,0 +1,1 @@
+A single attempt cannot gain the Dice/Power/Tier Bonus from more than one effect from each type. Other traits from available sources may still apply.

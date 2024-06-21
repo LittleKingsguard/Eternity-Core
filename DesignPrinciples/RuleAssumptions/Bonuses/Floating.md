@@ -1,0 +1,1 @@
+A Floating Bonus is not divided into Dice and Power, and has no Tier. Instead the player may divide the total value of all such Bonuses between Dice and Power (or Agency and Impact), regardless of the Tier of the attempt.
