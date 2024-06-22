@@ -1,19 +1,19 @@
 Resolution Engine
 Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
 
-Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary group is always dependent on what is being attempted: 
+Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
 Physical for movement, combat, etc. 
 Mental for comprehension, invention, deduction, etc.
 Social for debate, argument, intimidation, etc. 
 Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
 
-In addition to the Primary group, the player also chooses a Supporting group defining how their character is attempting to perform the action. For example:
+In addition to the Primary Ability, the player also chooses a Supporting Abilitydefining how their character is attempting to perform the action. For example:
 Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
 Using facts and logical argument in a debate would be a Mental assist to a Social action. 
 Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
 Attempting to triumph through raw persistence would be an Endurance Supporting.
 Dice
-When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary group for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
+When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
 Adding Dice
 Spending Power
 By spending Power from the roll, extra dice can be purchased one-for-one, up to a total of both Abilities combined.
@@ -42,7 +42,7 @@ The difficulty of a roll is the number of successes required for the attempt to 
 Fortune
 A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power does not count against the normal caps, and may be spent on any normal effect at any time, even if they would normally have to be declared before rolling, such as rolling additional dice or guaranteeing successes by turning failed dice into successes.
 Power
-The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary group before accounting for bonuses or penalties.
+The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary Ability before accounting for bonuses or penalties.
 
 Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
 
@@ -93,7 +93,7 @@ If an Action fails to succeed, lacks enough power to overcome Resistance and hav
 
 For example, a character attempting to hide may have found the only viable “cover” was out of the window… of the third floor. Or, when jumping to clear a gap, come short and have to free a hand to catch themselves, dropping equipment and becoming Disarmed.
 Scene Resolution
-In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Ability Group for the Scene overall, and then chooses the Supporting group that they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
+In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Abilityfor the Scene overall, and then chooses the Supporting Abilitythat they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
 
 The player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may distribute both Agency and Impact across those Goals. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability. The final amount of Agency invested corresponds to both the effectiveness of the Goal once completed, and the Difficulty of the Challenge required to complete it. Likewise, the Impact invested determines the effectiveness of the completed Goal, and the Resistance of the Challenge required to complete it. All Goals should have at least 1 Agency and 1 Impact invested, and they are not required to spend all available Agency/Impact. Different goals may amount to the same effect (ex. Destroy the East, South, and West barracks all fundamentally translate to “Attack army”) but should still be distinct. 
 
@@ -113,7 +113,7 @@ A character’s Narrative PA is their most important PA track and the one that r
 
 Scene Plot Armor recovers multiple times within each narrative episode, and is damaged relatively often, usually representing exhaustion, spent resources, or repairable but significant damage to health or operation. If a character’s Scene PA is exhausted, they take a point of Narrative PA and fully refill their Scene track. If whatever reduced their Scene PA still has damage left to inflict, this now continues on the refilled track.
 Rounds
-At the start of each round within the Narrative scope, each character chooses any two of their Ability Groups (Physical, Mental, Social, Endurance). For the two selected, take the Action Ability (DEX, INT, MNP, LCK) from each pair. The higher of these two is the amount of starting Spotlight the character has for instigating or joining scenes. They may at any later time Exert themselves for additional Spotlight, taking damage to their Scene PA point-for-point, up to a Spotlight total equal to both of the above abilities combined.
+At the start of each round within the Narrative scope, each character chooses any two of their Abilities (Physical, Mental, Social, Endurance). For the two selected, take the Action Ability (DEX, INT, MNP, LCK) from each pair. The higher of these two is the amount of starting Spotlight the character has for instigating or joining scenes. They may at any later time Exert themselves for additional Spotlight, taking damage to their Scene PA point-for-point, up to a Spotlight total equal to both of the above abilities combined.
 
 This is then repeated with the Effort half of the above pairs (STR, LRN, CHA, WILL) to get the character’s starting and maximum Resources for the turn.
 Priority
@@ -218,7 +218,7 @@ Characters do not have any knowledge on whether any characters they are not Trac
 
 Any characters that chose to enter into the Scene in Stealth are Undetected (or Unknown, as appropriate) to any non-allied characters who are not Tracking or in Contact with them, and Hidden to any that are.
 Rounds
-The Primary Ability Group chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
+The Primary Abilitychosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
 Turn
 On a character’s turn within a scene, they may declare an Action. As above with Scenes, they may start additional Actions at any time after for 2 AP each, up to a total of their starting AP.
 Reaction
@@ -1210,7 +1210,7 @@ While a shield can be used for offense, their designed purpose is defensive. Whe
 Armor
 Armor is protective gear meant to prevent Attacks from harming the character. Armor cannot be used to Attack, but can be used to Parry or Guard, and grants automatic Passive Parries on all valid Attacks.
 Vehicles
-Vehicles have Bonuses similar to any other variety of Gear, but they function differently. When taking a Vehicle Action, the character treats the Bonus of the vehicle as the Primary Ability, and picks the Supporting Ability group as normal. However, any Action using a Vehicle is upgraded in Tier.
+Vehicles have Bonuses similar to any other variety of Gear, but they function differently. When taking a Vehicle Action, the character treats the Bonus of the vehicle as the Primary Ability, and picks the Supporting Abilityas normal. However, any Action using a Vehicle is upgraded in Tier.
 
 More so than most other Gear, large and higher-Tier vehicles in particular are prone to requiring Projects to be controlled by individual characters, or to allow a crew to operate in coordination.
 Minions

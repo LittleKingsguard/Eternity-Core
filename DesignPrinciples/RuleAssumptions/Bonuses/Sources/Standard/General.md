@@ -1,1 +1,5 @@
+Non-Floating Bonuses default to having a Dice, Power, and Tier, as with other most other effects. When rolling or declaring Goals, the character adds the total Dice and Power of all relevant Bonuses of the highest Tier available to their own Dice and Power for the attempt. If the Tier of the applied Bonus is greater than the roll's, they *must* spend Dice/Power to reach that Tier. If they cannot afford it, the roll is upgraded to that Tier, but they lose control of the Spillover effects. The player cannot spend Tiers to reduce Spillover, and the GM or a player of a relevant Adversary names an additional consequence of Spillover.
+
+The above also applies equivalently to initiating a Scene, ading the Bonuses's Dice and Power to the available Agency and Impact.
+
 A single attempt cannot gain the Dice/Power/Tier Bonus from more than one effect from each type. Other traits from available sources may still apply.

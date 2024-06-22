@@ -1,3 +1,3 @@
-Violence covers all Actions or Goals that directly harm another character or destroy their foundational possessions. This typically takes the form of an Attack Action, or a Conflict Goal that introduces some indirect means of attack, or, if the target has the Wealth, Organization, or similar Ability Groups, some means of destroying the Assets those represent.
+Violence covers all Actions or Goals that directly harm another character or destroy their foundational possessions. This typically takes the form of an Attack Action, or a Conflict Goal that introduces some indirect means of attack, or, if the target has the Wealth, Organization, or similar Abilities, some means of destroying the Assets those represent.
 
 Successful violent Actions are almost always Overt from the target's perspective, and if the attacker was Undetected or Unknown, they immediately lose this status against the target.

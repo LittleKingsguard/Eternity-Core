@@ -1,6 +1,6 @@
 The player must decide to whether to spend any dice or power or spend any other resources to gain more dice or power before rolling any dice. **The roll cannot have more than 10 dice or power, or 5 Successes unspent at the time of the roll; any unspent above this threshold are lost with no effect.**
 
-When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary group for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains *Fortune* for each such die.
+When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains *Fortune* for each such die.
 If the roll has more than five Successes, four must be converted into a Tier upgrade. Repeat as needed.
 
 If the roll is uncontested and has no inherent Difficulty, Resistance, or Tier, it must still have at least one Success and at least one Power or the roll fails. If it succeeds, apply the final Successes, Power, and Tier as normal for the type of Action or Scene. Typically, this will apply the Successes as a Dice bonus/rating and half of the Power as a Power bonus/rating, maintaining the roll's Tier, as with Prepare, Complicate, or Acquire Actions. 

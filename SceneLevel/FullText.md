@@ -22,7 +22,7 @@ Characters do not have any knowledge on whether any characters they are not Trac
 
 Any characters that chose to enter into the Scene in Stealth are Undetected (or Unknown, as appropriate) to any non-allied characters who are not Tracking or in Contact with them, and Hidden to any that are.
 Rounds
-The Primary Ability Group chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
+The Primary Ability chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
 Turn
 On a character’s turn within a scene, they may declare an Action. As above with Scenes, they may start additional Actions at any time after for 2 AP each, up to a total of their starting AP.
 Reaction
