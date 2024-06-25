@@ -1,0 +1,5 @@
+If a character takes damage but the player ddoesn't want to spend Plot Armor to minimize it, they may instead suffer a Dramatic Loss. For each point of damage that would be taken, they may lose the use of a Talent or lower an Ability rating for a length of time dependent on the track that would be damaged. If the damage source is another character, that character may choose the talent to be discarded or Ability to be reduced, out of any they have Discovered.
+
+For APA damage, the character loses a Minor Talent or points form an Ability rating until the end of the Scene.
+For SPA damage, the character loses a Minor Talent or points form an Ability rating until the character first starts a Scene in the next Act, or loses a Major Talent until the end of the Scene.
+For NPA damage, the character loses a Minor Talent or points form an Ability rating until the character until the completion of the story, or loses a Major Talent until the character first starts a Scene in the next Act.
