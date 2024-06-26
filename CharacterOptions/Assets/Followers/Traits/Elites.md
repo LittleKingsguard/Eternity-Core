@@ -1,2 +1,2 @@
-Cost: +X D, +2Y R
-The Followers are fewer but more individually competent, gaining a bonus of X/Y to their Reactions.
+Cost: +X D, +Y R
+The Followers are fewer but more individually competent, gaining the Elite bonus at X/Y strength while in play as a Troop.

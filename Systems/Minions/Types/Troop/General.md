@@ -1,0 +1,5 @@
+A Minion Troop is composed of numerous individuals of similar ability and training and capable of accomplishing more than their normal limits through teamwork. However, when challenged in smaller groups or when subjected to wide-area Attacks and Hazards, those limits tend to reveal themselves.
+
+Troops use their normal Dice/Power rating only when taking Actions. When Reacting, individuals act on their own, having reduced values depending on the troops’s Size. Additionally, Troops suffer more from area attacks. Attacks that strike all Engaged targets gain +2 Power, while any effect that would target the entire Zone is upgraded in Tier. If an effect would affect multiple Zones the Troop is present in, each Zone counts separately.
+
+Additionally, Troops can subdivide, sending out individuals or small groups from their bulk to perform tasks such as Attacking isolated enemies, or guarding an area against infiltration. Doing this costs PA, which cannot be Recovered until the dispatched group returns. The dispatched group has the PA spent as its own PA track, and any remaining PA the group has is immediately added to main Troop’s upon their return.

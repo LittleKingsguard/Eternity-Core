@@ -1,0 +1,3 @@
+The character is not merely lying down, they need a moment to figure out which way is up. The only Physical Action they can take is a Miscellaneous Action to sort themselves back out to Prone, and any Reactions must be Multitasked to include this Action as an extra effect.
+
+A character may drop to Tumbled as a free part of a Reaction to gain the benefits of Prone. If they do so, the above penalty does not apply to the current Reaction.

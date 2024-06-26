@@ -1,0 +1,1 @@
+Bonuses are additional effects Minions may have, often representing Gear, Talents, or other distinctions.
