@@ -13,3 +13,4 @@ Add details for Expanded Abilities -- May be pending setting-specific forks
 TODO: #19 Consider renaming Ascension Tokens to Escalation Tokens or similar
 TODO: #11 Consider how to handle Defense Tier advancement
 TODO: #22 Add core Minion Bonuses
+TODO: #23 Continue Conditions

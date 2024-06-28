@@ -1,0 +1,1 @@
+Vehicles are any craft capable of moving itself between Scenes or during a Scene in progress.
