@@ -1,3 +1,0 @@
-More so than most non-mortal beings, mortals are coerced into a quite busy life by the needs and desires of the body. Such mundane things as food, water, and rest which more cosmic beings might enjoy are to mortals, instead basic requirements for survival. On top of this, instinct and culture may impose many more abstract wants: companionship, belonging, honor, and so on, which drive them to action for much of their relatively brief lives.
-
-Outside of specific scenarios where resource scarcity is a fact of life, such as water in a desert, it can be assumed that mortal characters can find the time to attend to food, water, and rest between Scenes. However, depriving them of this opportunity could be a valid Conflict Goal to harm them through indirect means.

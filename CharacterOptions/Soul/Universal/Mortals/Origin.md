@@ -1,1 +1,0 @@
-The typical mortal is born from other mortals, as normal for their kind. While it is possible for a mortal to be created, body and soul, through entirely magical means, relatively few entities have the sheer power and skill to do so, and even fewer of those have any particular care to use it.

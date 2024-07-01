@@ -1,0 +1,3 @@
+The Wild are full, independent Spirits with long memories, and accordingly quite powerful compared to common mortals. Even to capable mages and heroes, their immortal nature and near-limitless reserves of power often allow them to win a protracted struggle through sheer attrition if the hunters choose the direct approach.
+
+Even the weakest Wild Soul is solidly a Tier I power, and most are stronger still, with Tier II or III most common. However, the heavily aspected nature of their soul makes it difficult for them to advance in power above Tier IV, at least without admixing other sources of strength, such as a Divine Spark.

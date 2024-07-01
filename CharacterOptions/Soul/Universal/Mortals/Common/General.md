@@ -1,0 +1,1 @@
+The Common Mortal is a creature of flesh and instinct, often distantly related to some Beast of their native homeland, and blessed with higher intelligence and free will by some ancient random quirk of evolution or inscrutable design of some greater power. 

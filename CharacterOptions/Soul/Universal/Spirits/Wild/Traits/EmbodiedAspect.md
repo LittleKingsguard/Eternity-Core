@@ -1,0 +1,1 @@
+Wild Souls have a fundamental link to a Primal Shape, and always use the Innate Flow Font of Power when invoking their birth Aspect. They are still capable of learning other Fonts, and cannot use Innate Flow with any other Aspect.

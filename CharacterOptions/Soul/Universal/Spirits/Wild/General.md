@@ -1,0 +1,1 @@
+The Wild are elementals, beasts of legend, and the “minor gods” of valleys, forests, and mountain peaks, and they can be found wherever the Physical world has such things to embody.
