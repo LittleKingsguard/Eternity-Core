@@ -1,0 +1,1 @@
+The Divine may always use their Organization as a Supporting Ability.
