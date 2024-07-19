@@ -1,0 +1,3 @@
+If a Scene continues after the fourth round, play is paused momentarily to transition back to the Storyboard level. Any character not already present in the Scene, including ones that previously left the Scene, may choose to either Join the existing Scene, including adding new Goals, or initiate a new Scene, if they could normally do so given their position in the Priority count. If they do so, characters already participating in the current Scene cannot Join the new Scene. Unless the new Scene is abbreviated as a Quick Scene, playing though it is put on hold until the end of the current Scene.
+
+An especially long-running Scene can transition more than once, at intervals of 4/8/12/etc. rounds.
