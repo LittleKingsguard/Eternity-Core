@@ -1,0 +1,3 @@
+Unbound cannot die by any means short of the rarest and most esoteric arts of True Destruction, or the direct will of the Eternal Destroyer.
+
+Should they completely fill their NPA track with damage from any other source that doesn't specify a means of defeat (as does Investigation, for example), such as refused Dilemmas, Exertion, etc., they are instead made Hollow. If they are currently incarnated, they regain 1 NPA at the end of the round. Otherwise, they are Defeated, unless they can burn an Asset to have themselves Called again.

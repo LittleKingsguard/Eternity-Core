@@ -1,0 +1,1 @@
+What local communities and powers believe to be true about the Wild Soul and the concept it personifies has a strong effect on what really is true about it. Influence Actions can be made against the Wild Soul by proxy of these communities, and if the Soul is currently disembodied, it cannot React.

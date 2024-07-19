@@ -1,0 +1,1 @@
+The Divine Spark is very similar in fundamental nature to the blazing soul of an Autarch, making them nigh-inconceivably strong in comparison to most other beings.

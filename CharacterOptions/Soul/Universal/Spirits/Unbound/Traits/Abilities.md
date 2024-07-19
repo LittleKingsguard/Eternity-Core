@@ -1,0 +1,1 @@
+TODO: #24 Finish this once I have starting stats for higher Tier characters.

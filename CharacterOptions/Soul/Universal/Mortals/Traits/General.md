@@ -1,0 +1,1 @@
+All Mortal beings have the following traits in common, and have additional ones depending on their subtype.

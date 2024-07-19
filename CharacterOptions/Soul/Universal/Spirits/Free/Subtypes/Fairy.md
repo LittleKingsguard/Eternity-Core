@@ -1,0 +1,1 @@
+Fairies, colloquially, are the Free that prefer to bind to persistent, physical objects as bodies, particularly dolls, puppets, and custom-built avatars. Fairies usually take great pride in their favorite bodies, and the creation or acquisition of newer, fancier, and more in-vogue bodies is an arms race that can be found running in almost any Glade.

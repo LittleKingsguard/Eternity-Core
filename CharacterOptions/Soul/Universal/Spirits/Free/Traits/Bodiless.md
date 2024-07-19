@@ -1,0 +1,5 @@
+The Free do not need a body to take Actions, even Physical ones. However, this is mentally strenuous and distracting from their self-maintenance, and thus every Action taken without a body costs 1 APA per AP spent. Entering a Scene without a body costs SPA per Spotlight spent to do so. Unbinding from a body may be done as part of any Action, but rebinding can only be done as part of a successful Recovery Action.
+
+If a Free Soul takes a Physical Action without the use of a body, it is done with touch-range telekinesis. This may require creative use of Gear or Hazards to take any Actions or Reactions against mortals without being Opposed by the Protection of the Coil.
+
+Conversely, the Free Soul enjoys functional immunity against Physical Attacks and Hazards, and ignores Physical Obstacles and Terrain unless they have an Aetheric presence (ex. Are infused or a living part of an ensouled being).

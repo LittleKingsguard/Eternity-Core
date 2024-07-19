@@ -1,0 +1,5 @@
+Totem Beasts are bound to the aspects and Shapes of the wild animal: The Raptor, The Prowler, The Brute, The Courser, and The Meek. The Totem usually takes the form of a large and powerful representative of the animal species it personifies, though many are capable of shapeshifting to grow larger or smaller, or even adopt features of other animals or even mortal guises.
+
+Totems are often wary or hostile to mortals, viewing them as either hunters or prey. Mortals often mirror the sentiment, though many communities eventually come to an accord with their local Totems, either officially or simply by custom. This can be simply “mortals stay out of the forest or else”, tribute arrangements, or even domestication.
+
+A Totem Beast must take the Aspect Shape option for their native Aspect, but gains its Aspect Channeling option for free if they learn a different Aspect that would allow them to wear a different form.

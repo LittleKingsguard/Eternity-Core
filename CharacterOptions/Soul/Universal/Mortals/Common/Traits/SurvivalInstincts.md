@@ -1,0 +1,1 @@
+While losing a physical body is inconvenient for Spirits, it is life-and-death for mortals, and their response to danger reflects this as they tap into unused reserves of strength – including, sometimes, the immense power of the Coil. When making a Save, the player may spend an extra SPA to upgrade the Tier.

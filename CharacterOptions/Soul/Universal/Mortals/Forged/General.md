@@ -1,0 +1,1 @@
+Forged are mortal souls whose Coil is bound into a constructed body of unliving mass or machinery.

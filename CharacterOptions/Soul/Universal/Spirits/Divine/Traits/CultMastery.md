@@ -1,0 +1,1 @@
+The Divine uses their Organization as their Persistence Ability, as they can sustain themselves with the energies and Anima drawn from the worship of their followers.

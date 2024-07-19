@@ -1,0 +1,3 @@
+A character's Soul determines what kind of being they are in the cosmology of the Brightsteel setting, what vulnerabilities they possess, and special powers they have by default. It also carries strong implications for what their background is, what Intimacies they may have acquired, objectives and motivations they might pursue, and how other characters will interact with them.
+
+All characters and Minions have exactly one Soul Type. Some Types can *only* be Adversaries or Minions as they lack either the intelligence or independent will to act as a player character.

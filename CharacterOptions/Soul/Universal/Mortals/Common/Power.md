@@ -1,0 +1,5 @@
+Mortals are, rather paradoxically, simultaneously very powerful, even in the cosmic scale, and also quite weak. The Mortal Coil is far more massive a conduit between the Aethric and Physical realms than the vast majority of Spirits can maintain, and yet all but the mightiest handful of archmages will live their full lives without sensing that power, or even knowing it exists.
+
+However, there is a hidden blessing to this in that it allows mortals to focus on other skills, as they are unique among all other free-willed beings in not requiring any knowledge of Aether as a simple fact of life. Compounded with lacking the memory issues that plague some varieties of Spirit and the busy life forced upon them by the needs of the body, and the average mortal is often far more competent at mundane tasks than most spirits of remotely comparable life experience.
+
+The typical mortal is Tier 0, but Tier I or higher mortals are not rare, and at least a few can usually be found in any community. While mortals can exist at any Tier, most “mortals” capable of Tier IV or higher magic are better described as Spirits that used to be mortal before their transcendence.

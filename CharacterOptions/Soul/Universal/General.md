@@ -1,0 +1,3 @@
+All of the following Soul Types are available as Player Characters, Adversaries, or Minions. Each is capable of great power, and those that do not possess it as a mere consequence of their existence quite readily grow into it with expeerience. Just as importantly, they are capable of learning, understanding, and adapting as they impact the story and the story impacts them, gaining new Intimacies or Flaws and shedding old ones.
+
+These Souls Types gain roleplay bonuses and are affected by Influence Actions as normal.

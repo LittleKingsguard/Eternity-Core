@@ -1,0 +1,1 @@
+The creation of a new Forged is never an accident, or a moment of happenstance. To form a new body and soul without the aid of natural means (as most mortals have) is far too labor-intensive. Rather, virtually all Forged were created by another more powerful entity for a specific purpose, and one their creator had some moral or practical reason not to entrust to a Chained.

@@ -1,0 +1,1 @@
+When creating the character, describe a role they were designed for. During a Scene, when making a roll in line with this purpose, upgrade that roll. All uses after the first during a Scene cost 1 Resources, as the character overtaxes their limits, consumes limited supplies of ammunition or fuel, etc.

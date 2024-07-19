@@ -1,0 +1,1 @@
+All Wild Souls have the following traits, plus additional ones based on their subtype.
