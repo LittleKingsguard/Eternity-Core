@@ -1,0 +1,5 @@
+On a character's turn, they may declare a Scene. If the Scene includes another character as a target, they may always choose to Join, Actively or Passively. All other characters who can access the Scene (and whose players can justify their presence there) get the option to Join, in descending order of Priority. Ties are broken at the discretion of the player starting the Scene. If any join, this repeats until all remaining characters that could join decline.
+
+See [Initiating Scenes](https://github.com/LittleKingsguard/Eternity-Core/blob/9ed14f8960413ed8cd30356e699c54261f6bf1fa/Systems/SceneEngine/InitiatingScenes.md) for more details.
+
+Once all Goals are set, play moves into the Scene itself. See [Beginning of Scene](https://github.com/LittleKingsguard/Eternity-Core/blob/9ed14f8960413ed8cd30356e699c54261f6bf1fa/SceneLevel/BeginningOfScene.md) for details.

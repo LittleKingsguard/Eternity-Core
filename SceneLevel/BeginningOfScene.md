@@ -9,3 +9,5 @@ Characters do not have any knowledge on whether any characters they are not Trac
 Any characters that chose to enter into the Scene in Stealth are Undetected (or Unknown, as appropriate) to any non-allied characters who are not Tracking or in Contact with them, and Hidden to any that are.
 
 Once the Scene is fully set, the first Round begins.
+
+TODO: #26 Update link

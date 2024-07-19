@@ -1,0 +1,1 @@
+See [End of Scene](https://github.com/LittleKingsguard/Eternity-Core/blob/9ed14f8960413ed8cd30356e699c54261f6bf1fa/SceneLevel/EndOfScene.md).
