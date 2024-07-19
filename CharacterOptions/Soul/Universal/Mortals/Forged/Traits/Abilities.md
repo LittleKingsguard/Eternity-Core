@@ -1,0 +1,1 @@
+Forged are only required to have the four core Ability Groups, but, if starting at the recommended Tier I or higher, may choose to spend a Major Talent on unlocking any other Ability Group, including Magical or Status Abilities.

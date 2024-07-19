@@ -1,0 +1,1 @@
+A Divine always has at least one magical Ability, and the Organization Ability, representing their cult.

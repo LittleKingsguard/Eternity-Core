@@ -1,0 +1,1 @@
+During creation, declare a concept that forms the core of the Unbound's being. This is their Incarnate Aspect, and when using Animist powers relating to this concept, they can use the Incarnate Mastery Font of Power in lieu of any other. 

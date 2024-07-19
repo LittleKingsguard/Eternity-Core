@@ -1,0 +1,3 @@
+The most straightforward way to defeat a Divinity is to make them cease to be a Divinity. Eliminating, disillusioning, or converting their cult will cause their Spark to burn out in short order, even in mortal timescales. This will, of course, simply reduce them to the power they were before they ascended to Divine status, which is still almost certainly *incredibly* powerful.
+
+A Mortal that had possessed Divine nature will still be Mortal once it has gone away, though the years of Dinivity typically alter them very little regardless of how that time should have aged them. It is usually not difficult for a Divine or post-Divine Mortal to Ascend into an Unbound or other Spirit, however.

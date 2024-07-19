@@ -1,0 +1,3 @@
+A Wild Soul needs a body in order to take non-Mental Actions. Should they find themselves without one, or simply wish to change the body they're currently using, they may form a new one during a Recovery Scene. Additionally, they may rebirth a new body between Scenes for 2 Spotlight, or even in the middle of the current Scene for 1 NPA.
+
+They are also capable of inhabiting a Body Asset relevant to their Native Aspect.

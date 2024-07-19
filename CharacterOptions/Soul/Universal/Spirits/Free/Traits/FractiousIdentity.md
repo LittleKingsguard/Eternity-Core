@@ -1,0 +1,1 @@
+If a Mental or Social Trap or Influence Action would leverage one Intimacy against another, the acting character has the option not to treat it as a Dilemma as normal for influence, but as straight damage, aiming not to change the Free Soul’s mind but to force it closer to a schism.
