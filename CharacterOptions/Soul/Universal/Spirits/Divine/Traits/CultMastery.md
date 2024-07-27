@@ -1,1 +1,1 @@
-The Divine uses their Organization as their Persistence Ability, as they can sustain themselves with the energies and Anima drawn from the worship of their followers.
+The Divine uses their Organization as their Persistence Ability, as they can sustain themselves with the energies and Anima drawn from the worship of their followers. The Spark will quickly burn itself out if deprived of faith, however, and if starved by the destruction or disillusionment of their cult, they will cease to be a Divine, reentering the Story with a different Soul, usually one or more Tiers weaker.

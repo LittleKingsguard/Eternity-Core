@@ -1,0 +1,1 @@
+Organization Supports usually involve interaction by proxy of followers, or benefits they can provide by leveraging the resources or reputation of their organization, such as supplying official documents authorizing a character to represent the organization, or naming a conveniently applicable minor item as part of the group's standard issue gear.

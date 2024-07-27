@@ -1,0 +1,4 @@
+Physical Supports typically involve short flashbacks to what the supporting character was doing when they were in the Scene's Location at some unspecified point before the main Scene, such as the supporting character discovering some relevant hidden detail or surprise during recon, or brief cutaways to what they are doing elsewhere, such as causing a distraction at another location.
+
+Design Notes:
+This is partially intended to fight the manifestation of the "Decker Problem" as applied to stealth-focused Scenes. Passive Supports such as Distraction are intended to give players of unstealthy Overt-focused characters something helpful to do during a Stealth-focused Scene, while Recon and similar Supports allow the player of a stealthy character to contribute in that role without needing a Scene to themselves in preparation.
