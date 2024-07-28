@@ -1,17 +1,17 @@
 Resolution Engine
 Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
 
-Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
+Any time a roll is called for, either as part of an Action or as a Reaction Assisting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
 Physical for movement, combat, etc. 
 Mental for comprehension, invention, deduction, etc.
 Social for debate, argument, intimidation, etc. 
 Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
 
-In addition to the Primary Ability, the player also chooses a Supporting Ability defining how their character is attempting to perform the action. For example:
+In addition to the Primary Ability, the player also chooses a Secondary Ability defining how their character is attempting to perform the action. For example:
 Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
 Using facts and logical argument in a debate would be a Mental assist to a Social action. 
 Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
-Attempting to triumph through raw persistence would be an Endurance Supporting.
+Attempting to triumph through raw persistence would be an Endurance Secondary.
 Dice
 When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
 Adding Dice
@@ -20,7 +20,7 @@ By spending Power from the roll, extra dice can be purchased one-for-one, up to 
 Spending Effort
 Dice can be purchased with Effort at a two-for-one rate, up to a total of both Abilities combined, including with the above.
 External Bonuses
-Prepare Actions, Gear, Supporting Reactions, Chaining, and so on can apply extra Dice, up to a combined total from all sources of double the above limit.
+Prepare Actions, Gear, Assisting Reactions, Chaining, and so on can apply extra Dice, up to a combined total from all sources of double the above limit.
 Spending Dice
 All of the following options can be taken multiple times.
 Guaranteeing Dice
@@ -31,9 +31,9 @@ Talents/Traits
 A character’s Talents or the Traits of an Asset or Challenge involved may allow or require the player to spend Dice in exchange for some other effect.
 Dice Limits
 Recap:
-For the Action being rolled, the player chooses a Primary and a Supporting Ability group. 
+For the Action being rolled, the player chooses a Primary and a Secondary Ability group. 
 The Action starts with the Primary Action Ability’s rating in dice.
-An additional amount, up to the Supporting Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
+An additional amount, up to the Secondary Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
 Outside sources may add extra Dice until the total number of dice is equal to double the above total, including dice that are being spent.
 
 No attempt may physically roll more than ten dice. If an attempt has more than ten unspent dice when rolling, the extras are lost to no effect.
@@ -44,7 +44,7 @@ A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power 
 Power
 The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary Ability before accounting for bonuses or penalties.
 
-Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
+Additional Power may be gained through Talents, spending resources, Chaining, being Assisted by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
 
 If penalties or mitigation from Reacting characters, passive defenses, or Resilience of challenges result in Power being reduced to 0, the Action fails and has no effect.
 Spending Power
@@ -93,7 +93,7 @@ If an Action fails to succeed, lacks enough power to overcome Resistance and hav
 
 For example, a character attempting to hide may have found the only viable “cover” was out of the window… of the third floor. Or, when jumping to clear a gap, come short and have to free a hand to catch themselves, dropping equipment and becoming Disarmed.
 Scene Resolution
-In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Abilityfor the Scene overall, and then chooses the Supporting Ability that they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
+In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Ability for the Scene overall, and then chooses the Secondary Ability that they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
 
 The player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may distribute both Agency and Impact across those Goals. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability. The final amount of Agency invested corresponds to both the effectiveness of the Goal once completed, and the Difficulty of the Challenge required to complete it. Likewise, the Impact invested determines the effectiveness of the completed Goal, and the Resistance of the Challenge required to complete it. All Goals should have at least 1 Agency and 1 Impact invested, and they are not required to spend all available Agency/Impact. Different goals may amount to the same effect (ex. Destroy the East, South, and West barracks all fundamentally translate to “Attack army”) but should still be distinct. 
 

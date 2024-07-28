@@ -2,7 +2,7 @@ At the end of the fourth Round of a Scene, the Scene is paused as play immediate
 
 If any new Scenes started are Focus Scenes, they are put on hold until the current Scene ends and played through retroactively. 
 
-Any new characters joining the current Scene can have Goals established as normal, though they cannot contradict other information established during the Scene. Additionally, players may choose new new Primary/Supporting Abilities for the Scene, if the context of the Scene has changed enough to warrant different representation. (Ex. Physical combat breaking out during a Social Scene)
+Any new characters joining the current Scene can have Goals established as normal, though they cannot contradict other information established during the Scene. Additionally, players may choose new Primary/Secondary Abilities for the Scene, if the context of the Scene has changed enough to warrant different representation. (Ex. Physical combat breaking out during a Social Scene)
 
 Finally, if any Offenses have been revealed or Overtly committed, the GM or Table may choose to add Minions acting on behalf of the offended power. Play then continues.
 

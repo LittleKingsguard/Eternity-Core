@@ -1,5 +1,5 @@
-In the Narrative level, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Ability and Escalation Level for the Scene overall, and then chooses the Supporting Ability that they specifically will use for the Scene.
-Any other characters actively joining must use the same Primary Ability, if they have it, or the closest available equivalent if they do not. The Supporting Ability may be chosen freely. Passive characters instead use the Abilities associated with their Role granting the passive Join. When joining, the player chooses whether the character is an active participant or a passive supporter. 
+In the Narrative level, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Ability and Escalation Level for the Scene overall, and then chooses the Secondary Ability that they specifically will use for the Scene.
+Any other characters actively joining must use the same Primary Ability, if they have it, or the closest available equivalent if they do not. The Secondary Ability may be chosen freely. Passive characters instead use the Abilities associated with their Role granting the passive Join. When joining, the player chooses whether the character is an active participant or a passive supporter. 
 
 Once all characters have either joined or declined, the GM/table then decides whether the Scene should be a Quick Scene or a Focus Scene.
 

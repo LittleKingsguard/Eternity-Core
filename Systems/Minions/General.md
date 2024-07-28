@@ -2,4 +2,4 @@ Minions are the character’s hirelings, connections, summons, drones, or other 
 
 Unless otherwise noted, a Minion created by an Action disappears at the end of the Scene. However, Assets or Talents may include or be represented by Minions, and these Minions will persist on the next occasion that Asset is involved in a Scene. Losing such a Minion during a Scene may Progress a Project to destroy the Asset, destroy it completely (particularly in the case of Allies) or be considered an Attack by proxy against its creator.
 
-Minions do not act in the Storyboard level, and are only present in Scenes if a character summons them during a Scene or brings them along while initiating or joining. Once present in the Scene, they act on their own turn, using their Dice/Power ratings as both Primary and Supporting Abilities for all purposes.
+Minions do not act in the Storyboard level, and are only present in Scenes if a character summons them during a Scene or brings them along while initiating or joining. Once present in the Scene, they act on their own turn, using their Dice/Power ratings as both Primary and Secondary Abilities for all purposes.

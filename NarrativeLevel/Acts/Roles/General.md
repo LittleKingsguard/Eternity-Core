@@ -1,5 +1,5 @@
 Roles are powerful bonuses the player may choose based on the Abilities they use to determine a character's Spotlight/Resources for the duration of an Act.
-Each character has three Roles: one Primary Role, which must be chosen from the available options from their Primary Ability chosen for the Act, and two Supporting Roles, one from each chosen Ability Group.
+Each character has three Roles: one Primary Role, which must be chosen from the available options from their Primary Ability chosen for the Act, and two Secondary Roles, one from each chosen Ability Group.
 The chosen Roles remain active for the duration of the Act.
 
 Design Notes:

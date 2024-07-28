@@ -1,17 +1,17 @@
 Resolution Engine
 Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
 
-Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
+Any time a roll is called for, either as part of an Action or as a Reaction Assisting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
 Physical for movement, combat, etc. 
 Mental for comprehension, invention, deduction, etc.
 Social for debate, argument, intimidation, etc. 
 Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
 
-In addition to the Primary Ability, the player also chooses a Supporting Abilitydefining how their character is attempting to perform the action. For example:
+In addition to the Primary Ability, the player also chooses a Secondary Ability defining how their character is attempting to perform the action. For example:
 Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
 Using facts and logical argument in a debate would be a Mental assist to a Social action. 
 Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
-Attempting to triumph through raw persistence would be an Endurance Supporting.
+Attempting to triumph through raw persistence would be an Endurance Secondary.
 Dice
 When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
 Adding Dice
@@ -20,7 +20,7 @@ By spending Power from the roll, extra dice can be purchased one-for-one, up to 
 Spending Effort
 Dice can be purchased with Effort at a two-for-one rate, up to a total of both Abilities combined, including with the above.
 External Bonuses
-Prepare Actions, Gear, Supporting Reactions, Chaining, and so on can apply extra Dice, up to a combined total from all sources of double the above limit.
+Prepare Actions, Gear, Assisting Reactions, Chaining, and so on can apply extra Dice, up to a combined total from all sources of double the above limit.
 Spending Dice
 All of the following options can be taken multiple times.
 Guaranteeing Dice
@@ -31,9 +31,9 @@ Talents/Traits
 A character’s Talents or the Traits of an Asset or Challenge involved may allow or require the player to spend Dice in exchange for some other effect.
 Dice Limits
 Recap:
-For the Action being rolled, the player chooses a Primary and a Supporting Ability group. 
+For the Action being rolled, the player chooses a Primary and a Secondary Ability group. 
 The Action starts with the Primary Action Ability’s rating in dice.
-An additional amount, up to the Supporting Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
+An additional amount, up to the Secondary Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
 Outside sources may add extra Dice until the total number of dice is equal to double the above total, including dice that are being spent.
 
 No attempt may physically roll more than ten dice. If an attempt has more than ten unspent dice when rolling, the extras are lost to no effect.
@@ -44,7 +44,7 @@ A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power 
 Power
 The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary Ability before accounting for bonuses or penalties.
 
-Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
+Additional Power may be gained through Talents, spending resources, Chaining, being Assisted by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
 
 If penalties or mitigation from Reacting characters, passive defenses, or Resilience of challenges result in Power being reduced to 0, the Action fails and has no effect.
 Spending Power
@@ -93,7 +93,7 @@ If an Action fails to succeed, lacks enough power to overcome Resistance and hav
 
 For example, a character attempting to hide may have found the only viable “cover” was out of the window… of the third floor. Or, when jumping to clear a gap, come short and have to free a hand to catch themselves, dropping equipment and becoming Disarmed.
 Scene Resolution
-In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Abilityfor the Scene overall, and then chooses the Supporting Abilitythat they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
+In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Abilityfor the Scene overall, and then chooses the Secondary Abilitythat they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
 
 The player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may distribute both Agency and Impact across those Goals. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability. The final amount of Agency invested corresponds to both the effectiveness of the Goal once completed, and the Difficulty of the Challenge required to complete it. Likewise, the Impact invested determines the effectiveness of the completed Goal, and the Resistance of the Challenge required to complete it. All Goals should have at least 1 Agency and 1 Impact invested, and they are not required to spend all available Agency/Impact. Different goals may amount to the same effect (ex. Destroy the East, South, and West barracks all fundamentally translate to “Attack army”) but should still be distinct. 
 
@@ -177,7 +177,7 @@ When starting or Reacting to enter a Scene, any number of Goals may be declared,
 Complicate
 Complicate Goals intend to erase progress made on the Narrative-Scope Projects of opponents, or make Obstacles or Crises they are facing more daunting. This may take the form of direct attacks on Project elements, destroying critical mitigating elements to an existing Obstacle or Crisis, or running Projects to create new obstructions or other complicating factors.
 Conflict
-A character may engage in a scene to defeat another character or organization. If the target in the Scene makes a Dramatic Escape, any character invested in this Goal and capable of interfering may take a special Reaction, making an immediate roll against the Goal’s difficulty and completing it on a success. Other characters may also attempt, or React to support another attempt. If no similar Goals are still pending, this and any other completed Conflict Goals may be totaled as per Scene Resolution and resolved as an Attack two Tiers higher than the Scene Goal, as normal. If the target survives, they still make a Dramatic Escape.
+A character may engage in a scene to defeat another character or organization. If the target in the Scene makes a Dramatic Escape, any character invested in this Goal and capable of interfering may take a special Reaction, making an immediate roll against the Goal’s difficulty and completing it on a success. Other characters may also attempt, or React to Assist another attempt. If no similar Goals are still pending, this and any other completed Conflict Goals may be totaled as per Scene Resolution and resolved as an Attack two Tiers higher than the Scene Goal, as normal. If the target survives, they still make a Dramatic Escape.
 
 In addition to directly attacking the target, this also covers indirect or supporting methods of attack such as Projects to delay the reinforcements that would normally cover their Dramatic Escape, block/trap escape routes, rig their office/house/etc. to explode, and so on. These Goals generally cannot be completed after the target leaves the Scene.
 
@@ -196,13 +196,13 @@ End of Round
 At the end of a round, first any “End of Narrative Round” Crises trigger, then all Actors Recover damage on the Scene track.
 Scenes
 The structure of a scene mirrors that of the Narrative, above, with the following differences:
-Action Points (AP) are used in place of Spotlight, and are spent to declare Actions or React to other Actions. Starting and Maximum AP is calculated the same as for Spotlight, except using the Primary/Supporting Abilities chosen for the Scene.
-Effort is used in place of Resources, and is spent to raise the Power of rolls or invoke Talents. Starting and Maximum Effort is calculated the same as for Resources, except using the Primary/Supporting Abilities chosen for the Scene.
+Action Points (AP) are used in place of Spotlight, and are spent to declare Actions or React to other Actions. Starting and Maximum AP is calculated the same as for Spotlight, except using the Primary/Secondary Abilities chosen for the Scene.
+Effort is used in place of Resources, and is spent to raise the Power of rolls or invoke Talents. Starting and Maximum Effort is calculated the same as for Resources, except using the Primary/Assisting Abilities chosen for the Scene.
 Initiative takes the place of Priority, being bought with AP at the start of each Round and determining turn order within the Round.
 Quick Scenes
 If a character starts a Scene unopposed, for the sake of speeding up the plot to get to a point where more players get to act, the Scene may be resolved in the manner of an Action, rolling the Abilities chosen for the Scene and applying any relevant Talents or other Bonuses, then distributing the resulting Successes and Power across the Goals chosen for the Scene. The player then briefly explains what they did to accomplish (or fail) those Goals and play returns to the Narrative.
 Flashbacks
-A Flashback is a Scene started from inside another Scene, showing something the character starting the Flashback did in the past. A Flashback is always resolved as a Quick Scene, even if another character Reacts to join it, in which case they Support or Oppose the roll as they would for an Action.
+A Flashback is a Scene started from inside another Scene, showing something the character starting the Flashback did in the past. A Flashback is always resolved as a Quick Scene, even if another character Reacts to join it, in which case they Assist or Oppose the roll as they would for an Action.
 
 Flashbacks normally cannot have an immediate, hostile direct effect on another character, though clever use of them may allow literal or metaphorical “old wounds” to be targeted in the present.
 
@@ -218,11 +218,11 @@ Characters do not have any knowledge on whether any characters they are not Trac
 
 Any characters that chose to enter into the Scene in Stealth are Undetected (or Unknown, as appropriate) to any non-allied characters who are not Tracking or in Contact with them, and Hidden to any that are.
 Rounds
-The Primary Abilitychosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
+The Primary Ability chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Secondary Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
 Turn
 On a character’s turn within a scene, they may declare an Action. As above with Scenes, they may start additional Actions at any time after for 2 AP each, up to a total of their starting AP.
 Reaction
-Instead of participating in a scene, a Reaction at the Scene scope involves the character opposing or supporting the Action or Reaction triggering it.
+Instead of participating in a scene, a Reaction at the Scene scope involves the character opposing or Assisting the Action or Reaction triggering it.
 Blitz
 If a character has not taken their turn yet and wishes to React to an Action, they will have to pay an additional 1 AP for every two points of Initiative between the current turn and their own.
 
@@ -276,12 +276,12 @@ Reaction
 Instead of rolling, Reactions simply treat half of the dice being rolled as Successes.
 
 The “roll” for the Reaction may still be enhanced by spending Effort or spending dice/power on Tiers or Talents, as normal.
-Support
-Supporting an Action gives the acting character extra dice equal to the number of successes on the Reaction, and half the Reaction’s Power.
+Assist
+Assisting an Action gives the acting character extra dice equal to the number of successes on the Reaction, and half the Reaction’s Power.
 
-A character may only be supported by one other character, but the supporting character may themselves be supported.
+A character may only be Assisted by one other character, but the Assisting character may themselves be Assisted.
 Oppose
-A character opposing the Action subtracts their Successes/Power from the acting character’s before the Action resolves. Only one character can Oppose the same Action, but the Opposing character can themselves be Supported by a third party. An Oppose attempt cannot itself be Opposed, but a character that would have the opportunity always qualifies to Support the original Action.
+A character opposing the Action subtracts their Successes/Power from the acting character’s before the Action resolves. Only one character can Oppose the same Action, but the Opposing character can themselves be Assisted by a third party. An Oppose attempt cannot itself be Opposed, but a character that would have the opportunity always qualifies to Assist the original Action.
 Parry
 Usually used to Oppose Attacks in melee, a Parry instead must overcome both the Successes and Power of the Action it Opposes. If the Action’s Successes do not overcome the Parry’s, the margin of victory is added to the Parry’s Power before applying that against the Action. However, if the Action has more Successes than the Parry, the Action’s Power cannot be reduced below the margin of success. If the Parry is of a higher Tier than the Action, it negates it automatically, as usual.
 
@@ -578,7 +578,7 @@ Hazards are entities or effects present in the Scene (or, less frequently, the N
 
 A character deliberately trying to cross or otherwise interact with a Hazard without harm must roll against its Difficulty/Resistance/Tier, taking any shortfall in Successes or Power as damage from an Attack. Many Hazards, such as a narrow but deep pit, have additional damage or effects that apply only on a failure.
 
-If a character is being forced into a Hazard, ex. By an Attack shoving them into a fire, treat the Hazard as Supporting the Action, using its D/R as the result for the Reaction. In addition, if the Hazard would deal damage of a higher Tier than required to harm the target, the Action gains Lethal.
+If a character is being forced into a Hazard, ex. By an Attack shoving them into a fire, treat the Hazard as Assisting the Action, using its D/R as the result for the Reaction. In addition, if the Hazard would deal damage of a higher Tier than required to harm the target, the Action gains Lethal.
 
 For particularly dangerous Hazards, a character may choose to become Imperiled if they are forced into the Hazard or fail an attempt to avoid it. An Imperiled character is in a possibly-literal cliffhanger, and if they take any Actions except to attempt to Escape, the Hazard Opposes their roll, and they experience the Hazard with no roll at all. Additionally, the Hazard Opposes any Reactions they make while Imperiled.
 
@@ -628,7 +628,7 @@ If a Hazard fills the entire Zone, any character entering the Zone or within or 
 
 The first time a character interacts with a Hazard feature within a Zone, they become Threatened by it, indicating they are still nearby and could be forced into the Hazard. They remain Threatened until they take an Action that implies movement away, such as leaving the Zone, becoming Engaged with another character away from the Hazard, or similar. If unopposed, they may also simply state they are stepping away as part of an unrelated Action.
 Engagement
-Engagement is a way of tracking which characters in a Zone can directly affect each other. Any character may Oppose or Support Actions by or targeting characters they are Engaged with.
+Engagement is a way of tracking which characters in a Zone can directly affect each other. Any character may Oppose or Assist Actions by or targeting characters they are Engaged with.
 Engaging
 A character becomes Engaged with another if they or the other character takes an Action that requires close contact, such as a melee weapon Attack, assisting with a Physical act, or relaying a secret through whispers. Additionally, a character becomes Engaged as a consequence of movement if another character Opposes their Move Action and successfully prevents it. Finally, if unopposed, they may simply choose to Engage another character as part of another Action.
 Losing Engagement
@@ -1103,7 +1103,7 @@ Benefit:
 If more Dice are paid than the target’s INT, the target does not know that a trap has been set. If the trap is triggered by a statement the character knows the truth of, the trap is Lethal.
 Medic
 First do no harm.
-Trigger: Recovering, or Supporting another character’s Recover Action or Scene after they have taken Physical damage.
+Trigger: Recovering, or Assisting another character’s Recover Action or Scene after they have taken Physical damage.
 Benefit:
 The target may substitute either or both of the character’s Mental Abilities in place of their own Endurance Abilities when calculating how much damage they recover, but they may only heal from Physical damage when doing so.
 Vital Targeting
@@ -1183,7 +1183,7 @@ Cost: 1 Effort
 Benefit: If the target declines to follow the Influence and instead takes the damage, the Dilemma is modified. If on a subsequent Influence towards the same Action they give in, they also take a 1-Success penalty on that Attack(s), but gain +1 Power. This is cumulative if multiple Influences are used.
 Councilor
 Mental scars are just like physical ones, except it’s easier to pretend you don’t have them.
-Trigger: Recovering, or Supporting another character’s Recover Action or Scene after they have taken Influence damage.
+Trigger: Recovering, or Assisting another character’s Recover Action or Scene after they have taken Influence damage.
 Benefit:
 The target may substitute either or both of the character’s Social Abilities in place of their own Endurance Abilities when calculating how much damage they recover, but they may only heal damage from Influence when doing so.
 Doubletalk
@@ -1200,17 +1200,17 @@ General tools aren’t made or acquired with a specific purpose in mind, or have
 Specialized Tools
 Specialized tools are designed to do one specific thing very well, and are often rather useless outside of them, such as a set of lockpicks. The narrow focus means Specialized Tools grant an inherent Tier upgrade to Actions matching their use case. Even if a reasonable use case is found outside of this niche (ex. Using a lockpick to fish out something stuck in a small crevice) the bonus does not apply.
 Weapons
-Weapons are combat tools wielded and used for Attacks, Parries, supporting such Actions, or similar. 
+Weapons are combat tools wielded and used for Attacks, Parries, Assisting such Actions, or similar. 
 Nonlethal Weapons
 Nonlethal Weapons are ones that focus on controlling the target over simply killing them or beating them into submission or retreat. When acquiring the weapon, choose a condition group that can be imposed by a dilemma, such as Balance, Restraint, or Readiness. When the weapon is used for Attacks imposing that Condition, the damage threatening it is upgraded as if Lethal, and the second-degree Condition is imposed instead of the first-degree.
 Lethal Weapons
-Blades, spikes, heavy smashing weapons, and most projectile weapons are designed to kill or incapacitate the target, and such weapons provide Lethal if used to Attack or Support an Attack.
+Blades, spikes, heavy smashing weapons, and most projectile weapons are designed to kill or incapacitate the target, and such weapons provide Lethal if used to Attack or Assist an Attack.
 Shields
 While a shield can be used for offense, their designed purpose is defensive. When used to Guard or Parry Attacks, upgrade the Action’s Tier. 
 Armor
 Armor is protective gear meant to prevent Attacks from harming the character. Armor cannot be used to Attack, but can be used to Parry or Guard, and grants automatic Passive Parries on all valid Attacks.
 Vehicles
-Vehicles have Bonuses similar to any other variety of Gear, but they function differently. When taking a Vehicle Action, the character treats the Bonus of the vehicle as the Primary Ability, and picks the Supporting Abilityas normal. However, any Action using a Vehicle is upgraded in Tier.
+Vehicles have Bonuses similar to any other variety of Gear, but they function differently. When taking a Vehicle Action, the character treats the Bonus of the vehicle as the Primary Ability, and picks the Secondary Abilityas normal. However, any Action using a Vehicle is upgraded in Tier.
 
 More so than most other Gear, large and higher-Tier vehicles in particular are prone to requiring Projects to be controlled by individual characters, or to allow a crew to operate in coordination.
 Minions

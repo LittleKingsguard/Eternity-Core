@@ -1,4 +1,4 @@
-If another character has full knowledge of a Project that has advanced, they may, as a Reaction (for Scene-level Projects) or as a Stinger (for Storyboard-level Projects), make a Progress attempt towards one of their own Projects to which the events of the original Action or Scene are relevant, using the original roll as a Supporting bonus.
+If another character has full knowledge of a Project that has advanced, they may, as a Reaction (for Scene-level Projects) or as a Stinger (for Storyboard-level Projects), make a Progress attempt towards one of their own Projects to which the events of the original Action or Scene are relevant, using the original roll as an Assisting bonus.
 
 One Progress attempt may trigger multiple such Reactions, but if the number of Schemes made off of a Project exceeds that Project's Redundancy, the project suffers a setback, reducing the Redundancy as normal.
 

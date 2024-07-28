@@ -1,6 +1,6 @@
 If a character is close enoguh to a Hazard to interact ith it without ranged options, they are Threatened by it. Other characters targeting them with Actions can use the Hazard against them, even if the Action does not explicitly include movement effects, as simple proximity to the danger is enough to limit the character's responses.
 
-If a Hazard is leveraged by an Action against a character treat the Hazard as Supporting the Action, using its D/R as the result for the Reaction. In addition, if the Hazard would deal damage of a higher Tier than required to harm the target, the Action gains Lethal if it doesn't have it already. 
+If a Hazard is leveraged by an Action against a character treat the Hazard as Assisting the Action, using its D/R as the result for the Reaction. In addition, if the Hazard would deal damage of a higher Tier than required to harm the target, the Action gains Lethal if it doesn't have it already. 
 
 If the Hazard is not capable of harming the target at all, they cannot be Threatened by it.
 

@@ -1,12 +1,12 @@
 Scenes
 The structure of a scene mirrors that of the Narrative, above, with the following differences:
-Action Points (AP) are used in place of Spotlight, and are spent to declare Actions or React to other Actions. Starting and Maximum AP is calculated the same as for Spotlight, except using the Primary/Supporting Abilities chosen for the Scene.
-Effort is used in place of Resources, and is spent to raise the Power of rolls or invoke Talents. Starting and Maximum Effort is calculated the same as for Resources, except using the Primary/Supporting Abilities chosen for the Scene.
+Action Points (AP) are used in place of Spotlight, and are spent to declare Actions or React to other Actions. Starting and Maximum AP is calculated the same as for Spotlight, except using the Primary/Secondary Abilities chosen for the Scene.
+Effort is used in place of Resources, and is spent to raise the Power of rolls or invoke Talents. Starting and Maximum Effort is calculated the same as for Resources, except using the Primary/Secondary Abilities chosen for the Scene.
 Initiative takes the place of Priority, being bought with AP at the start of each Round and determining turn order within the Round.
 Quick Scenes
 If a character starts a Scene unopposed, for the sake of speeding up the plot to get to a point where more players get to act, the Scene may be resolved in the manner of an Action, rolling the Abilities chosen for the Scene and applying any relevant Talents or other Bonuses, then distributing the resulting Successes and Power across the Goals chosen for the Scene. The player then briefly explains what they did to accomplish (or fail) those Goals and play returns to the Narrative.
 Flashbacks
-A Flashback is a Scene started from inside another Scene, showing something the character starting the Flashback did in the past. A Flashback is always resolved as a Quick Scene, even if another character Reacts to join it, in which case they Support or Oppose the roll as they would for an Action.
+A Flashback is a Scene started from inside another Scene, showing something the character starting the Flashback did in the past. A Flashback is always resolved as a Quick Scene, even if another character Reacts to join it, in which case they Assist or Oppose the roll as they would for an Action.
 
 Flashbacks normally cannot have an immediate, hostile direct effect on another character, though clever use of them may allow literal or metaphorical “old wounds” to be targeted in the present.
 
@@ -22,11 +22,11 @@ Characters do not have any knowledge on whether any characters they are not Trac
 
 Any characters that chose to enter into the Scene in Stealth are Undetected (or Unknown, as appropriate) to any non-allied characters who are not Tracking or in Contact with them, and Hidden to any that are.
 Rounds
-The Primary Ability chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Supporting Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
+The Primary Ability chosen to get the character’s AP/Effort for the round is determined by the player that started the Scene. The Secondary Ability is chosen separately for each Character. Exerting for more AP or Effort costs PA on the Action track (APA).
 Turn
 On a character’s turn within a scene, they may declare an Action. As above with Scenes, they may start additional Actions at any time after for 2 AP each, up to a total of their starting AP.
 Reaction
-Instead of participating in a scene, a Reaction at the Scene scope involves the character opposing or supporting the Action or Reaction triggering it.
+Instead of participating in a scene, a Reaction at the Scene scope involves the character opposing or Assisting the Action or Reaction triggering it.
 Blitz
 If a character has not taken their turn yet and wishes to React to an Action, they will have to pay an additional 1 AP for every two points of Initiative between the current turn and their own.
 

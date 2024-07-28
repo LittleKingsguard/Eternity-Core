@@ -1,1 +1,1 @@
-A single attempt cannot gain a Bonus from more than one effect from each subtype (chain, asset, support, etc) unless otherwise noted. Other traits from available sources may still apply.
+A single attempt cannot gain a Bonus from more than one effect from each subtype (chain, asset, Assist, etc) unless otherwise noted. Other traits from available sources may still apply.

@@ -1,4 +1,4 @@
-At the start of each Act, each character chooses a Primary and Supporting Ability they wish to favor for the duration of the Act, and the associated Roles.
+At the start of each Act, each character chooses a Primary and Secondary Ability they wish to favor for the duration of the Act, and the associated Roles.
 For the two selected, take the Action Ability (DEX, INT, MNP, LCK) from each pair. 
 These two determine the amount of Spotlight the character has for instigating or joining scenes as normal for derivative values, i.e. starting Spotlight is equal to the Primary Action Ability. 
 They may at any later time Exert themselves for additional Spotlight, taking SPA damage point-for-point, up to the soft cap, i.e. both Action Abilities combined.

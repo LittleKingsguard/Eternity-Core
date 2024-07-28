@@ -1,1 +1,1 @@
-Two Supporting Roles are chosen, one from each of the two chosen Primary and Supporting Abilities.
+Two Secondary Roles are chosen, one from each of the two chosen Primary and Secondary Abilities.

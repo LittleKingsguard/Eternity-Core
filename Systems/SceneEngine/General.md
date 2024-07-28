@@ -2,4 +2,4 @@ Each Scene is a moment the story focuses on, showing the characters in action as
 
 Scenes can either be played out in full and each action within handled mechanically, as recommended for complex Scenes with multiple acting characters or sufficient dramatic importance, or abbreviated into a single roll representing a montage of actions, as recommended for a Scene without opposition or that interrupts the flow of another active Scene.
 
-A character in a Scene can be either an active participant, driving the action, or passively engaged, in which case they provide support or opposition to active characters. Active characters are more influential in the Scene but taking an active role requires it to be the characters turn, or expending limited resources.
+A character in a Scene can be either an active participant, driving the action, or a passively supporter, in which case they provide support or opposition to active characters. Active characters are more influential in the Scene but taking an active role requires it to be the characters turn, or expending limited resources.

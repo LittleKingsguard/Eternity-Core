@@ -1,0 +1,1 @@
+Physical Talents deal with movement, stealth, physical combat, body control, and brute force.

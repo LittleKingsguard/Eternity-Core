@@ -1,0 +1,1 @@
+By Committing to their Support role, a character can make a number of Supports equal to the sum of their Primary and Secondary Action ratings, instead of just the Primary. Commiting has a default cost of 1R, and some Support options may have additional costs or penalties if used after Committing.
