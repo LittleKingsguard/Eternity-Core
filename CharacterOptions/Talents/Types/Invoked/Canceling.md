@@ -1,0 +1,1 @@
+If a Talent lasts until canceled, it may be canceled as part of any Action or Reaction. The Talent continues being in effect until the end of the Action, or the end of the Action being Reacted against.

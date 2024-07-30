@@ -1,0 +1,1 @@
+Mental Talents deal with knowledge, discovery, schemes, awareness, and how that aptitude affects their place in society.
