@@ -1,7 +1,7 @@
 # Wrestler
 
 *The body is a Physical thing, and bound by Physical laws. To restrain or break your own restraints, you must first understand these bindings, for all others are built from them.*  
---An Aetherborn Guide to the Physical Realm, Chapter VIII: Self-Defense
+--The First Incarnation's Guide to the Physical Realm, Chapter VIII: Self-Defense
 
 Use: When declaring an Attack  
 Cost: +1 Power  
