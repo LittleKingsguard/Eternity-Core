@@ -1,7 +1,7 @@
 # Blindsense
 
 *To most mortals, the eye is their keenest sense. Do not think this means it is the hardest to vanish from, for one may simply hide among the clutter it perceives.*  
---Void Body Teachings, Book II
+--Void Body Teachings, Book II: Material Practices
 
 Use: When Discovering as an Action or Reaction  
 Cost: Blind Condition  

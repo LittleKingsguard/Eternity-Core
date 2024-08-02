@@ -1,0 +1,1 @@
+Social Talents deal with interpersonal interactions, public speaking, and presentation and status within society.

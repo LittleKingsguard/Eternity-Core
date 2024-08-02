@@ -32,7 +32,7 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 28. 
 29. 
 30. 
-31. If a veteran makes a rookie mistake, it wasn't a mistake. -- False Opening
+31. If a 'rookie mistake' should have killed them by now, it's not a mistake. -- False Opening
 32. A predictable enemy is a reliable friend. -- Mastery of the Unknowing Pawn  
 33. 
 34. 

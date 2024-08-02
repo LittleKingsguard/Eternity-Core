@@ -1,6 +1,6 @@
 # False Opening
 
-*#31: If a veteran makes a rookie mistake, it wasn't a mistake.*  
+*#31: If a 'rookie mistake' should have killed them by now, it's not a mistake.*  
 -- 88 Adages for the Adventurous Aetherborn
 
 Use: Influence forcing the target to attack the character, or a Trap punishing the target for attacking the character.  

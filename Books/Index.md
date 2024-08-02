@@ -6,7 +6,7 @@ Destiny Manifesting Law: Third Scroll of the Disciple -- Mastery of the Opportun
 
 Manual of Absence: Chapter I: Preliminary Studies -- Mastery of the Vanishing Trail;
 
-Void Body Teachings: Book II -- Blindsense;
+Void Body Teachings: Book II -- Blindsense; Book IV -- Mastery of the Manifold Mask;
 
 The First Incarnation's Guide to the Physical Realm: Chapter III: Social Laws -- Medic; Chapter II: Natural Laws -- Ricochet; Chapter VIII: Self-Defense -- Wrestler;
 
@@ -25,3 +25,7 @@ Meditations on Distance: Chapter III opening line -- Driving Strike; Chapter VI 
 Tales from Casseveri: Book XI: The Stoneguard -- Hauler;
 
 Illustrated Guide to the Physical Realm: Chapter IX: Weapons -- Rapid Reload;
+
+Scroll of Queens -- Mastery of the Thousand Ears;
+
+Codex of the Eternal Scholar: Book XI -- Style Deconstruction
