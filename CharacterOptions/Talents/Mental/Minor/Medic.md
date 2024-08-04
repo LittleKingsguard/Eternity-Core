@@ -10,4 +10,4 @@ Grants the following Support Action, which may be used even in Scenes the charac
 First Aid  
 Trigger: A character takes damage from an act of violence or a Physical Hazard  
 Benefit: The Power of the Attack or Hazard is reduced by the Power of the Support.  
-Going Hot: The Both the Supported and Supporting character have their Agency or Impact in the next Scene reduced by 1. If either character is Tracked or has Contact by a third party, they both are.
+Going Hot: Both the Supported and Supporting character have their Agency or Impact in the next Scene reduced by 1. If either character is Tracked or has Contact by a third party, they both are.

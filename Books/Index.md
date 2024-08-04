@@ -16,7 +16,7 @@ Oblivion Records: Scroll I -- Mastery of the Empty Hand;
 
 The Windtamer's Teachings: Lesson IV -- Mastery of the Flying Step;
 
-Cycle of the Eternal Horizon: Book LCVIII -- Mastery of the Phantom's Passage;
+Cycle of the Endless Horizon: Book CCCXXVI -- Mastery of the Phantom's Passage; Book LCVIII -- Deceptive Skill
 
 Codex of the Everlasting Mountain: Book I: Protection -- Mastery of the Steel Skin; Book III: Attack -- Overpenetrate;
 
@@ -29,3 +29,5 @@ Illustrated Guide to the Physical Realm: Chapter IX: Weapons -- Rapid Reload;
 Scroll of Queens -- Mastery of the Thousand Ears;
 
 Codex of the Eternal Scholar: Book XI -- Style Deconstruction
+
+Alchemy for the Anarchist: Book 2: Animist Practices -- Enraging Provocations

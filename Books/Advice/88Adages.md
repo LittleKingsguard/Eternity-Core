@@ -3,7 +3,7 @@
 Pithy, frequently violence-related quotes reflecting the life lessons of a Valkyrian celestial nomad. Pragmatic, often cynical, but, befitting such a long-lived and experienced author, typically errs on the side of enlightened self-interest over instant gratification.
 
 1. 
-2. 
+2. There are always more interpretations. -- Doubletalk
 3. 
 4. 
 5. 
@@ -24,8 +24,8 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 20. 
 21. 
 22. 
-23. 
-24. 
+23. Before going for the win, avoid the tie. -- Unused
+24. The consequences of a mortal's actions will outlive them. -- Unused
 25. 
 26. 
 27. 
@@ -54,8 +54,8 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 50. 
 51. 
 52. 
-53. 
-54. 
+53. Trust is not an acceptable substitute for a Plan B. -- Unused
+54. Plan B should never require apologizing for Plan A. -- Unused
 55. 
 56. 
 57. 
