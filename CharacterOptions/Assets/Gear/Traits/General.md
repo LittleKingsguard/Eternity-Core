@@ -1,1 +1,1 @@
-Gear does not have default traits.
+Gear does not have default traits. If the total value of all traits and bonuses exceeds 5, the Gear is Overt.

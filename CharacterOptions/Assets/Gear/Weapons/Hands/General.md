@@ -1,0 +1,1 @@
+The number of hands the character requires to hold the weapon at ready. Smaller weapons are generally less multipurpose and/or less powerful, but can be paired with other weapons to compensate, or leave hands free to perform other tasks.

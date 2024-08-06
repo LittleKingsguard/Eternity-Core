@@ -1,0 +1,3 @@
+Some weapons are capable of being used without occupying any hands at all, such as spikes mounted to armor or, more exotically, wonders of magitek capable of identifying and shooting at targets from a shoulder mount or other unusual carrying method.
+
+Such weapons are more time-consuming to equip than handheld weapons, usually requiring straps to be fastened or similar means. Readying them is thus a Miscellaneous Action or Project two Tiers above the Gear's. As usual, the character may choose to already have it equipped when entering the scene, but this is Obvious unless it is Concealable. If it would already be Obvious, it is instead Overt.

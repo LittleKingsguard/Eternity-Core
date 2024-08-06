@@ -1,0 +1,1 @@
+Each profile for a weapon has exactly one Core Trait, broadly defining the style of weapon it is and how the character fights with it. These are powerful bonuses equivalent to [spending a Tier](../../../../../Systems/DiceEngine/Tiers/SpendingTiers/General.md) on the roll that specialize the weapon towards a particular task or variety of enemy.

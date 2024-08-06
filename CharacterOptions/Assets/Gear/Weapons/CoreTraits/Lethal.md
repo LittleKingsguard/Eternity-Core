@@ -1,0 +1,1 @@
+A Lethal weapon has its damage upgraded. This is cumulative with the base Tier of the attack for the purposes of beating the target's Defense Tier, but not for defeating any Parry or Oppose rolls. When particularly suited, this may also stack for the purposes of destroying Obstacles or other similar rolls. Lethal has no defensive benefit.

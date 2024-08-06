@@ -1,0 +1,1 @@
+A one-handed weapon has no special features. The character can make full use of the weapon with one hand, and gains no benefit from using more.
