@@ -1,0 +1,1 @@
+All Melee weapons have a least one Reach value, representing how long the weapon is and what its preferred fighting range is. A long weapon is useful for preventing enemies from closing the distance required to use a shorter weapon, but the size can make it a hinderance in a close-quarters fight.

@@ -1,0 +1,1 @@
+If the Weapon Profile used to Attack only has longer Reach values than the current Distance, the Defender may Oppose the Attack using their weapon instead of needing to Parry to gain the Weapon's bonus.

@@ -1,0 +1,1 @@
+Close-Quarters weapons are viable in a grapple, clinch, or other tight confines, such as fists, daggers, knives, knuckledusters, and similar.

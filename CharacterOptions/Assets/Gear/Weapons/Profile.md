@@ -1,0 +1,3 @@
+A Weapon Profile is a combination of Core Traits, reach/range, and additional traits that define one way the weapon can be used. All weapons have at least one Profile, and may gain an additional one by being Versatile or Two-Handed, or by adding +1/+2 to the D/R of Acquiring the weapon.
+
+These Profiles may have different Core Traits, reach/range, etc. and represent different ways of attacking with the weapon, such as a spear having Lethal and Penetrating when using the spearpoint to attack, and a separate profile for using the shaft itself in both hands as a quarterstaff, being Swift and Sweeping. The total value of traits and Dice/Power bonuses of all profiles must be equal, however.

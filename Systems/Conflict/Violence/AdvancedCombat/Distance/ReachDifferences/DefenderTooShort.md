@@ -1,0 +1,1 @@
+If the Defender's weapon profile of choice only has Reach values shorter than the current distance, they do not treat the Attacking character Engaged for the purposes of Opposing other Actions, and cannot use Counterattack Talents when Parrying.

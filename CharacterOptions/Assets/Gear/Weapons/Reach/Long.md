@@ -1,0 +1,3 @@
+A Long-reach weapon has a value, such as Long 1. A Long Weapon will have a reach advantage over Close and Standard weapons, and any Long weapons of lower value than their own. However, they will take a Dice penalty equal to this value when Parrying in a standard-distance fight.
+
+Long weapons are always Overt unless they are Flexble or Collapsible. If they are more than Long 2, they have Extended Reach and can attack into neighboring Zones.

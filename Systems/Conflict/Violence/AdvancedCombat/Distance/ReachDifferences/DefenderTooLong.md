@@ -1,0 +1,1 @@
+If the Weapon Profile used to Parry only has Reach values longer than the current Distance, they lose Dice equal to the difference in Reach.

@@ -1,0 +1,1 @@
+A Standard-reach weapon is too large to easily fight an enemy directly in contact with the wielder, but long enough to have a distance advantage over any that can. Most one-handed melee weapons fall into this reach, such as swords, axes, maces, etc.

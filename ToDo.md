@@ -15,3 +15,4 @@ TODO: #11 Consider how to handle Defense Tier advancement
 TODO: #22 Add core Minion Bonuses
 TODO: #23 Continue Conditions
 TODO: #33 Continue Passive Supports
+TODO: #39 Consider Bluff mechanic 
