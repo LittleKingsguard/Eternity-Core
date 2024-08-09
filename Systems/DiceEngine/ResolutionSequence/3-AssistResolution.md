@@ -1,0 +1,3 @@
+Characters Assisting must lock in their Talents invoked, and any Bonuses granted to the attempt by the AP/SP/Effort/Resources expended or any external Bonuses. Half their Dice are then converted to Successes. The roll or Reaction targeted by the Assist then gains a Dice/Power Bonus equal to the Successes/(Power/2).
+
+A Reaction always resolves before the target. If an Assist affects another Assist, the first resolves and applies its bonus to the second.

@@ -1,0 +1,3 @@
+The player starting the roll declares what they intend the roll to accomplish. This is almost always an Action or a Quick Scene, and the player must specify any targets, any Assets used, and the type of Action or the Goals intended for the Scene. They must also pay the appropriate AP/Spotlight costs for the Action or Scene, plus any additional AP/SP or Effort/Resources for invoked Talents or bonuses. 
+
+The player may choose how to allocate any such expenses in later stages, but **cannot spend AP/SP/Effort/Resources after this step**.

@@ -16,3 +16,4 @@ TODO: #22 Add core Minion Bonuses
 TODO: #23 Continue Conditions
 TODO: #33 Continue Passive Supports
 ~~TODO: #39 Consider Bluff mechanic ~~ Using Contest subsystem
+TODO: #40 Rethink Saves again to make it resolve faster.

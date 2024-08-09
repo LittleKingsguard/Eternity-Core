@@ -1,0 +1,5 @@
+After the Actino/Scene has been declared, the target, if any, and any other available characters capable of intervening can declare Reactions to assist or oppose the roll, or to assist another Reaction. When declaring a Reaction, the player must declare whether they are assisting or opposing, any Assets used, whether they are assisting the roll or another Reaction, and how much AP/SP/Effort/Resources they are expending as part of the Reaction and any Talents invoked.
+
+As there can be multiple Reactions, the step can repeat until no other characters React. Players may also increase the amount of currencies spent in response to other Reactions, but cannot reduce it or cancel their Reactions once declared.
+
+After the end of this step, players **cannot spend more AP/SP/Effort/Resources on their Reactions**.

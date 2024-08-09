@@ -1,0 +1,3 @@
+Characters Opposing the roll must lock in their Talents invoked, and any Bonuses granted to the attempt by the AP/SP/Effort/Resources expended or any external Bonuses, such as the inherent D/R/Tier of the roll, if any. Half of their Dice are then converted to Successes. The D/R/Tier of the Action is then raised to the result of the roll, if it is higher.
+
+A roll cannot be Opposed by more than one Reaction. If it would be, the weaker attempts are instead resolved as Assists for the strongest.

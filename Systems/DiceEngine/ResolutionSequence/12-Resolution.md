@@ -1,0 +1,3 @@
+On a successful attempt, the results of the intended Action/Scene are applied, such as damage from a Conflict, advancing a Project, etc.
+
+Regardless of success, the palyers involved and the GM/table decide how to represent the Spillover from an Action that exceeds the level of Escalation of the Scene, such as collateral damage from an Attack, changes in opinion of a crowd witnessing a debate, or rumors and trends following a spectacle in a social setting.

@@ -1,0 +1,1 @@
+After all Reactions have resolved, the acting player then makes final decisions on allocating Dice/Power for the roll, including any spent on Talents or gained from Assists, Assets, spent Effort/Resources, or other bonuses.

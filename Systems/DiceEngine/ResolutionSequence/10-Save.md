@@ -1,0 +1,1 @@
+In the case of a dire consequence, the target may choose to declare a Save.

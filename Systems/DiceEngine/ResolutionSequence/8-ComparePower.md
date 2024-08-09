@@ -1,0 +1,3 @@
+After rolling and comparing Successes to Difficulty, the player may convert 8 Power into a Tier upgrade, and must do this if their Power is greater than 10. They may also choose to spend a Tier to reduce the Resistance to 0. They then subtract the Resistance of the attempt from their remaining Power. 
+
+If this reduces the Power below 0, the roll fails and resolution skips to step 10. Many rolls such as Conflict Actions may technically succeed at 0 Power, but have no effect.

@@ -1,0 +1,1 @@
+If a Talent or Asset used by a character or the traits of an Obstacle or Crisis would impose consequences for an attempt or failure, those resolve before the conclusion of the attempt.
