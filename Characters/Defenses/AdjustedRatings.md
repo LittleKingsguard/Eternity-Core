@@ -1,0 +1,1 @@
+A character's Defense Tier can be raised by reducing their effective Persistence Ability Ratings by a total of 4 for the purposes of calculating their other Defense values. This may be repeated, and must be done if the total would exceed 10.

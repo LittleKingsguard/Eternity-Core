@@ -1,1 +1,1 @@
-When making a Save for which their Birthright magic is relevant, the player may spend an extra SPA to upgrade the Tier.
+When making a Save for which their Birthright magic is relevant, the character's Defense Tier is upgraded by 1.

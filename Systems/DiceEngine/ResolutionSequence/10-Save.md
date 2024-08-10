@@ -1,1 +1,3 @@
-In the case of a dire consequence, the target may choose to declare a Save.
+In the case of a severe trhreat to themselves or an Intimacy, the target or another character may choose to declare a Save, reducing the remaining Power of the attempt by their Protection.
+
+If this reduced the remaining Power below 0, the attempt still succeeds for the purposes of any Talents or similar rules, but will not deal damage. The acting character may spend a Tier to eliminate the Protection instead.

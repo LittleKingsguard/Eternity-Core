@@ -1,0 +1,1 @@
+A character's Recovery is the amount of Plot Armor they Recover when taking a Recovery Action, or at the end of Rounds or Acts. It is equal to the higher of a character's two Adjusted Persistence Ratings.
