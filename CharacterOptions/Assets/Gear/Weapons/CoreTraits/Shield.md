@@ -1,0 +1,1 @@
+A Shield has no special benefits on offense, but Upgrades Parries for which it is used. Against effects specifically targeting the shield, such as attempts to destroy or disarm the shield, or grab the character by the shield, the Action is upgraded instead.

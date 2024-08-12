@@ -1,0 +1,5 @@
+Expanded Abilities represent effects of the character’s status in society, or supernatural gifts that are not directly tied to their mental, social, or physical competence.
+
+A character may only train an Expanded Ability or have any points allocated to one in character creation if they have at least one Major Talent for that Ability. They may, of course, train the Talent in question without having any points in the appropriate Ability, though any rolls using the Ability prior to fully unlocking it will treat the ability rating as 0/0.
+
+An Expanded Ability can only be used for a roll for a small subset of actions by default, and Talents may unlock additional ones. Conversely for this limited utility, Expanded Abilities are powerful in their niche, and easier to advance vertically in strength than the Core Abilities.
