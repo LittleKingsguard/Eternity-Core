@@ -1,4 +1,4 @@
-Codex of the Everlasting Mountain 
+# Codex of the Everlasting Mountain 
 
 A manual of warrior training that seeks to gradually enlighten the student to the Primal Stone, channeling its aspects of durability, immutability, and unyielding strength.
 

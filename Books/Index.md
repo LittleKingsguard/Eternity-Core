@@ -31,3 +31,5 @@ Scroll of Queens -- Mastery of the Thousand Ears;
 Codex of the Eternal Scholar: Book XI -- Style Deconstruction
 
 Alchemy for the Anarchist: Book 2: Animist Practices -- Enraging Provocations
+
+The Invisible Fist of Command

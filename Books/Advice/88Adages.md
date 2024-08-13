@@ -37,7 +37,7 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 33. 
 34. 
 35. 
-36. 
+36. If you can pay someone to do it, you know how to get it done. -- Retainers
 37. 
 38. 
 39. If you can't leave safety, you're not safe. -- Unused
