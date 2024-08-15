@@ -1,0 +1,2 @@
+# Consuming Passion
+The character gains Passion every time they spend APA on a magical Talent. If they are at their maximum Passion, any additional APA spent on the attempt grants a +2 cumulative Floating Bonus.

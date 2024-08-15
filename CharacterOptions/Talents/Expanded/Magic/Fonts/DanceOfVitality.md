@@ -1,0 +1,2 @@
+# Dance of Vitality
+The character gains Passion on every Action they take. If they are already at their maximum Passion, they may expend all of it to immediately Recover APA. They cannot gain more APA than they had Passion.

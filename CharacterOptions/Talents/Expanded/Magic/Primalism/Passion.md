@@ -1,0 +1,3 @@
+Passion is a resource used by all Primalist Abilities that tracks how attuned the character is to the Shapes they have connected to and how much influence the ideals of the Shape have over the character's current behavior. Most Primalist Fonts of Magic grant Passion gain, and have additional effects based on the current state of their Passion. Additionally, most Major Talents gain a Floating Bonus equal to their Passion.
+
+Passion cannot exceed the higher of the character's Primalist Ratings, and cannot be reduced below 0. If a character uses a different Font of Magic than their last attempt using Primalism, their Passion resets to 0.
