@@ -58,7 +58,7 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 54. Plan B should never require apologizing for Plan A. -- Unused
 55. 
 56. 
-57. 
+57. Do not light off big fireballs in small rooms. -- Controlled Burn
 58. 
 59. 
 60. 
