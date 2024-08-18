@@ -1,0 +1,2 @@
+# Enduring Rock
+The character gains Passion every time they take a Guard or Prepare Action, refuse a Dilemma, or are targeted by a Conflict Action they do not React to. They may spend Passion on step 9 of any Action targeting them, increasing their Protection by 2 per point spent.

@@ -1,0 +1,2 @@
+# Earth's Embrace
+The character gains Passion every time they take a Prepare Action, Assist an allied character, or Oppose an Action targeting an ally. When Assisting a character, they may expend Passion to grant a +1 Floating Bonus to the target character for each point spent.

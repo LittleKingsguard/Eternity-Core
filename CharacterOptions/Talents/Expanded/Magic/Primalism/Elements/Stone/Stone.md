@@ -10,9 +10,9 @@ Before choosing from the below options, the character gains access to one of the
 ## Incarnate Form
 Cost: -- or 1 AP/Effort    
 Timing: Step 1/2  
-The character's attunement to the Prinal Shape of Stone allows them to manipulate the earth and rock around them. When using this ability as part of an attempt, the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or AP.
+The character's attunement to the Prinal Shape of Stone allows them to manipulate the earth and rock around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or AP.
 
-In combat, rock attacks use the following weapon profile:  
+As an Attack, rock attacks use the following weapon profile:  
 Core Trait: Powerful  
 Short Range
 Targets: 1
