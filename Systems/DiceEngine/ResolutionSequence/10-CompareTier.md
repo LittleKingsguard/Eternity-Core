@@ -1,0 +1,1 @@
+If the remaining, unspent Tiers of the attempt are equal or greater than the Tier of any Oppose Reaction, Obstacle, Crisis, Project, etc., the attempt succeeds. If not, the attempt fails. In either case, resolution continues.

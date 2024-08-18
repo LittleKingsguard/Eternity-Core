@@ -14,10 +14,10 @@ The character's impulsive drive wills the Flame to manifest physically in the fo
 
 When used for attacks, obstacle destruction, etc., the flames are Lethal against anything that burns, or is particularly susceptible to high heat.  
 In combat, the flames use the following weapon profile:  
-Core Trait: Lethal (see above)
-Short Range
-Targets: All Engaged/Target + All Engaged by Target
-Traits: Wash
+Core Trait: Lethal (see above)  
+Short Range  
+Targets: All Engaged/Target + All Engaged by Target  
+Traits: Wash  
 
 ## Idealized Concept
 Cost: -- or 1 E/APA  

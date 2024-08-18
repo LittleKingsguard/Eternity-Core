@@ -13,6 +13,6 @@ One character per die spent is not affected by the normal splash/area damage of 
 ## Idealized Concept
 Use: When targeted by any effect leveraging one of the character's Intimacies  
 Cost: 1+ APA or SPA  
-Timing: Step 8/9  
+Timing: Step 8  
 Benefit:  
 The character wields the Primal Flame against their own temptations, temporarily burning away emotional connections that would lead them astray. The character may spend 1 APA each to ignore a Minor Intimacy for the rest of the Scene, or 1 SPA to ignore a Major Intimacy.

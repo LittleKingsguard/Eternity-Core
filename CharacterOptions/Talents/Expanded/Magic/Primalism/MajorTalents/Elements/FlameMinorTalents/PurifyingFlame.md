@@ -13,6 +13,6 @@ The character may use their Flame Shaping talents for crafting without complicat
 ## Idealized Concept
 Use: When affected by poison, disease, Anima-based emotional/mental effects, etc.  
 Cost: --  
-Timing: Step 9  
+Timing: Step 10  
 Benefit:  
 The character burns away the outside influence corrupting them, raising their Defense Tier by 1 against valid threats.
