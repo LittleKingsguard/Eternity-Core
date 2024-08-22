@@ -5,7 +5,7 @@
 *It is the stream in the ditch that waters the field.*
 *It is the cloud on the breeze.*
 *It is motion and necessity, and its Shape is that which it must be.*  
--- Scrolls of Fluid Living, Book I
+-- Scrolls of the Fluid Life, Book I
 
 Before choosing from the below options, the character gains access to one of the following Font of Magic options:
 * Crashing Wave
@@ -20,9 +20,9 @@ As an Attack, water attacks use the following weapon profile:
 Core Trait: Control  
 Short Range
 Targets: Target + Splash or All Engaged
-Traits: Forceful
+Traits: Flexible
 
 ## Idealized Concept
 Cost: -- or 1 E/APA  
 Timing: Step 1  
-As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When taking Actions they may name a Core Ability. Unless another character Opposes or Parries them using that Ability for the reaction, the attempt is Upgraded. If another character Opposes or Parries and does not use the chosen Ability, the cost of this Talent is refunded.
+As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When taking Actions they may name a Core Ability. Unless another character Opposes or Parries them using that Ability for the reaction, the attempt is Upgraded. If another character Opposes or Parries and does not use the chosen Ability, the cost of this Talent is refunded. The character additionally gains their Passion as a Floating Bonus to the roll if they are using the chosen Ability.
