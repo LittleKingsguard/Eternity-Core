@@ -1,0 +1,2 @@
+# Crashing Wave
+The character gains Passion every time they succeed at a Parry or win a Contest. By spending all of their current Passion, they may gain both Dice and Power equal to the Passion expended.

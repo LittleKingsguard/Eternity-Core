@@ -16,10 +16,10 @@ When used for attacks, obstacle destruction, etc., the flames are Lethal against
 In combat, the flames use the following weapon profile:  
 Core Trait: Lethal (see above)  
 Short Range  
-Targets: All Engaged/Target + All Engaged by Target  
+Targets: Target + Splash or All Engaged  
 Traits: Wash  
 
 ## Idealized Concept
 Cost: -- or 1 E/APA  
 Timing: Step 1/2  
-The Flame feeds on the character's impulsive desire, and burns away their hesistation. As a passive effect, their Initiative always starts equal to their Primalist Action Rating before spending AP, instead of 0. When taking Actions and not Opposed by a character with equal or greater Initiative, the character gains a Floating Bonus equal to their current Passion and may Upgrade that Action by paying 1 Effort or APA.
+The Flame feeds on the character's impulsive desire, and burns away their hesistation. As a passive effect, their Initiative always starts equal to the lowest of their Primalism ratings before spending AP, instead of 0. When taking Actions and not Opposed by a character with equal or greater Initiative, the character gains a Floating Bonus equal to their current Passion and may Upgrade that Action by paying 1 Effort or APA.
