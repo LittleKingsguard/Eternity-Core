@@ -21,4 +21,4 @@ Traits: Forceful
 ## Idealized Concept
 Cost: --   
 Timing: Step 2  
-The Stone butresses the character's form and resolve, granting them the power to stand firm. As a passive effect, their Defense Tier is increased by 1 for all purposes. When taking Passive Reactions (ex. from Armor or Guard Actions), the character gains a floating bonus equal to their Passion.
+The Stone butresses the character's form and resolve, granting them the power to stand firm. As a passive effect, their Defense Tier is increased by 1 for all purposes. When taking Passive Reactions (ex. from Armor or Guard Actions) or invoking a Stone Minor Talent, the character gains a floating bonus equal to their Passion.

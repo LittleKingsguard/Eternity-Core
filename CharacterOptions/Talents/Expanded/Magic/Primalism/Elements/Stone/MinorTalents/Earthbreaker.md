@@ -12,6 +12,6 @@ The character manipulates the ground they drew the material of their attack from
 
 ## Idealized Concept
 Use: Unbalancing a target, or using a gravity-based Hazard against them  
-Cost: --  
-Timing: Step 1/2  
-The target impacts the ground hard enough to partially bury them. On a Success, the target is trapped behind an Obstacle of equal Tier to the Action that buried them, and cannot move or rise from Prone until they overcome it.
+Cost: 1 AP  
+Timing: Step 12  
+The character continues through the attack with a mighty follow-through, driving them literally into the ground. On a Success, the target is trapped behind an Obstacle of equal Tier to the Action that buried them, and cannot move or rise from Prone until they overcome it.
