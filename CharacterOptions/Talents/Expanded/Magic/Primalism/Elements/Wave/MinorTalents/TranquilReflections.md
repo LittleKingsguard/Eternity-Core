@@ -14,4 +14,4 @@ The character catches the power of the countered Action and weaves it into their
 Use: Contest vs. Mental, Any Parry vs. a Conflict Action  
 Cost: --  
 Timing: Declare Step 2, Resolve Step 6 and/or 11  
-The character channels the aspects of reflection and redirection, letting them guide their moves into turning aside the hostile act. If the character wins the Contest, they may either redirect the Conflict Action to a valid third party, or cause it to miss completely.
+The character channels the aspects of reflection and redirection, letting them guide their moves into turning aside the hostile act. If the character wins the Contest, they may either redirect the Conflict Action to a valid third party, or cause it to miss completely. If the action is redirected, its Power cannot be greater than the margin of victory in the Contest.

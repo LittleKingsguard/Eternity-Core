@@ -23,6 +23,7 @@ Targets: Target + Splash or All Engaged
 Traits: Flexible
 
 ## Idealized Concept
-Cost: -- or 1 E/APA  
-Timing: Step 1  
-As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When taking Actions they may name a Core Ability. Unless another character Opposes or Parries them using that Ability for the reaction, the attempt is Upgraded. If another character Opposes or Parries and does not use the chosen Ability, the cost of this Talent is refunded. The character additionally gains their Passion as a Floating Bonus to the roll if they are using the chosen Ability.
+Use: Contest X vs. X  
+Cost: 1 E/APA  
+Timing: Step 1/2  
+As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When making any attempt they may declare a Contest using and targeting any Ability they possess. If the character wins the Contest, the attempt is Upgraded. The character additionally gains their Passion as a Floating Bonus to the roll if they are using the chosen Ability.
