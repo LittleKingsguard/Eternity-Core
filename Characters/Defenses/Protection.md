@@ -1,3 +1,3 @@
 A character's Protection is equal to the lower of their two adjectsed Persistence ratings. If a character is subject to any Conflict Action or Hazard to which they do not React, they reduce the Power by their Protection before applying damage. If the damage source is above their Defense Tier, the attacker may choose to spend a Tier to cancel the Protection instead.
 
-Protection can also be applied even when the character Reacted by declaring a Save and taking the appropriate costs.
+Protection is also applied if the character would receive direct damage during a Conflict Action they started, ex. from a target's Retaliation Talents. **However, this does not apply to Dilemmas**.

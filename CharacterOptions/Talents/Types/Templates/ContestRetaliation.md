@@ -4,7 +4,7 @@
 -- Source
 
 Use: Contest vs. [Ability], After Parrying or Opposing a Conflict Action  
-Cost: 1+ [Dice/Power]  
+Cost: -- <or X Dice/Power/Effort>  
 Timing:  
 * Declare Step 2
 * Trigger Step 6
@@ -14,3 +14,5 @@ Timing:
 
 Design Notes:  
 Contest-dependent retaliation is meant to evoke a means of defense/counterattack that is more powerful against a specific variety of enemy, such as feints and misdirection working better against the inexperienced. These are intended to allow the player to target weak abilities in Advesaries or easily overcome Minions, or severely hinder their rolls by forcing them to pay to overcome the character's advantage.
+
+If the character faces a penalty for failing the Contest, this has no activation cost. Otherwise, there is either an Effort cost, or a minimum amount of Dice or Power must be added to the Contest.
