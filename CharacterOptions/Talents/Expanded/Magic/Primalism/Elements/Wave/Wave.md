@@ -14,7 +14,7 @@ Before choosing from the below options, the character gains access to one of the
 ## Incarnate Form
 Cost: -- or 1 E/APA  
 Timing: Step 1/2  
-The character's attunement to the Prinal Shape of the Wave allows them to manipulate the water around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or APA.
+The character's attunement to the Primal Shape of the Wave allows them to manipulate the water around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or APA.
 
 As an Attack, water attacks use the following weapon profile:  
 Core Trait: Control  
