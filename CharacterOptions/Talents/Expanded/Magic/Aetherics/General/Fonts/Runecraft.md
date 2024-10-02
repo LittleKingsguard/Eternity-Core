@@ -1,0 +1,3 @@
+Runecraft is the process of encoding the spell into a physical object made of some aetherically conductive material such as brightsteel alloy, precious metals, spiritwood, beast bones, or crystal. While carved staves and wands are common implements for this, engraved medallions are a more portable (if less aimable) tool, and many well-heeled mages will customize inscribed rings and goldwork-embroidered gloves to keep particular favorites literally at hand at all times.
+
+A Runecraft spell is associated with a specific minor item (ex. the above options) or a Gear Asset (ex. a shield having a Force repulsion spell engraved on it). The Spell is Readied if and only if the item or Gear associated with it is.

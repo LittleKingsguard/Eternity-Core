@@ -3,7 +3,7 @@
 *When the fire has burned away, the seas have boiled away, and the wind-blown sand has worn the mountain flat, the Winds will still blow over an empty world. Consider: That which never had form may never lose it.*  
 -- Chant of Ceaseless Breath, First Scroll
 
-Before choosing from the below options, the character gains access to one of the following Font of Magic options:
+Before choosing from the below options, the character gains access to one of the following Tradition options:
 * Eternal Breeze
 * Sudden Gust
 

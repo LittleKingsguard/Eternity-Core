@@ -3,7 +3,7 @@
 *What is the Flame? It is action, for of the Elements it alone dances and spreads of its own accord.*  
 -- Path of Dancing Light, Book II
 
-Before choosing from the below options, the character gains access to one of the following Font of Magic options:
+Before choosing from the below options, the character gains access to one of the following Tradition options:
 * Consuming Passion
 * Dance of Vitality
 

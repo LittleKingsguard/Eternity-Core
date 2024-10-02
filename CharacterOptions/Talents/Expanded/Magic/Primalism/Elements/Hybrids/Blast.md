@@ -3,7 +3,7 @@
 *TODO: #47 Add quote for Blast.*  
 -- Cycle of Sea and Sky, Book X
 
-If learning as a Major Talent, the character gains access to one of the Font of Magic options listed in either the Wind or Flame Shaping Talents.  
+If learning as a Major Talent, the character gains access to one of the Tradition options listed in either the Wind or Flame Shaping Talents.  
 If the character has mastered both of the above Talents, they may learn this as a Minor Talent.
 
 ## Incarnate Form

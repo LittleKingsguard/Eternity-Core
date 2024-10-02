@@ -3,7 +3,7 @@
 *Among the countless planes of the Cosmos, one may find forgotten realms lost to darkness, as even the stars themselves have failed the test of time. And yet, even in these benighted places, one constant remains: The Stone endures.*  
 -- Codex of the Everlasting Mountain, Book II: Endurance
 
-Before choosing from the below options, the character gains access to one of the following Font of Magic options:
+Before choosing from the below options, the character gains access to one of the following Tradition options:
 * Enduring Rock
 * Earth's Embrace
 

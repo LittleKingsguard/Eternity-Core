@@ -1,0 +1,3 @@
+A Ward is a long-lasting, persistent spell that passively supports and empowers the mage (or more rarely, given the limitations of Aethercraft, other allies). A Wardsmith, then, is a mage who specializes in such spells, often to the neglect of their spot casting skills.
+
+At the start of any Scene, including ones they are targets of but not actively Joining, the Wardsmith may choose a known persistent spell to have active. If they have actively Joined or Initiated the Scene, they may spend 2 Agency/Impact or 1 Resources each to have other such spells active as well. Finally, all such spells have the required Tier to Counter or Destroy them raised by 1.

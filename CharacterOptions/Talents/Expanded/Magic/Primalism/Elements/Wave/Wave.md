@@ -7,7 +7,7 @@
 *It is motion and necessity, and its Shape is that which it must be.*  
 -- Scrolls of the Fluid Life, Book I
 
-Before choosing from the below options, the character gains access to one of the following Font of Magic options:
+Before choosing from the below options, the character gains access to one of the following Tradition options:
 * Crashing Wave
 * Reflective Pool
 

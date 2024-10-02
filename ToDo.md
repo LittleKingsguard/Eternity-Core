@@ -18,3 +18,4 @@ TODO: #33 Continue Passive Supports
 ~~TODO: #39 Consider Bluff mechanic ~~ Using Contest subsystem
 ~~TODO: #40 Rethink Saves again to make it resolve faster.~~
 ~~TODO: #44 Rearrange step 9 and 10 to keep tier expenses before the final tier comparison~~
+TODO: #60 Create Defined vs. Additional Capability Gear

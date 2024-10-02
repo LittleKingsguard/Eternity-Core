@@ -3,7 +3,7 @@
 *The Burning Peak may grow ever taller and more bountiful, or tear itself apart in its fury.*  
 -- Codex of the Everlasting Mountain, Book V: Life
 
-If learning as a Major Talent, the character gains access to one of the Font of Magic options listed in either the Stone or Flame Shaping Talents.  
+If learning as a Major Talent, the character gains access to one of the Tradition options listed in either the Stone or Flame Shaping Talents.  
 If the character has mastered both of the above Talents, they may learn this as a Minor Talent.
 
 ## Incarnate Form

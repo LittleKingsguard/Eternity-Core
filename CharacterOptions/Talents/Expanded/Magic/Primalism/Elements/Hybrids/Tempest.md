@@ -3,7 +3,7 @@
 *When the sea and sky turn to conflict, it is the beaches that are pounded to sand.*  
 -- Cycle of Sea and Sky, Book X
 
-If learning as a Major Talent, the character gains access to one of the Font of Magic options listed in either the Wind or Wave Shaping Talents.  
+If learning as a Major Talent, the character gains access to one of the Tradition options listed in either the Wind or Wave Shaping Talents.  
 If the character has mastered both of the above Talents, they may learn this as a Minor Talent.
 
 ## Incarnate Form
