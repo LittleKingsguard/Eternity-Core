@@ -1,0 +1,5 @@
+The wispy, night-black material that fills the Shadow Sea (at rest, at least) is fundamentally the Prima Materia from which all other things are made, woven to form by act of Creation and returned to Shadow by Destruction. In the Shadow Sea itself, the mists congeal to the illusion of form at a thought, bound ephemerally to shape by the merest sliver of Anima emitted from the spectating mind. Once brought into a more defined plane, however, it takes a greater act of will to cast it to shape. In its most direct form, this is the Action of Shadow.
+
+Shadow has a great many uses; for example, a conjurer must work with Shadow to provide the mass of their creations, and will often shape it to form while still Uncreated so that it may be worked more easily. A mage who only needs a tool or weapon for but a moment will often find a shadowsteel version much faster and easier to produce than a persistently Creted one, and, as the mists form the foundations of all things, a skilled Shadowsmith can blend properties that no Physical things share, such as mistly vapors with the weight of lead, or liquids that splash to a razor edge.
+
+TODO: #52 Add Shadow talents

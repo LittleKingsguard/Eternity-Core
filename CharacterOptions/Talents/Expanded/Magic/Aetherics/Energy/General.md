@@ -1,0 +1,3 @@
+The Action of Energy moves, generates, and extinguishes heat and light. While seemingly very straightforward, a clever and experienced mage can find an ocean of potential under the surface, as masters can twist the light into wondrous illusions, or blend the energies with Physical artifice to fuel industrial titans. Still, the most common use is as a reading light... or a blinding one.
+
+TODO: #56 Add Energy Talents here

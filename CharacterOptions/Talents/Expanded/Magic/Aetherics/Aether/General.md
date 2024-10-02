@@ -1,0 +1,3 @@
+Ironically, the Action of Aether is often of limited use to an Aethericist, as most are Physical, and Aether is the one Action of no direct Physical effect. This does not mean it is useless, of course; Aether concentration can be a significant force multiplier on a spell, and attuning to sense it can produce wonderful clarity of perception of things beyond the Physical Realm.
+
+TODO: #53 Add Aether Talents
