@@ -1,0 +1,3 @@
+Substantially more invasive than tattoos alone, implant runes combine them with stitches of conductive wire, piercings, and surgically implanted runecraft to form more solid circuits and achieve greater efficiency. While the amount of body modifications can still be limited enough to pass as normal with the benefit of clothing, cosmetics, or simply keeping all impants beneath the skin, all bu the most careful work will leave scars, and the inflexibility of most viable materials frequently limits flexibility in the mage, or causes pain when moving beyond certain limits. Despite this, the power gained is enough to convince many initiates.
+
+The character does not take Overflow from invoking Intimacies or spending Effort.
