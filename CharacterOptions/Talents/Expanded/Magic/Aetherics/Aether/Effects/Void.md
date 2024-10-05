@@ -3,6 +3,8 @@
 *The Primal Shapes, Anima, and all other such mystical things of the Aetheric Sea, while wondrously, impossibly complex, are still foundationally as much Aether as the simplest spell. Many practitioners of these Arts do not understand that right up until that 'novice spell' simply turns their wonders off.*  
 -- Grimoire of Emptiness, Chapter III
 
+Exactly inverse to Flaring, an Aether Void is equally unmistakeable to other Spirits and mages, neither of which can be expected to appreciate being subjected to one. The manifestation is one of muted colors and a sudden sense of absence, like the eerie calm of a completely windless day. Extreme cases can seem to plunge the world into binary shades of pure black and pure white, and cause others to gasp for breath as if they were thrust into vacuum.
+
 Base Effect:
 Use: Guard Action or Oppose  
 Cost: --  

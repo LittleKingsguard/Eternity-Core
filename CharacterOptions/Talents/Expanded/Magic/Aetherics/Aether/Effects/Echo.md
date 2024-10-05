@@ -3,6 +3,8 @@
 *That which is magic touches the Aether, including the Soul. The teachings of the Eternal Scholar tell us what can be touched can be known, and that knowledge is contagious.*  
 -- Master Triemis, Wandering Academic
 
+Like most pure Aether effects, another mage or Spirit will instantly recognize the pulse for what it is, though one not familiar with Aetheric magic might not understand the use of it. It manifests like a deep bass soundwave of the sort that gets felt in the chest as much as the ear, and stronger pulses can rattle the teeth or knock wind from people like a nearby explosion.
+
 Base Effect:
 Use: Discover Action to locate a target, or Guard against Stealth attempts  
 Cost: --  

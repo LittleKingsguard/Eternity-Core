@@ -1,3 +1,5 @@
 Ironically, the Action of Aether is often of limited use to an Aethericist, as most are Physical, and Aether is the one Action of no direct Physical effect. This does not mean it is useless, of course; Aether concentration can be a significant force multiplier on a spell, and attuning to sense it can produce wonderful clarity of perception of things beyond the Physical Realm.
 
+The manifestations of Aether magic tend to be through the apparent vibrancy and color of the world as a perception of density, and "feeling" it like the wind to perceive flow. This is also true for natural variance in Aether, though outside of of such local wonders such as Freeholds, Faeglens, and leyline cojunctions there is rarely a strong enough effect in either desity or flow to distinguish the hallucinated manifestation from reality.
+
 TODO: #53 Add Aether Talents
