@@ -19,3 +19,5 @@ TODO: #33 Continue Passive Supports
 ~~TODO: #40 Rethink Saves again to make it resolve faster.~~
 ~~TODO: #44 Rearrange step 9 and 10 to keep tier expenses before the final tier comparison~~
 TODO: #60 Create Defined vs. Additional Capability Gear
+TODO: #61 Create blast shape templates
+TODO: #62 Reconsider costing for Aether spell design
