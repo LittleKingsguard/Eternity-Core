@@ -9,10 +9,10 @@ Base Effect:
 
 ## Reinforce
 Use: Guard/Oppose/Parry  
-Cost: --  
+Cost: 1+ Flux  
 Timing: Step 1/2
 Range: Self or Engaged  
-Traits: --
+Traits: Scaling 2  
 Benefit:  
 Aether is momentarily infused into the mage's body or a target they touch, strengthening and hardening it to resist damage. 
 

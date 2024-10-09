@@ -11,10 +11,10 @@ Base Effect:
 
 ## Push
 Use: Any relevant  
-Cost: --  
+Cost: 1+ Flux  
 Timing: Step 1/2
 Range: Short  
-Traits: Subtle
+Traits: Subtle, Scaling 2  
 Benefit:  
 Force is directed away from the caster towards a target object or character, throwing loose objects across the room and shoving larger ones such as characters and obstacles. This may be used as a Physical Parry by pushing back Attacks and similar Actions. When used for an Attack, the player may choose to throw an available item or Gear Asset, in which case the profile for the Asset is used. If the projectile has no profile, instead choose the most relevant Core Trait and any two other traits. Alternatively, the player may choose to use force directly, using the following profile:
 Core Trait: Control  
@@ -24,10 +24,10 @@ Traits: Piercing, Subtle
 
 ## Push
 Use: Any relevant  
-Cost: --  
+Cost: 1+ Flux  
 Timing: Step 1
 Range: Short  
-Traits: Subtle
+Traits: Subtle, Scaling 2  
 Benefit:  
 Force calls out from the caster towards a target, yanking them closer. This pulls minor items or loose Gear to hand, and can wrench Obstacles free or manhandle other characters. When used for an Attack, this uses the following profile:
 Core Trait: Control  
@@ -37,5 +37,5 @@ Traits: Piercing, Subtle
 
 As Spell component:
 Use: After spell effect makes an item (ex. with Shadow or Create) or creates a blast
-Cost: Equal to base cost
+Cost: Equal to base effect cost
 Benefit: The created object is immediately catapulted towards a target(s), giving the effect Short Range. If it created a Blast instead, it targets an adjacent Zone as a Cone.

@@ -6,14 +6,24 @@
 Aether gathers around the mage, producing an aura unmistakeable to Spirits or magically-initiated Mortals, but still apparent, if subtle, to others. The usual manifestations are an apparent brightness and the colors growing far more vivid and saturated, sometimes ever seeming to drain away from the surroundings, combined with the sense of an illusory inwards breeze, as Aether rushes toward the center. At greater powers (beginning in the Tier III-IV range), this aura becomes physically real, as the Aether becomes so dense as to begin spontaneously jumping across the Gap, forming a corona of ephemeral Free and associated simple magical effects, such as flashes of static electricity, luminescent glows, telekinetic pressure, etc. These are not necessarily harmless, but rarely a concern for any mage capable of such power in the first place.
 
 Base Effect:
+
+## Empower
 Use: Prepare Action or Assist  
-Cost: --  
+Cost: 1 Flux  
 Timing: Step 1/2
 Range: Self or All Engaged  
 Benefit:  
 The mage compresses the Aether surrounding them, incrasing the density and allowing themselves or another nearby to channel greater amounts of power safely. The Prepare or Assist may benefit any magical roll of any type.
 
+## Charge
+Use: Miscellaneous  
+Cost: --  
+Timing: Step 1
+Range: Self  
+Benefit:  
+The mage takes control of the flow of Aether through them, and seeks to intensify the stream. They may return to their starting Flux value, and may choose to gain more Flux, up to the number of Successes or half the total Power.
+
 As Spell component:
 Cost: +1 SP
-Benefit: +3 Power
+Benefit: Flux cost is decreased by 2
 The time cost of casting the spell is increased, as the remainder of the spell will be disrupted by the flowing Aether if cast before the Flare is complete. Despite this, the power gains are frequently worth the trade.

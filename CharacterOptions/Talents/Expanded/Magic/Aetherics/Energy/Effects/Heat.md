@@ -9,11 +9,11 @@ Base Effects:
 
 ## Induction
 Use: Action  
-Cost: --  
+Cost: 1+ Flux  
 Timing: Step 1
 Range: Short
 Targets: Any 1  
-Traits: --
+Traits: Scaling 2
 Benefit:  
 The mage flashes Aether directly into heat in the target, melting ice, setting fires, burning obstacles and opponents, etc.  
 
@@ -25,10 +25,11 @@ Traits: Piercing
 
 ## Transfer
 Use: Action, or Oppose/Assist Reaction  
-Cost: --  
+Cost: 0+ Flux  
 Timing: Step 1/2
 Range: Short
 Targets: Target, Target+Engaged, or Zone  
+Traits: Area Scaling
 Benefit:  
 The spell bridges the target to a heat sink or heat source, quickly equalizing the two in temperature. When used as an Attack or similar Action, this must use a terrain feature of notably extreme temperature such as a fire hazard or a zone of ice, and uses the Hazard/Obstacle/Difficult Terrain as a Defined-Capability Gear bonus. As a Reaction, this can target heat-based Actions such as fire attacks.
 
@@ -40,5 +41,5 @@ Traits: Piercing
 
 As Spell component:
 Prerequisite: Another effect of the spell involves extreme heat or cold
-Cost: Half of total Power
+Cost: Half of total Flux
 Benefit: The improved heat conduction upgrades the spell's Tier, and gives it Piercing if used as a weapon.

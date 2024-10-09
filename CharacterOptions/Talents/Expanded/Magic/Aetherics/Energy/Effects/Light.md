@@ -9,7 +9,7 @@ Base Effects:
 
 ## Illuminate
 Use: Miscellaneous Action, or as part of a Discover Action  
-Cost: --  
+Cost: 1 Flux per 2 Zones  
 Timing: Step 1
 Range: Long
 Targets: Any number of Zones within line-of-sight  
@@ -28,18 +28,18 @@ A staccato flicker of light communicates a message to the targets using prearran
 
 ## Flashblind
 Use: Attack Dilemma  
-Cost: --  
+Cost: 1+ Flux  
 Timing: Step 1
 Range: Long
 Targets: Target character with sight  
-Traits: Overt, Hypervelocity
+Traits: Scaling 2, Overt, Hypervelocity
 Benefit:  
 A tight beam of light is aimed at the target's eyes, overpowering their vision and forcing them to avert their gaze or be blinded. All damage is associated with a Dilemma vs. Blinded, and the Attack is upgraded.
 
 As Spell component:
-Cost: 1+ Power, Overt
-Benefit: Just prior to fully commiting the spell, a simple light effect illuminates the target. At 1 Power, this removes any Concealment from darkness. Any additional power adds the following Dilemma vs. targets that can see the spell being cast:
+Cost: 1+ Flux, Overt
+Benefit: Just prior to fully commiting the spell, a simple light effect illuminates the target. At 1 Flux, this removes any Concealment from darkness. Any additional power adds the following Dilemma vs. targets that can see the spell being cast:
 
 Timing: Step 2  
-Strength: additional Power  
+Strength: 2x additional Flux  
 Consequence: Target is Off-Guard to the Spell's effect. Only DT applies as a defense to this Dilemma.
