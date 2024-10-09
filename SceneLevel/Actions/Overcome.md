@@ -1,0 +1,1 @@
+An Overcome Action attempts to create a bypass or destroy an Obstacle or other terrain feature, without necessarily attempting to move through it.
