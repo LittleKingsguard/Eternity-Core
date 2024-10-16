@@ -21,3 +21,5 @@ TODO: #33 Continue Passive Supports
 TODO: #60 Create Defined vs. Additional Capability Gear
 TODO: #61 Create blast shape templates
 TODO: #62 Reconsider costing for Aether spell design
+TODO: #66 Add Finance/Holdings/(name pending) as a separate mechanic to Wealth similar to Flux for Aether
+TODO: #67 recalibrate scaling bonuses with Flux to be closer to Effort bonus production

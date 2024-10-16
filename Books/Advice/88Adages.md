@@ -20,8 +20,8 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 16. 
 17. 
 18. 
-19. 
-20. 
+19. To be free is to move first. -- Time/Accelerate
+20. The decision to do nothing is still a decision. -- Unused
 21. 
 22. 
 23. Before going for the win, avoid the tie. -- Unused
