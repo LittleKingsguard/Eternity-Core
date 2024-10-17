@@ -2,4 +2,6 @@ The wispy, night-black material that fills the Shadow Sea (at rest, at least) is
 
 Shadow has a great many uses; for example, a conjurer must work with Shadow to provide the mass of their creations, and will often shape it to form while still Uncreated so that it may be worked more easily. A mage who only needs a tool or weapon for but a moment will often find a shadowsteel version much faster and easier to produce than a persistently Creted one, and, as the mists form the foundations of all things, a skilled Shadowsmith can blend properties that no Physical things share, such as mistly vapors with the weight of lead, or liquids that splash to a razor edge.
 
+All Shadow effects are Sustainable, and the creations boil away back into the Shadow Sea once they cease being Sustained. If they are not sustained, they disappear immediately on the conclusion of the spell.
+
 TODO: #52 Add Shadow talents

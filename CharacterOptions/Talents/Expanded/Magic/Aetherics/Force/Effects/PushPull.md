@@ -38,4 +38,4 @@ Traits: Piercing, Subtle
 As Spell component:
 Use: After spell effect makes an item (ex. with Shadow or Create) or creates a blast
 Cost: Equal to total cost of all above components
-Benefit: The created object is immediately catapulted towards a target(s), giving the effect Short Range. If it created a Blast instead, it targets an adjacent Zone as a Cone.
+Benefit: The created object is immediately catapulted towards a target(s), giving the effect Short Range and allowing the caster to make an Attack or similar Action as part of the spell, using the same roll. If it created a Blast instead, it becomes a Cone, scaling range as normal.

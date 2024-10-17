@@ -19,7 +19,8 @@ TODO: #33 Continue Passive Supports
 ~~TODO: #40 Rethink Saves again to make it resolve faster.~~
 ~~TODO: #44 Rearrange step 9 and 10 to keep tier expenses before the final tier comparison~~
 TODO: #60 Create Defined vs. Additional Capability Gear
-TODO: #61 Create blast shape templates
+TODO: #61 Create blast shape templates, including range scaling
 TODO: #62 Reconsider costing for Aether spell design
 TODO: #66 Add Finance/Holdings/(name pending) as a separate mechanic to Wealth similar to Flux for Aether
 TODO: #67 recalibrate scaling bonuses with Flux to be closer to Effort bonus production
+TODO: #68 Rewrite Primalist Ability to require Passion >0 to use.
