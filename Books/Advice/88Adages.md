@@ -44,8 +44,8 @@ Pithy, frequently violence-related quotes reflecting the life lessons of a Valky
 40. 
 41. 
 42. 
-43. 
-44. 
+43. It's only enough violence if it's solving the problem. -- Unused
+44. Collateral can always make new enemies faster than damage can remove the original ones. -- Flame Conjuration
 45. 
 46. 
 47. Friendly fire can still be enemy action. -- Deadly Dodge  

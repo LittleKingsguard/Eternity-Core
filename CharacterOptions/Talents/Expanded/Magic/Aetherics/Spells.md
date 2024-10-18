@@ -4,8 +4,15 @@ Spells are treated as a specialty Gear Asset for use with Aetheric Actions. Unle
 
 A Spell can take any forms, depending on the Tradition chosen by the mage, the magical tradition they are part of, and their own personal preferences. At their core, however, each spell is simply math and instructions; they have no power without the mage to channel it, and they impart no guidance or ability to a mage who is not intimately familiar with the spell's method of representing that core meaning. Because of this, many Aethericists prefer to write their own spells so they can be certain of how they work. In places with a formal academic tradition and a firmly-defined "language" for magic, it does become more common to trade in spells professionally, though, as mages have more confidence in the system and libraries than their own work.
 
-When acquiring a Spell, the Tradition the spell is designed for will have to be specified. This can be changed at a later time similarly to making other modifications to an Asset.
+## Acquisition
+When acquiring a Spell, the Tradition the spell is designed for will have to be specified. This can be changed at a later time similarly to making other modifications to an Asset. If a mage is aquiring a spell through a dedicated Project or Scene Goal involving allies or other NPCs (ex. Side Characters, NPCs introduced as a Scene Goal, etc.), they may use any non-Exclusive effect when creating the Spell. If they are working alone, they may use only those that they have the Talents to unlock.
 
+Each Spell has at least one Base Effect, and may have other Component Effects, if they fit the intention of the spell and the mage wishes to include the Aether cost.
+
+### Temporary Spells
+Finally, a spell may be acquired in permanent or temporary form. A permanent spell is made as normal for the tradition it is intended for. A temporary spell eschews any physical object in favor of simply being woven from Aether and light, making it much faster to craft and charge, but disappearing once the mage loses their focus on it. The Tier required to produce a temporary spell is reduced by 1, but the spell disappears if the mage Readies another spell, including crafting a different temporary spell.
+
+### Statistics
 As an Asset, the spell has the following qualities:  
 
 Dice/Power/Tier -- as normal for Gear  

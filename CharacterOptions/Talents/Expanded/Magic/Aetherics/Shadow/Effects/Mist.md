@@ -36,6 +36,6 @@ The caster may choose to Sustain the spell as a Cloud effect in the targeted are
 As Spell component:
 
 ## Vaporize
-Use: After conjuring Shadow by a different effect
-Cost: 1 Flux, Sustaining the cost of the original Shadow effect
+Use: After conjuring Shadow by a different effect  
+Cost: 1 Flux, Sustaining the cost of the original Shadow effect  
 Benefit: The conjured materials suddenly burst into mist, creating clouds as above.
