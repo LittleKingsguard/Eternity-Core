@@ -1,6 +1,6 @@
 # Pyrophorics
 
-*The council acknowledges the utility of phosphorus as a ignition source, but in an effort to address the humanitarian and collateral damage concerns with its use as a primary incendiary and the toxic byproducts thereof, the following restrictions will be instated upon all spells created wih the assistance of or proofread by a Guild mage, or using Guild grounds for testing, under penalty of a lifetime ban if not corrected:*
+*The council acknowledges the utility of phosphorus as a ignition source, but in an effort to address the humanitarian and collateral damage concerns with its use as a primary incendiary and the toxic byproducts thereof, the following restrictions will be instated upon all spells created with the assistance of or proofread by a Guild mage, or using Guild grounds for testing, under penalty of a lifetime ban if not corrected:*
 * *Particle Size may not exceed a Class C powder.*
 * *Total mass may not exceed 1/120th of all combustible agents, or 1/60th mol, whichever is greater.*
 * *Particles will not be directly acted upon by telekinetic force or otherwise used as a direct projectile.*  

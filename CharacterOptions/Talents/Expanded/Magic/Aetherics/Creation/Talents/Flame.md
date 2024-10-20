@@ -1,7 +1,7 @@
 # Flame Conjuration
 
 *Collateral can always make new enemies faster than damage can remove the original ones.*  
--- 88 Adages for the Adventurous Aetherborn, #44
+-- 88 Axioms for the Adventurous Aetherborn, #44
 
 In its simplest practice, Flame Conjuration is merely conjuring any element the mage knows of that happens to be flammable (which is most of them, when properly prepared), and then adding enough heat to ignite it. In practice, the element of choice is usually hydrogen, which is conveniently gaseous, extremely light, very simple, ignites very easily, and burns white-hot. These properties make it quite reliable and efficient as a conjured fuel, and Flame Conjurers are notorious for their destructive power, comprising the living artillery and trench-clearing muscle of many armies across the Physical Realms. They are *also* the most notorious examples of the lack of precision Aetheric spells are frequently constrained by; a mage may end up spent as much or more Aether on protecting themselves from their own flames as they do on the flames themselves.
 

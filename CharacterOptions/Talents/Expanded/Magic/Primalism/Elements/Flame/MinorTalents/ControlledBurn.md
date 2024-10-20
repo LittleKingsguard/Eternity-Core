@@ -1,7 +1,7 @@
 # Controlled Burn
 
 *#57: Do not light off big fireballs in small rooms.*  
--- 88 Adages for the Adventurous Aetherborn
+-- 88 Axioms for the Adventurous Aetherborn
 
 ## Incarnate Form
 Use: Any Flame Shaping Action  

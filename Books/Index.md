@@ -2,7 +2,7 @@ Haumeian Imperial Academy: Divinations 1801 Course Syllabus -- Mastery of the Al
 
 Destiny Manifesting Law: Third Scroll of the Disciple -- Mastery of the Opportune Moment;
 
-88 Adages for the Adventurous Aetherborn: #32 -- Mastery of the Unknowing Pawn; #47 -- Deadly Dodge; #61 -- Quick Draw
+88 Axioms for the Adventurous Aetherborn: #32 -- Mastery of the Unknowing Pawn; #47 -- Deadly Dodge; #61 -- Quick Draw
 
 Manual of Absence: Chapter I: Preliminary Studies -- Mastery of the Vanishing Trail;
 

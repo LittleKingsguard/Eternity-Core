@@ -1,4 +1,4 @@
-# 88 Adages for the Adventurous Aetherborn
+# 88 Axioms for the Adventurous Aetherborn
 
 Pithy, frequently violence-related quotes reflecting the life lessons of a Valkyrian celestial nomad. Pragmatic, often cynical, but, befitting such a long-lived and experienced author, typically errs on the side of enlightened self-interest over instant gratification.
 

@@ -1,7 +1,7 @@
 # Deadly Dodge
 
-*Adage #47: Friendly fire can still be enemy action.*  
---88 Adages for the Adventurous Aetherborn
+*Axiom #47: Friendly fire can still be enemy action.*  
+--88 Axioms for the Adventurous Aetherborn
 
 Use: Opposing or Evading an Attack  
 Cost: +1 Successes  

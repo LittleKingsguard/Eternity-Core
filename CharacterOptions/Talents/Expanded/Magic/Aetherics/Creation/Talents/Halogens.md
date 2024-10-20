@@ -1,6 +1,6 @@
 # Halogen Conjuration
 
-*WARNING: Without the aid of Animist healing techniques, the recommendation of most healers on treating flourine inhalation is a fatal dose of a faster and less painful poison.*
+*WARNING: Without the aid of Animist healing techniques, the recommendation of most healers on treating fluorine inhalation is a fatal dose of a faster and less painful poison.*
 -- The 83 Pillars of Matter, #9: Fluorine
 
 Outside of the dangerous and foolhardy practise of attempting to conjure elements that don't exist in any known form, no task of Creation is taken more seriously than the use of the Alchemist's Scourge, the halogen elements. This family of elements is so viciously reactive as to burn nearly everything short of the ashes of other, even more reactive siblings. Additionally complicating the issues of containment is that they are all either gases or will become so mere instants after encountering any of the many things with which they react explosively. In appearance, these are cloudy vapors of varying color, from pale yellow or green to a deep red or purple.

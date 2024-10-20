@@ -1,7 +1,7 @@
 # Mastery of the Unknowing Pawn
 
-*Adage #32: A predictable enemy is a reliable friend.*  
--- 88 Adages for the Adventurous Aetherborn
+*Axiom #32: A predictable enemy is a reliable friend.*  
+-- 88 Axioms for the Adventurous Aetherborn
 
 Benefit:  
 When Scheming, the character upgrades their Progress Action by 1. Alternatively, they may choose to make the Sheme count against the original Project's Redundancy by 1 more than usual, and their Scheme may still succeed if this causes the original Project to collapse.

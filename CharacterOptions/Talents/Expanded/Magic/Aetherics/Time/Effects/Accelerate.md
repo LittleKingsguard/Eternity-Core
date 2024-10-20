@@ -1,7 +1,7 @@
 # Accelerate
 
 *To be free is to move first.*  
--- 88 Adages for the Adventurous Aetherborn, #20
+-- 88 Axioms for the Adventurous Aetherborn, #20
 
 Inverse to Deceleration, Acceleration acts to speed up the flow of time in an area, making things and characters in the area move at incredible speed, and to see the world outside slow down to a glacial pace. In manifestation, this appears as a blueish tint over the area, though this is often overshadowed by one of the more noticeable physical side effects of the temporal shift: the radiant heat emitted in the area starts being blueshifted, becoming visible as if the surface was far hotter than it really is.
 

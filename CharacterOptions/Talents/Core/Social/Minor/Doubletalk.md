@@ -1,7 +1,7 @@
 # Doubletalk
 
 *#2: There are always more interpretations.*  
---88 Adages for the Adventurous Aetherborn 
+--88 Axioms for the Adventurous Aetherborn 
 
 Use: Inflicting a Social Influence or Control dilemma.  
 Cost: 1+ Successes  

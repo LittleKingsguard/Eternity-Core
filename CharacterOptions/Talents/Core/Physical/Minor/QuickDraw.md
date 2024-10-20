@@ -1,7 +1,7 @@
 # Quick Draw
 
-*Adage #61: Do not throw the first punch in a swordfight.*  
---88 Adages for the Adventurous Aetherborn
+*Axiom #61: Do not throw the first punch in a swordfight.*  
+--88 Axioms for the Adventurous Aetherborn
 
 Use: When declaring an Attack, Parry, or other roll that could benefit from a weapon  
 Cost: none  

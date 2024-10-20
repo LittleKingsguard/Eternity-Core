@@ -1,7 +1,7 @@
 # Retainers
 
 *#36: If you can pay someone to do it, you know how to get it done.*  
---88 Adages for the Adventurous Aetherborn
+--88 Axioms for the Adventurous Aetherborn
 
 Use: During Scene Initiation  
 Cost: +1 R
