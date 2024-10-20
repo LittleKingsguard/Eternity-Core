@@ -13,7 +13,7 @@ Range: Short
 Traits: Scaling 2
 Benefit:  
 The roll is Upgraded, but follows the below constraint:
-On Step 1, the player declares target numbers for Successes, Power, and Tier. When rolling on step 7-10, the player takes the lower of these numbers or the rolled totals, before any spending or accounting for Difficulty/Resistance. If the roll has lower Successes, Power, or Tier than the declared totals above, they target themselves with an Attack on step 11, adding the margin of failure to the roll's Power. 
+On Step 1, the player declares target numbers for Successes, Power, and Tier. When rolling on step 7-10, the player takes the lower of these numbers or the rolled totals, before any spending or accounting for Difficulty/Resistance. If the roll has lower Successes, Power, or Tier than the declared totals above, they target themselves with an Attack on step 11, adding the margin of failure to the roll's Power.  
 As an Attack, this spell uses the following profile:
 Core Trait: Lethal  
 Short Range  
