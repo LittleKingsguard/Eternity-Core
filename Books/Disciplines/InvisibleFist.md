@@ -6,8 +6,9 @@ This is not the reason it is notorious, however. The Glittering Path, as it refe
 
 Book I: Foundations: 
 * *Money is not power. It is energy, and in accordance with the Principle of Flow, to expend the most in the shortest time maximizes the power it creates.*  -- Quick Acquire
+* *Consider the Principle of Balance: To conjure gold for oneself is to conjure only a yellow rock.* -- Metal Conjuration
 
 Book II
 
 Book III: The Corporate Being
-In the construction of a Formation between legal Realms in accordance with the Private Law, the practitioner forms powerful wards against discovery by any single Power. -- Shell Games
+*In the construction of a Formation between legal Realms in accordance with the Private Law, the practitioner forms powerful wards against discovery by any single Power.* -- Shell Games

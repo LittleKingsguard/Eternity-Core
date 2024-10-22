@@ -3,7 +3,7 @@
 *Secured by the will of a capable smith, Shadowsteel is the finest material known. Sadly, if one wishes for more permanence in their works, choices become restained to that which physics and alchemy alone permit.*  
 -- The Art of Artifice, Chapter II: Materials
 
-Once willed into solid form, Shadowmist congeals into a substance typically known as Shadowsteel, though depending on the exact properties the mage desires (and knows how to describe in aetheric terms) the physical properties may vary quite widely from mundane steel. Such creations are almost always geometric in shape, being comprised of straight lines, flat edges, and clean, mathematically-precise corners, with curving elements rarely more sophisticated than perfect circles and cylinders.
+Once willed into solid form, Shadowmist congeals into a substance typically known as Shadowsteel, though depending on the exact properties the mage desires (and knows how to describe in aetheric terms) the physical properties may vary quite widely from mundane steel. Such creations are almost always geometric in shape, being comprised of straight lines, flat edges, and clean, mathematically-precise corners, with curving elements rarely more sophisticated than perfect circles and cylinders. In appearance it is always night-black, with a reflective sheen like polished obsidian, and it always feels slightly cool to the touch.
 
 Base Effects:  
 
