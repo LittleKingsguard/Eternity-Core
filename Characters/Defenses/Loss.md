@@ -1,0 +1,1 @@
+A character starts with one box per Ability for Loss, and gains one extra for each Major Talent they have fully mastered in that Ability. Each time they take a [Loss](../../Systems/Damage/Loss.md), the box is marked to indicate the duration of the loss and the effect. A character is defeated if all boxes are marked for permanent damage.
