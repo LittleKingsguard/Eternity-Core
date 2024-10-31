@@ -24,3 +24,4 @@ TODO: #62 Reconsider costing for Aether spell design
 TODO: #66 Add Finance/Holdings/(name pending) as a separate mechanic to Wealth similar to Flux for Aether
 TODO: #67 recalibrate scaling bonuses with Flux to be closer to Effort bonus production
 TODO: #68 Rewrite Primalist Ability to require Passion >0 to use.
+TODO: #73 Rewrite Harm to only affect Major Talents, with appropriate effects for Spirits. Make changes to Harm at Core/Main Branch level
