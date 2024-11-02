@@ -2,6 +2,17 @@ Expanded Abilities represent effects of the character’s status in society, or 
 
 A character requires a Major Talent as an initiation prerequisite before they may raise their Ability ratings above 0/0. The player may choose to increase (or start with) Ratings or learn Minor Talents while the Major Talent is being Trained, however.
 
-An Expanded Ability can only be used for a roll for a small subset of actions by default, and Talents may unlock additional ones. If an attempt is not focused on one of the default use cases, and the character cannot invoke a relevant Talent within that Ability, they cannot use the Ability for the attempt even as a Secondary. Additionally, each Expanded Ability has an associated currency (usually similar to Effort/Resources) that must be spent or otherwise interacted with to use the Ability, outside of entirely passive cases such as a Wealthy character promising or implying (but not yet giving) a reward as part of a Social Influence. Guard Actions or similar effects that grant passive Reactions require this on the Action, but the Reactions are free.
+An Expanded Ability can only be used for a roll for a small subset of actions by default, and Talents may unlock additional ones. If an attempt is not focused on one of the default use cases, and the character cannot invoke a relevant Talent within that Ability, they cannot use the Ability for the attempt even as a Secondary.
 
 Conversely for this limited utility, Expanded Abilities are powerful in their niche, and easier to advance vertically in strength than the Core Abilities.
+
+## Currency Rules
+Each Expanded Ability has an associated currency (typically similar to Effort/Action Points), which must be spent, gained or otherwise interacted with to use the Talents associated with the Ability.  
+If a Guard Action or similar would produce passive Reactions, the Reactions do not require any use of currency.  
+
+## Transcendence
+Certain Talents allow the character to use the additional power or utility of their expanded abilities to reinforce their core abilities, such as bolstering their strength to supernatural levels, expanding their consciousness to inconcievable levels of creativity and understanding, etc. These are permanent decisions that reduce the utility of the Expanded Ability used. The limit of an Ability rating may be raised above 5 by permanently investing 1 point of the relevant currency for each increase. 
+
+Additionally, the Ability may be Upgraded, increasing the Tier of all rolls using it, in exchange for a permanent investment of 4. This counts as a Major Talent in that Ability when starting other Training goals. 
+
+If this would result in the character permanently being above their starting value or soft cap, the character takes any consequences that would normally come from being over that threshold at the start of each Round or Act. They cannot invest more than their Hard cap.

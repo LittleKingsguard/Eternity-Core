@@ -25,3 +25,4 @@ TODO: #66 Add Finance/Holdings/(name pending) as a separate mechanic to Wealth s
 TODO: #67 recalibrate scaling bonuses with Flux to be closer to Effort bonus production
 ~~TODO: #68 Rewrite Primalist Ability to require Passion >0 to use.~~
 ~~TODO: #73 Rewrite Harm to only affect Major Talents, with appropriate effects for Spirits. Make changes to Harm at Core/Main Branch level~~
+TODO: #75 Rewrite Passion to have the same start/soft cap/hard cap mechanics as other currencies.
