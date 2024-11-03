@@ -9,8 +9,12 @@ Conversely for this limited utility, Expanded Abilities are powerful in their ni
 ## Currency Rules
 Each Expanded Ability has an associated currency (typically similar to Effort/Action Points), which must be spent, gained or otherwise interacted with to use the Talents associated with the Ability.  
 If a Guard Action or similar would produce passive Reactions, the Reactions do not require any use of currency.  
+The starting/soft/hard caps for each currency are set using the highest of the two ratings for the associated Ability as the primary value, and the player's choice of any other rating used for the Scene (or Act, if outside of a Scene).
 
-## Transcendence
+### Investment
+A player may invest currency into a roll or other effect to fuel the use of a Talent, sustain a lasting effect, or gain a bonus to a roll. Invested points still count against the character's starting/soft/hard caps, but cannot be used for other purposes. Unless otherwise noted, characters gain their invested points back at the end of the effect, and investing is sufficient to allow the character to invoke their related Talents.
+
+### Transcendence
 Certain Talents allow the character to use the additional power or utility of their expanded abilities to reinforce their core abilities, such as bolstering their strength to supernatural levels, expanding their consciousness to inconcievable levels of creativity and understanding, etc. These are permanent decisions that reduce the utility of the Expanded Ability used. The limit of an Ability rating may be raised above 5 by permanently investing 1 point of the relevant currency for each increase. 
 
 Additionally, the Ability may be Upgraded, increasing the Tier of all rolls using it, in exchange for a permanent investment of 4. This counts as a Major Talent in that Ability when starting other Training goals. 

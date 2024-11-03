@@ -10,7 +10,7 @@ Before choosing from the below options, the character gains access to one of the
 ## Incarnate Form
 Cost: -- or 1 AP/Effort    
 Timing: Step 1/2  
-The character's attunement to the Primal Shape of Stone allows them to manipulate the earth and rock around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or AP.
+The character's attunement to the Primal Shape of Stone allows them to manipulate the earth and rock around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the player may Upgrade that attempt by paying 1 Effort or AP.
 
 As an Attack, rock attacks use the following weapon profile:  
 Core Trait: Powerful  
@@ -21,4 +21,4 @@ Traits: Forceful
 ## Idealized Concept
 Cost: --   
 Timing: Step 2  
-The Stone butresses the character's form and resolve, granting them the power to stand firm. As a passive effect, their Defense Tier is increased by 1 for all purposes. When taking Passive Reactions (ex. from Armor or Guard Actions) or invoking a Stone Minor Talent, the character gains a floating bonus equal to their Passion.
+The Stone butresses the character's form and resolve, granting them the power to stand firm. As a passive effect, their Defense Tier is increased by 1 for all purposes. When taking Passive Reactions (ex. from Armor or Guard Actions) or invoking a Stone Minor Talent, the character may invest Passion to gain a floating bonus, as normal.

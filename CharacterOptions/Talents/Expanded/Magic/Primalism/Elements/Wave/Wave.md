@@ -14,7 +14,7 @@ Before choosing from the below options, the character gains access to one of the
 ## Incarnate Form
 Cost: -- or 1 E/APA  
 Timing: Step 1/2  
-The character's attunement to the Primal Shape of the Wave allows them to manipulate the water around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion and may Upgrade that attempt by paying 1 Effort or APA.
+The character's attunement to the Primal Shape of the Wave allows them to manipulate the water around them. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the player may Upgrade that attempt by paying 1 Effort or APA.
 
 As an Attack, water attacks use the following weapon profile:  
 Core Trait: Control  
@@ -26,4 +26,4 @@ Traits: Flexible
 Use: Contest X vs. X  
 Cost: 1 E/APA  
 Timing: Step 1/2  
-As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When making any attempt they may declare a Contest using and targeting any Ability they possess. If the character wins the Contest, the attempt is Upgraded. The character additionally gains their Passion as a Floating Bonus to the roll if they are using the chosen Ability.
+As the Wave rolls off the impenetrable face and instead washes through the thinnest of cracks, so too does the character work through the flaws of their enemies. As a passive effect, they ignore penalties to their roll (ex. Blitz) equal to the lowest of the Primalism ratings. When making any attempt they may declare a Contest using and targeting any Ability they possess. If the character is using the chosen Ability, they may also invest Passion into the roll, gaining the normal +1 floating bonus per 2 points. If the character wins the Contest, the attempt is Upgraded.

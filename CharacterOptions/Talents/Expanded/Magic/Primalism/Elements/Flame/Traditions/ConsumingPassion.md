@@ -1,5 +1,5 @@
 # Consuming Passion
-The character gains Passion if they have spent at least 2 APA since their last Primalist roll, including any spent on the current attempt. If they are already at their maximum Passion, any additional APA spent on the attempt grants a +1 cumulative Floating Bonus and counts as increasing their Passion for the purposes of Primalist Talents, including satisfying the condition to use them.
+The character gains Passion if they have spent at least 2 APA since their last Primalist roll, including any spent on the current attempt. If they are already at their hard cap, any additional APA spent on the attempt grants a +1 cumulative Floating Bonus. The character cannot spend Passion, and if they would lose Passion as a consequence of switching to a different Tradition, they immediately take APA damage equal to the lost Passion.
 
 ## Manifestation
 When casting in this tradition, the character's flames flicker and dance fast and hot, as if blown by a bellows, the blast of a furnace, or the raging winds of a wildfire. This tradition manifests as a corona of heat haze that surrounds them and any active magic they maintain, well in excess of the true heat of any flames they have created, and becoming more so as they gain Passion.

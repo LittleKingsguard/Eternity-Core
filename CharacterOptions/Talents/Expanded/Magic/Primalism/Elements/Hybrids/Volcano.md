@@ -9,7 +9,7 @@ If the character has mastered both of the above Talents, they may learn this as 
 ## Incarnate Form
 Cost: --    
 Timing: Step 1/2  
-The character's mixed attunement allows them to melt earth and rock, and wield the resulting infernal liquid as both tool and weapon. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion.
+The character's mixed attunement allows them to melt earth and rock, and wield the resulting infernal liquid as both tool and weapon. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the player may invest Passion for its normal bonus.
 
 As an Attack, lava attacks use the following weapon profile:  
 Core Trait: Powerful or Lethal, chosen on step 8  
@@ -20,4 +20,4 @@ Traits: Piercing and Persistent
 ## Idealized Concept
 Cost: --   
 Timing: --  
-The character couples the resolve of Stone with the furious passion of the Flame, driving them to greater heights. When the character takes Actions or establishes Goals in a Scene directly related to a Major Intimacy, they incrase their maximum Passion by 1, up to a total increase equal to their Protection.
+The character couples the resolve of Stone with the furious passion of the Flame, driving them to greater heights. When the character takes Actions or establishes Goals in a Scene directly related to a Major Intimacy, they may gain additional Passion without spending the normal Effort/AP costs for exceeding their starting/soft caps.

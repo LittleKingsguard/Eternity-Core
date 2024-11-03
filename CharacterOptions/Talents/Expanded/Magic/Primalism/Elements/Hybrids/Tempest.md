@@ -9,7 +9,7 @@ If the character has mastered both of the above Talents, they may learn this as 
 ## Incarnate Form
 Cost: --    
 Timing: Step 1/2  
-The character's mixed attunement allows them to call lightning from the skies or conjure bolts into their hands. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the character gains a Floating Bonus equal to their current Passion.
+The character's mixed attunement allows them to call lightning from the skies or conjure bolts into their hands. When using this ability as part of an attempt such as Attack, Obstruct, Initiate/Progress Actions, etc., the player may invest Passion for its normal bonus.
 
 As an Attack, lightning attacks use the following weapon profile:  
 Core Trait: Swift or Control, chosen on step 7  
