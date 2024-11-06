@@ -3,14 +3,10 @@
 *Even the fires of the greatest suns begin with a single spark.*  
 -- Codex of the Burning Soul, Book V
 
+If the character gains the Idealized Concept version of Flame Shaping and already knows [Cataclysm Seed](../../../General/CataclysmSeed.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Special Move  
-Range: As normal for Flame Shaping  
-Cost: --  
-Timing: Step 1  
-Benefit:  
-The character may create an Inferno Seed as an Obstruct Action. This is a Hazard that the player may choose to detonate as a Round Delay Attack targeting the entire Zone. A character threatened by the Hazard when the blast goes off has any Difficulty vs. targeting them negated as if spending a Tier.  
-If the explosion's tier is greater than the Scene's level of Escalation, the Zone becomes Hazardous terrain.
+Character gains Cataclysm Seed if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Special Move  

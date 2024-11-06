@@ -3,12 +3,10 @@
 *The Flame is expansion, for it defies the darkness that tries to confine its light, and spreads to illuminate the faintest shadow.*  
 -- Path of Dancing Light, Book IV
 
+If the character gains the Idealized Concept version of Flame Shaping and already knows [Expanded Form](../../../General/ExpandedForm.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Any Flame Shaping Action  
-Cost: 1 Effort/APA  
-Timing: Step 1/2  
-Benefit:  
-The character's flames affect all targets equally, being a full Area blast instead of a Splash attack.
+Character gains [Expanded Form](../../../General/ExpandedForm.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Social Influence or Control attempt  
