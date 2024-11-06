@@ -3,12 +3,10 @@
 *The river starts where the Mountain breaks the storm.*  
 -- Codex of the Everlasting Mountain, Book VIII
 
+If the character gains the Idealized Concept version of Stone Shaping and already knows [Sheltering Shape](../../../General/ShelteringShape.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Parry Reaction  
-Cost: --  
-Timing: Step 2  
-Benefit:  
-The character may use Stone Shaping to Parry Attacks against other characters, interposing walls of stone between the attacker and target.
+Character gains [Sheltering Shape](../../../General/ShelteringShape.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Any successful Parry  

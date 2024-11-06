@@ -14,4 +14,4 @@ The character controls the ground their opponent walks on, exerting their will o
 Use: When forcing movement on a target  
 Cost: 1 AP 
 Timing: Step 10  
-The character makes a quick but powerful follow-up move that carries with it the inexorable gravitic aspect of the Primal Stone. The distance the target is forced to move is upgraded. This may also upgrade the damage of a Dilemma if refused, or instead be used to ise the overall Tier for the purposes of overcoming Reactions or DT.
+The character makes a quick but powerful follow-up move that carries with it the inexorable gravitic aspect of the Primal Stone. The distance the target is forced to move is upgraded. This may also upgrade the damage of a Dilemma if refused, or instead be used to raise the overall Tier for the purposes of overcoming Reactions or DT.

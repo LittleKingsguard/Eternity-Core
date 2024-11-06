@@ -3,12 +3,10 @@
 *True power looms in the background, and reaches in all directions.*  
 -- Codex of the Everlasting Mountain, Book XII
 
+If the character gains the Idealized Concept version of Stone Shaping and already knows [Divided Attention](../../../General/DividedAttention.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Any Stone Shaping  
-Cost: 2 Power/target  
-Timing: Step 1/2  
-Benefit:  
-The character may split their Stone Shaping attempt between multiple targets.
+Character gains [Divided Attention](../../../General/DividedAttention.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Any attempt  

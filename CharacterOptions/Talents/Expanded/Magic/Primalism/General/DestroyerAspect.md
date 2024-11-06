@@ -3,6 +3,7 @@
 *A physical fire can be smothered by sand. This is a failing of the Physical to reflect the ideal form. The true flame is consumption itself. It does not care for the laws of Alchemy, for it will consume those too.*  
 -- Codex of the Burning Soul, Book III
 
+The practitioner bridges their understanding of their chosen aspect into its darkest and most all-consuming uses, tainting their attuned Shape with that of Oblivion, and its pure destructive essences.
 
 Suitable Aspects:  
 * Flame
