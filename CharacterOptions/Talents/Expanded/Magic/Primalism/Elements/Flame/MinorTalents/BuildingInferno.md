@@ -6,7 +6,7 @@
 If the character gains the Idealized Concept version of Flame Shaping and already knows [Cataclysm Seed](../../../General/CataclysmSeed.md), they gain this Talent for free.
 
 ## Incarnate Form
-Character gains Cataclysm Seed if they would unlock the Incarnate Form after learning this Talent.
+Character gains [Cataclysm Seed](../../../General/CataclysmSeed.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Special Move  

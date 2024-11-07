@@ -3,12 +3,10 @@
 *A Tempest brings water where it will.*  
 -- Cycle of Sea and Sky, Book III
 
+If the character gains the Idealized Concept version of Wave Shaping and already knows [Materialized Shape](../../../General/MaterializedShape.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Acquire Action  
-Cost: 1 Effort/Tier  
-Timing: Step 1  
-Benefit:  
-The character rips water from the air, ground, or in the most desperate times manifests it from the Shadow Sea itself. They may use this water for future Wave Shaping attempts in the Scene as if an Asset that provides no Bonus. Without a means of carrying the water without continuous use of Wave Shaping, they lose it at the end of the Scene.
+Character gains [Materialized Shape](../../../General/MaterializedShape.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Recovery  

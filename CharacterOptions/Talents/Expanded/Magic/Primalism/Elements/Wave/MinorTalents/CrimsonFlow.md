@@ -12,6 +12,6 @@ The character manipulates the blood or other vital fluids of a mortal, beast, or
 
 ## Idealized Concept
 Use: Successful Attack or refused Physical Control/Trap  
-Cost: --  
-Timing: Step 11  
+Cost: 1 AP  
+Timing: Step 12  
 The character draws on the energies of the blood they have just shed to fuel further carnage. They gain a Floating Bonus to a future Attack equal to the final damage dealt.

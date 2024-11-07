@@ -3,12 +3,10 @@
 *The crash is merely the final expression of the power the Wave has always possessed.*  
 -- Cycle of Sea and Sky, Book V
 
+If the character gains the Idealized Concept version of Wave Shaping and already knows [Cataclysm Seed](../../../General/CataclysmSeed.md), they gain this Talent for free.
+
 ## Incarnate Form
-Use: Any Wave Shaping Action  
-Cost: --  
-Timing: Step 1  
-Benefit:  
-The character starts an inevitable surge of power that will slowly build, before coming down in a surge of furious power. Instead of resolving as normal, the Action is placed on a Round Delay timer, and placed in a Zone. In exchange, the Tier is Upgraded. This Action can only affect targets within the chosen Zone at the time the Delay ends.
+Character gains [Cataclysm Seed](../../../General/CataclysmSeed.md) if they would unlock the Incarnate Form after learning this Talent.
 
 ## Idealized Concept
 Use: Prepare Action  
