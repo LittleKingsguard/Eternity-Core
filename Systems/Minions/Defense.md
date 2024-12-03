@@ -1,3 +1,3 @@
 A Minion's Defense Tier is always equal to it's base Tier, plus any Major Talents that may be applicable to a given damage source.
 
-A Minion has PA equal to is Dice + Power ratings, with recovery calculated similarly as full characters do with their Persistence ratings. However, Minions do not have a Narrative track, and are defeated when their SPA is exhausted or if they take Narrative-level damage from any source.
+A Minion has PA equal to is Dice + Power ratings, with recovery calculated similarly as full characters do with their Heroics ratings. However, Minions do not have a Narrative track, and are defeated when their SPA is exhausted or if they take Narrative-level damage from any source.

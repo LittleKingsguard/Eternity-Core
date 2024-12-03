@@ -1,4 +1,4 @@
-Spotlight (SP) is gained at the start of each Act, derived from the Act's chosen Action Abilities. The total can be raised up to the soft cap by spending SPA on a point-for-point basis.
+Spotlight (SP) is gained at the start of each Act, derived from the Finesse Ratings of the Act's chosen Abilities. The total can be raised up to the soft cap by spending SPA on a point-for-point basis.
 
 Spotlight is used for joining Scenes started by other characters, or for starting additional Scenes after the one free Scene each character gets on their turn. It is also used for buying Priority at the start of each Act.
 Each point of Priority costs 1 SP.

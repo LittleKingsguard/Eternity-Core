@@ -1,1 +1,1 @@
-The character has poor footing, preventing them from spending Power to gain Dice on Physical Actions. This goes away automatically at the end of their next Action.
+The character has poor footing, preventing them from spending Power to gain Dice on Prowess Actions. This goes away automatically at the end of their next Action.
