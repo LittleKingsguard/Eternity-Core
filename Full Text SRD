@@ -1,19 +1,19 @@
 Resolution Engine
-Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
+Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Prowess, Charm, Wits, and Heroics groups. Organizations or more exotic characters may have different or additional groups.
 
 Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
 Physical for movement, combat, etc. 
-Mental for comprehension, invention, deduction, etc.
+Wits for comprehension, invention, deduction, etc.
 Social for debate, argument, intimidation, etc. 
 Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
 
 In addition to the Primary Ability, the player also chooses a Supporting Abilitydefining how their character is attempting to perform the action. For example:
-Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
-Using facts and logical argument in a debate would be a Mental assist to a Social action. 
-Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
-Attempting to triumph through raw persistence would be an Endurance Supporting.
+Using brute force or extreme precision in solving a puzzle would be Prowess aiding a Wits action. 
+Using facts and logical argument in a debate would be a Wits assist to a Charm action. 
+Feints and manipulation in a swordfight would be a Charm Support to a Prowess action. 
+Attempting to triumph through raw persistence would be an Heroics Supporting.
 Dice
-When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
+When rolling, the player rolls a number of 6-sided dice equal to the Finesse Rating from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
 Adding Dice
 Spending Power
 By spending Power from the roll, extra dice can be purchased one-for-one, up to a total of both Abilities combined.
@@ -32,8 +32,8 @@ A character’s Talents or the Traits of an Asset or Challenge involved may allo
 Dice Limits
 Recap:
 For the Action being rolled, the player chooses a Primary and a Supporting Ability group. 
-The Action starts with the Primary Action Ability’s rating in dice.
-An additional amount, up to the Supporting Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
+The Action starts with the Primary Finesse Rating’s rating in dice.
+An additional amount, up to the Supporting Finesse Rating’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
 Outside sources may add extra Dice until the total number of dice is equal to double the above total, including dice that are being spent.
 
 No attempt may physically roll more than ten dice. If an attempt has more than ten unspent dice when rolling, the extras are lost to no effect.
@@ -42,9 +42,9 @@ The difficulty of a roll is the number of successes required for the attempt to 
 Fortune
 A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power does not count against the normal caps, and may be spent on any normal effect at any time, even if they would normally have to be declared before rolling, such as rolling additional dice or guaranteeing successes by turning failed dice into successes.
 Power
-The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary Ability before accounting for bonuses or penalties.
+The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Force Rating of its Primary Ability before accounting for bonuses or penalties.
 
-Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
+Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Force Ratings chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
 
 If penalties or mitigation from Reacting characters, passive defenses, or Resilience of challenges result in Power being reduced to 0, the Action fails and has no effect.
 Spending Power
@@ -95,7 +95,7 @@ For example, a character attempting to hide may have found the only viable “co
 Scene Resolution
 In the Narrative Scope, a player starting the Scene describes (within reason) the circumstances of the Scene, defines a Primary Abilityfor the Scene overall, and then chooses the Supporting Abilitythat they specifically will use for the Scene. The combination of these groups gives the player Agency and Impact with which to define their Goals for the Scene in the same way these groups define Dice and Power for Actions. 
 
-The player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may distribute both Agency and Impact across those Goals. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability. The final amount of Agency invested corresponds to both the effectiveness of the Goal once completed, and the Difficulty of the Challenge required to complete it. Likewise, the Impact invested determines the effectiveness of the completed Goal, and the Resistance of the Challenge required to complete it. All Goals should have at least 1 Agency and 1 Impact invested, and they are not required to spend all available Agency/Impact. Different goals may amount to the same effect (ex. Destroy the East, South, and West barracks all fundamentally translate to “Attack army”) but should still be distinct. 
+The player describes a number of Goals their character intends to accomplish during the Scene, up to a maximum equal to their total Agency, then may distribute both Agency and Impact across those Goals. If the player chose an Ascended Ability to use when starting the Scene, increase the Tier of the Goal by 1 for each such Ability. The final amount of Agency invested corresponds to both the effectiveness of the Goal once completed, and the Difficulty of the Challenge required to complete it. Likewise, the Impact invested determines the effectiveness of the completed Goal, and the Resistance of the Challenge required to complete it. All Goals should have at least 1 Agency and 1 Impact invested, and they are not required to spend all available Agency/Impact. Different goals may amount to the same effect (ex. Destroy the East, South, and West barracks all fundaWitsly translate to “Attack army”) but should still be distinct. 
 
 Once the Goals have been set, the player may choose to spend any remaining Impact or Agency to gain bonuses to completing a given Goal, in the form of Gear, Preparations, or other Talent-enabled effects.
 
@@ -113,7 +113,7 @@ A character’s Narrative PA is their most important PA track and the one that r
 
 Scene Plot Armor recovers multiple times within each narrative episode, and is damaged relatively often, usually representing exhaustion, spent resources, or repairable but significant damage to health or operation. If a character’s Scene PA is exhausted, they take a point of Narrative PA and fully refill their Scene track. If whatever reduced their Scene PA still has damage left to inflict, this now continues on the refilled track.
 Rounds
-At the start of each round within the Narrative scope, each character chooses any two of their Abilities (Physical, Mental, Social, Endurance). For the two selected, take the Action Ability (DEX, INT, MNP, LCK) from each pair. The higher of these two is the amount of starting Spotlight the character has for instigating or joining scenes. They may at any later time Exert themselves for additional Spotlight, taking damage to their Scene PA point-for-point, up to a Spotlight total equal to both of the above abilities combined.
+At the start of each round within the Narrative scope, each character chooses any two of their Abilities (Physical, Wits, Charm, Heroics). For the two selected, take the Finesse Rating (DEX, INT, MNP, LCK) from each pair. The higher of these two is the amount of starting Spotlight the character has for instigating or joining scenes. They may at any later time Exert themselves for additional Spotlight, taking damage to their Scene PA point-for-point, up to a Spotlight total equal to both of the above abilities combined.
 
 This is then repeated with the Effort half of the above pairs (STR, LRN, CHA, WILL) to get the character’s starting and maximum Resources for the turn.
 Priority
@@ -338,15 +338,15 @@ The following apply equally to both Scene and Narrative turn structure.
 Intimacies
 Intimacies are a representation of the character’s emotional connections to the world, what they believe, and how they think. Intimacies have three traits: a subject (a person, place, concept, ideal, ambition, etc.), an emotional context (ex. Respect, love, hatred, devotion), and a strength (Major or Minor).
 
-A Minor Intimacy represents something the character feels strongly enough about to take risks or sustain long-term goals over, and grants +2 Power to all rolls made in line with that Intimacy, such as Reacting to defend a positive Intimacy, or Attacking a negative one. In Social conflict, it also applies to other characters’ Influence rolls that leverage that Intimacy.
+A Minor Intimacy represents something the character feels strongly enough about to take risks or sustain long-term goals over, and grants +2 Power to all rolls made in line with that Intimacy, such as Reacting to defend a positive Intimacy, or Attacking a negative one. In Charm conflict, it also applies to other characters’ Influence rolls that leverage that Intimacy.
 
-A Major Intimacy represents something the character would be willing to risk everything for, including potentially giving their lives for if the situation was sufficiently desperate. It gives the same effects as a Minor Intimacy, and additionally gives the character the option to make Saves on any roll in line with that Intimacy. In Social conflict, the Tier required to inflict damage is increased by 1 if the Influence runs counter to an existing Major Intimacy. However, if a hostile Influence action leverages a Major Intimacy, it is instead upgraded one Tier.
+A Major Intimacy represents something the character would be willing to risk everything for, including potentially giving their lives for if the situation was sufficiently desperate. It gives the same effects as a Minor Intimacy, and additionally gives the character the option to make Saves on any roll in line with that Intimacy. In Charm conflict, the Tier required to inflict damage is increased by 1 if the Influence runs counter to an existing Major Intimacy. However, if a hostile Influence action leverages a Major Intimacy, it is instead upgraded one Tier.
 
 Finally, taking Actions or Scenes in line with any Intimacy despite the player understanding they are foolish, reckless, unnecessarily dangerous, or otherwise counterproductive to long-term goals is one of the primary ways of earning Ascension Tokens and Eternity Marks, below.
 Social Conflict
-Pure Social conflict does not directly try to harm a target, merely change their outlook and opinions. For the purposes of tracking and resolution, however, an attempt to influence a character still uses similar mechanics to an Attack, merely carried out with words and appeals in place of violence, with the caveat that a Social influence roll will always have an associated Dilemma, usually forgiving all related damage if the target changes their Intimacies or takes an Action the influencing character is attempting to encourage. This damage represents the distraction and morale loss that comes from a mind clouded by convincing argument or conflicted emotion, and so fades away when the target has made a decision.
+Pure Charm conflict does not directly try to harm a target, merely change their outlook and opinions. For the purposes of tracking and resolution, however, an attempt to influence a character still uses similar mechanics to an Attack, merely carried out with words and appeals in place of violence, with the caveat that a Charm influence roll will always have an associated Dilemma, usually forgiving all related damage if the target changes their Intimacies or takes an Action the influencing character is attempting to encourage. This damage represents the distraction and morale loss that comes from a mind clouded by convincing argument or conflicted emotion, and so fades away when the target has made a decision.
 Changing Intimacies
-Intimacies represent what a character values and how they see the world, and a major use of social conflict is to sway others into agreeing with one’s own perspective, or at least moving them away from opposing it.
+Intimacies represent what a character values and how they see the world, and a major use of Charm conflict is to sway others into agreeing with one’s own perspective, or at least moving them away from opposing it.
 
 The Dilemma imposed by the Influence attempt and its related damage may affect the target depending on the severity of the highest track its associated damage is on.
 
@@ -519,7 +519,7 @@ Likewise, Obstacles, Hazards, and Crises are intended as adaptable tools for emu
 Plausibility
 Eternity Ascendant is “Fiction First”, here meaning that the player describes the Action they want their character to attempt or invents a Goal they wish to add into the Scene based on the limits and themes established by the story, and then the table or GM decides on the best way to model that Action or Goal using the mechanics and systems in this document.
 
-For example, an ordinary man attempting to attack a warship with a dinner knife is unlikely to actually damage anything meaningful, but it might serve to distract the crew. Thus, instead of the Physical Attack using a knife would usually be, it would instead be rolled as a Social Attack on the crew, and presenting them with a Dilemma vs. Distraction.
+For example, an ordinary man attempting to attack a warship with a dinner knife is unlikely to actually damage anything meaningful, but it might serve to distract the crew. Thus, instead of the Prowess Attack using a knife would usually be, it would instead be rolled as a Charm Attack on the crew, and presenting them with a Dilemma vs. Distraction.
 
 That said, Eternity Ascendant is intended to err on the permissive side, and permit experienced characters to accomplish things unimaginable to an ordinary man. A character capable of Tier 4 actions in their own right might absolutely be able to destroy a ship with a butter knife.
 
@@ -556,7 +556,7 @@ This “reframing” removes all damage from the character. However, the lost Ta
 Challenges
 Challenges are environmental concerns, barriers, hazards, and growing threats that lack any agency to be interpreted as a character, but still affect the world and how characters engage and progress through it.
 Obstacle
-An Obstacle is distinct from a Crisis in that it will not change without active intervention. A cliff, locked door, trapped hallway, minefield, or puzzle would all be Physical Obstacles, while more abstract issues such as social conventions regarding access to important people, broaching of strong taboos topics, puzzling out complex systems and academic/scholarly questions might be Social or Mental Obstacles.
+An Obstacle is distinct from a Crisis in that it will not change without active intervention. A cliff, locked door, trapped hallway, minefield, or puzzle would all be Physical Obstacles, while more abstract issues such as social conventions regarding access to important people, broaching of strong taboos topics, puzzling out complex systems and academic/scholarly questions might be Charm or Wits Obstacles.
 
 Obstacles have Tier, Difficulty, and Resistance just like most tasks, however they are often of a Tier significantly beyond what a character could reasonably accomplish in a single Action, requiring a Project instead.
 Consequences
@@ -599,7 +599,7 @@ Stairs
 Characters do not have to roll to climb or descend stairs unless Opposed. If they fail anyway, treat as a fall of half the stairway’s total height.
 Environment
 Map
-The rules of this game are written to presume a game map for any sort of tactical combat, infiltration, chase, or other Physical Scene. However, the use of Zones and de-emphasis on specific measures such as feet or squares is intended to enable Theater-of-the-mind for tables or situations where map play is unavailable or not preferred.
+The rules of this game are written to presume a game map for any sort of tactical combat, infiltration, chase, or other Prowess Scene. However, the use of Zones and de-emphasis on specific measures such as feet or squares is intended to enable Theater-of-the-mind for tables or situations where map play is unavailable or not preferred.
 
 The size of the map depends on the level of Escalation of the Scene, or otherwise can scale with the Tier of any major Scene Goals. A map for Tier 0 play might be a single street, clearing, or a large building, with individual Zones being small rooms, alleys, or subdivisions of larger spaces, as in the image under Zones, below.
 
@@ -630,7 +630,7 @@ The first time a character interacts with a Hazard feature within a Zone, they b
 Engagement
 Engagement is a way of tracking which characters in a Zone can directly affect each other. Any character may Oppose or Support Actions by or targeting characters they are Engaged with.
 Engaging
-A character becomes Engaged with another if they or the other character takes an Action that requires close contact, such as a melee weapon Attack, assisting with a Physical act, or relaying a secret through whispers. Additionally, a character becomes Engaged as a consequence of movement if another character Opposes their Move Action and successfully prevents it. Finally, if unopposed, they may simply choose to Engage another character as part of another Action.
+A character becomes Engaged with another if they or the other character takes an Action that requires close contact, such as a melee weapon Attack, assisting with a Prowess act, or relaying a secret through whispers. Additionally, a character becomes Engaged as a consequence of movement if another character Opposes their Move Action and successfully prevents it. Finally, if unopposed, they may simply choose to Engage another character as part of another Action.
 Losing Engagement
 A character loses Engagement if they move into a separate Zone from the other character or the target is subjected to forced movement away by a different attacker.
 
@@ -652,7 +652,7 @@ The player may spend a Tier to instead force the target into a different Zone, o
 Range
 Different Actions can only be taken at certain distances from the targets, or take penalties from being too far or too close.
 Melee/Touch
-A Touch range Action requires the character to be Engaged with their targets, though as usual they may choose to become Engaged with any target in the same Zone as part of the Action. Most Physical Actions require Touch unless supported by Gear or some other bonus, as might whispers or otherwise making a Social Action non-Overtly.
+A Touch range Action requires the character to be Engaged with their targets, though as usual they may choose to become Engaged with any target in the same Zone as part of the Action. Most Prowess Actions require Touch unless supported by Gear or some other bonus, as might whispers or otherwise making a Charm Action non-Overtly.
 Short-Range
 A Short Range Action can be taken at any distance, but the Difficulty is increased by 1 for each Zone they are from the target, including their own. They take no penalty and do not need to be Engaged with a target in their own Zone, a -1 penalty with a target in an adjacent Zone, and so on for further Zones.
 Long-Range
@@ -690,7 +690,7 @@ Characters have abilities and skills, separated into four groups:
 
 Type
 Action Ability
-Effort Ability
+Force Rating
 Physical
 Dexterity (DEX)
 Strength (STR)
@@ -740,7 +740,7 @@ Character Advancement
 Transcendence
 Abilities cannot be raised above 5 without a learned Talent of their Type possessing the Transcendence tag.
 Training
-Maintaining proficiency in all of a character’s various skills as they grow in power and competence tends to result in greater needs in time, support, and complexity of training. Learning a new Talent or Raising an Ability requires a Tier 4 Project of Difficulty equal to the Action Score for the target Group, and Resistance equal to double its Effort Ability. Any known Minor Talents for the Group increase one of these two values for this purpose, either specified in the Talent or at the player’s choice. Each Major Talent instead raises the Tier of the Project required. As normal, if the D/R exceeds 5/10, increase the Tier and reduce by 4/8.
+Maintaining proficiency in all of a character’s various skills as they grow in power and competence tends to result in greater needs in time, support, and complexity of training. Learning a new Talent or Raising an Ability requires a Tier 4 Project of Difficulty equal to the Action Score for the target Group, and Resistance equal to double its Force Rating. Any known Minor Talents for the Group increase one of these two values for this purpose, either specified in the Talent or at the player’s choice. Each Major Talent instead raises the Tier of the Project required. As normal, if the D/R exceeds 5/10, increase the Tier and reduce by 4/8.
 
 A character may use the new Talent or increased Ability in Scenes before the Project’s completion, but only if they include a valid Progress Goal for the Project in the Scene.
 
@@ -802,7 +802,7 @@ Appearance Traits
 Camouflage
 Camouflage is an outfit designed to blend into a given environment or terrain, providing its benefits to attempts to remain hidden. It only becomes Overt once the character loses Stealth completely.
 Nondescript
-A Nondescript Appearance hides anything remarkable or identifying about the character, and thus benefits Social rolls to blend into crowds or avoid notice in non-combat Scenes, and acts as armor against investigation from characters that can perceive them, passively Opposing attempts to reveal information about them, except for Talents and Gear currently being used. This is not Overt.
+A Nondescript Appearance hides anything remarkable or identifying about the character, and thus benefits Charm rolls to blend into crowds or avoid notice in non-combat Scenes, and acts as armor against investigation from characters that can perceive them, passively Opposing attempts to reveal information about them, except for Talents and Gear currently being used. This is not Overt.
 Deceptive
 A Deceptive Appearance leads observers to make false assumptions about the character, their status, skills, or life experience. A “professional” craftsman might dress the part while actually knowing very little about their role, or a skilled fighter or manipulator might present as far more naive and innocent than they really are to lead others to underestimate them. The Asset is still Overt, but this nature of it is Confidential, and will only be learned by other characters if they specifically investigate it, or the deception is used against them.
 
@@ -928,7 +928,7 @@ Drawback:
 Waiting for someone else to act is not conducive to immediate action. The character’s starting Initiative is reduced by half their Luck. This may reduce it below 0.
 Compassionate
 Benefit:
-The character’s empathetic nature makes it easy for them to relate to others. They gain Free Effort equal to half their CHA on Social actions, as long as they aren’t intended to harm the target.
+The character’s empathetic nature makes it easy for them to relate to others. They gain Free Effort equal to half their CHA on Charm actions, as long as they aren’t intended to harm the target.
 Drawback:
 Empathy makes it hard to act against others. The character cannot make Lethal Attacks in a scene. If they somehow accidentally deal such damage (ex. through Hazards) before passing the Gate, they receive this damage too.
 Relentless
@@ -966,17 +966,17 @@ When on solid ground or near other solid surfaces they can interact with, any Mo
 Mastery of the Empty Hand
 Unburdened by the need for weapons, the character’s fists flicker like lightning and land like thunder.
 Benefit:
-When making Physical attacks, breaking an Obstacle, or attempting similar feats without any Gear, the roll is upgraded one Tier.
+When making Prowess attacks, breaking an Obstacle, or attempting similar feats without any Gear, the roll is upgraded one Tier.
 Mastery of the Phantom’s Passage
 The character’s footfalls are silent, their form seems to melt into the shadows, and even the noisy things of the world seem to conspire to keep their secrets as creaking doors and stubborn locks seem to become pliant at their touch.
 Benefit:
-While Undetected or better in Stealth, all of the character’s Physical Actions are upgraded one Tier. They may, as normal, spend this Tier on multitasking to guard against attempts to detect their Action. When Concealed or worse in Stealth, Physical Actions to improve their Stealth are upgraded in Tier.
+While Undetected or better in Stealth, all of the character’s Prowess Actions are upgraded one Tier. They may, as normal, spend this Tier on multitasking to guard against attempts to detect their Action. When Concealed or worse in Stealth, Prowess Actions to improve their Stealth are upgraded in Tier.
 Mastery of the Steel Skin
 Reflexes are honed to take full advantage of armor, knowing when pieces can take what strikes from which angles, and how to defend the weak points and gaps with movements so small they barely seem to be on purpose.
 Benefit:
-While wearing Tier-appropriate armor, increase the minimum Tier required to damage the character by 1 against Physical Attacks, Hazards, and other similar damage sources. If not wearing Tier-appropriate armor, instead treat the armor’s Tier as 1 higher. (The character must at least be wearing something.)
+While wearing Tier-appropriate armor, increase the minimum Tier required to damage the character by 1 against Prowess Attacks, Hazards, and other similar damage sources. If not wearing Tier-appropriate armor, instead treat the armor’s Tier as 1 higher. (The character must at least be wearing something.)
 Minor Talents
-Physical Minor Talents give the character tricks they can use in Physical Scenes to give them an advantage in combat, stealth, movement, and other tasks.
+Prowess Minor Talents give the character tricks they can use in Prowess Scenes to give them an advantage in combat, stealth, movement, and other tasks.
 Mobile Fighter
 The character fights from a more dynamic stance than more conventional warriors, making them quicker on their feet and harder to pin down.
 Cost: 1 AP
@@ -1103,13 +1103,13 @@ Benefit:
 If more Dice are paid than the target’s INT, the target does not know that a trap has been set. If the trap is triggered by a statement the character knows the truth of, the trap is Lethal.
 Medic
 First do no harm.
-Trigger: Recovering, or Supporting another character’s Recover Action or Scene after they have taken Physical damage.
+Trigger: Recovering, or Supporting another character’s Recover Action or Scene after they have taken damage from Prowess Attacks or similar bodily harm.
 Benefit:
-The target may substitute either or both of the character’s Mental Abilities in place of their own Endurance Abilities when calculating how much damage they recover, but they may only heal from Physical damage when doing so.
+The target may substitute either or both of the character’s Wits Abilities in place of their own Heroics Abilities when calculating how much damage they recover, but they may only heal from Physical damage when doing so.
 Vital Targeting
 Sustained
 The importance of knowing where to cut is lost on neither the doctor, nor the assassin.
-Trigger: A Prepare Action to set up a Physical Attack against a target.
+Trigger: A Prepare Action to set up a Prowess Attack against a target.
 Cost: 1-LRN Dice
 Benefit:
 While this stance is maintained, attacks against the target gain Power equal to the cost taken. If the cost paid is greater than the target’s WILL, the Attack may instead be upgraded by a Tier.
@@ -1150,15 +1150,15 @@ Social Talents deal with interpersonal interactions, public speaking, and presen
 Major Talents
 Mastery of the Thousand Ears
 Crowds have a murmur, not a voice. This is why they so often fall for the first one that claims to speak for it.
-Trigger: Attempting Social Influence on a large group, debating an Offense before a crowd, or otherwise speaking to the masses.
+Trigger: Attempting Charm Influence on a large group, debating an Offense before a crowd, or otherwise speaking to the masses.
 Benefit:
 The character’s gravitas, public appeal, and simple comfort before the massed audience upgrades their rolls by 1 Tier.
 Mastery of the Whistling Birds
 All rumors start somewhere, but only the most dangerous ones seem to start everywhere.
-Trigger: Attempting to covertly take a Social Action.
+Trigger: Attempting to covertly take a Charm Action.
 Cost: Affected Action is on a Round-Delay
 Benefit:
-By understanding the flow of gossip through a Social Scene, the character can feed truths and lies into the rumor mill far enough upstream that their fingerprints upon them will all but wash away by the time they reach their targets. If the affected Social action would normally be Overt, it isn’t, and the minimum Tier for Investigate attempts to discover the character using their action as a clue is upgraded by 1.
+By understanding the flow of gossip through a Social Scene, the character can feed truths and lies into the rumor mill far enough upstream that their fingerprints upon them will all but wash away by the time they reach their targets. If the affected Charm action would normally be Overt, it isn’t, and the minimum Tier for Investigate attempts to discover the character using their action as a clue is upgraded by 1.
 Mastery of the Manifold Mask
 The first step towards gaining a new face, is fully understanding your original one.
 Trigger: Being in or entering Stealth via disguise, wearing an Alias, attempting to establish one, or similar Actions.
@@ -1185,7 +1185,7 @@ Councilor
 Mental scars are just like physical ones, except it’s easier to pretend you don’t have them.
 Trigger: Recovering, or Supporting another character’s Recover Action or Scene after they have taken Influence damage.
 Benefit:
-The target may substitute either or both of the character’s Social Abilities in place of their own Endurance Abilities when calculating how much damage they recover, but they may only heal damage from Influence when doing so.
+The target may substitute either or both of the character’s Charm Abilities in place of their own Heroics Abilities when calculating how much damage they recover, but they may only heal damage from Influence when doing so.
 Doubletalk
 A mismatch between the cleverness of tongues and the cleverness of ears allows for many interpretations of the same phrase.
 Cost:1+ Successes
@@ -1267,28 +1267,28 @@ All Conditions have three stages of increasing severity, which are cumulative, i
 If a character is under more than one effect that would give them the same Condition, they instead gain the next stage higher. Characters may opt to voluntarily take many Conditions, such as going Prone to make enemy ranged attacks harder.
 Balance
 Off-Balance
-The character takes a -1 Success penalty to any Physical rolls.
+The character takes a -1 Success penalty to any Prowess rolls.
 This is removed automatically at the start of their next Action.
 Prone
 When making rolls for which a low profile is beneficial (hiding, avoiding fire, etc.), buying Successes costs 1 less Power.
 
-All other Physical rolls cost 1 more Power per Success, and movement is always treated as Difficult Terrain.
+All other Prowess rolls cost 1 more Power per Success, and movement is always treated as Difficult Terrain.
 
 Switching between Prone and Standing takes a Miscellaneous Action.
 Tumbled
-The character is not merely lying down, they need a moment to figure out which way is up. The only Physical Action they can take is a Miscellaneous Action to sort themselves back out to Prone, and any Reactions must be Escalated to include this Action as an extra effect.
+The character is not merely lying down, they need a moment to figure out which way is up. The only Prowess Action they can take is a Miscellaneous Action to sort themselves back out to Prone, and any Reactions must be Escalated to include this Action as an extra effect.
 
 A character may drop to Tumbled as a free part of a Reaction to gain the benefits of Prone. If they do so, the above penalty does not apply to the current Reaction.
 Protection
 The Protection conditions are relevant between a given attacker and defender; a target may have Cover from one attacker but not another attacking from a different direction.
 Concealed
-Light cover, smoke, fog, darkness, or other effects obscure the character from other targets. They may attempt to hide, and when Opposing Physical Attacks or other Actions for which visibility or line-of-sight are relevant, buying Successes costs 1 less Power.
+Light cover, smoke, fog, darkness, or other effects obscure the character from other targets. They may attempt to hide, and when Opposing Prowess Attacks or other Actions for which visibility or line-of-sight are relevant, buying Successes costs 1 less Power.
 
 Concealment is usually an effect of environmental attributes such as Hazards or Obstacles, but may be created with Gear or Talents, usually as a Complicate Action. Environmental cover is usually two-way, meaning the attacker also has cover from the character. 
 
 An attacker may overcome Concealment by moving closer, flanking around the side, or destroying whatever Hazard or Challenge is providing it.
 Covered
-The character is separated from an attacker by a barrier that can stand up to the weapons currently in play. Direct Physical Attacks deal damage to the next lower PA track than normal, unless an Escalation is used to counter this. Area Attacks and the miss effect of Splash Attacks are unaffected.
+The character is separated from an attacker by a barrier that can stand up to the weapons currently in play. Direct Prowess Attacks deal damage to the next lower PA track than normal, unless an Escalation is used to counter this. Area Attacks and the miss effect of Splash Attacks are unaffected.
 
 Cover is usually acquired and removed in the same manner as Concealment.
 Entrenched
@@ -1328,10 +1328,10 @@ In the case of Grappling, breaking free and downgrading this Condition is a Misc
 Snared
 The character cannot take Move Actions or Progress Actions against difficult terrain, unless they can bring the source of the Condition with them, either as a contested roll or as an Obstacle.
 Confined
-When making any Physical rolls except to escape confinement, the character does not get any free dice. The maximum amount of dice they can buy with Power is unchanged.
+When making any Prowess rolls except to escape confinement, the character does not get any free dice. The maximum amount of dice they can buy with Power is unchanged.
 
 When grappling, a character cannot impose this Condition on another without themselves becoming Snared.
 Pinned
-Making any Physical rolls other than to escape the pin must spend an Escalation to succeed.
+Making any Prowess rolls other than to escape the pin must spend an Escalation to succeed.
 
 When grappling, a character cannot impose this Condition on another without themselves becoming Confined.

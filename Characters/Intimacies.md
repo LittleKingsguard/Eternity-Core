@@ -11,4 +11,4 @@ Invoking an Intimacy on a roll either by or against a character provides a Lead 
 A character must have at least one Major and one Minor Intimacy, but players may assign more if they wish. Playing into a character’s Intimacies is one of the common ways of giving them Ascension Tokens and Eternity Marks.
 
 Design Notes:
-As a general rule, all characters can be assumed to have a Major Intimacy for their own survival, which will be invoked against Social attempts to control them into suicidal decisions.
+As a general rule, all characters can be assumed to have a Major Intimacy for their own survival, which will be invoked against attempts to control them into suicidal decisions.

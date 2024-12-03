@@ -1,5 +1,5 @@
 Resolution Engine
-Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Social, Mental, and Endurance groups. Organizations or more exotic characters may have different or additional groups.
+Any entity capable of taking actions in Eternity Ascendant has multiple abilities, grouped into several pairs. For an ordinary human or similar character, the assumed default is Physical, Charm, Wits, and Heroics groups. Organizations or more exotic characters may have different or additional groups.
 
 Any time a roll is called for, either as part of an Action or as a Reaction supporting, opposing, or mitigating an Action, the player chooses two groups. The Primary Ability is always dependent on what is being attempted: 
 Physical for movement, combat, etc. 
@@ -8,12 +8,12 @@ Social for debate, argument, intimidation, etc.
 Endurance (and equivalent Plot Armor-determining groups for nonstandard characters and organizations) cannot be Primary.
 
 In addition to the Primary Ability, the player also chooses a Supporting Ability defining how their character is attempting to perform the action. For example:
-Using brute force or extreme precision in solving a puzzle would be Physically aiding a Mental action. 
-Using facts and logical argument in a debate would be a Mental assist to a Social action. 
-Feints and manipulation in a swordfight would be a Social Support to a Physical action. 
-Attempting to triumph through raw persistence would be an Endurance Supporting.
+Using brute force or extreme precision in solving a puzzle would be Prowess aiding a Wits action. 
+Using facts and logical argument in a debate would be a Wits assist to a Charm action. 
+Feints and manipulation in a swordfight would be a Charm Support to a Prowess action. 
+Attempting to triumph through raw persistence would be an Heroics Supporting.
 Dice
-When rolling, the player rolls a number of 6-sided dice equal to the Action ability from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
+When rolling, the player rolls a number of 6-sided dice equal to the Finesse Rating from the Primary Ability for that roll. Any result of 4 or higher is a success, and on a roll of 6, the attempt also gains Fortune.
 Adding Dice
 Spending Power
 By spending Power from the roll, extra dice can be purchased one-for-one, up to a total of both Abilities combined.
@@ -32,8 +32,8 @@ A character’s Talents or the Traits of an Asset or Challenge involved may allo
 Dice Limits
 Recap:
 For the Action being rolled, the player chooses a Primary and a Supporting Ability group. 
-The Action starts with the Primary Action Ability’s rating in dice.
-An additional amount, up to the Supporting Action Ability’s rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
+The Action starts with the Primary Finesse Rating in dice.
+An additional amount, up to the Supporting Finesse Rating, can be gained from spending Power from the roll or Effort from the character, for a total number of dice equal to both Abilities combined.
 Outside sources may add extra Dice until the total number of dice is equal to double the above total, including dice that are being spent.
 
 No attempt may physically roll more than ten dice. If an attempt has more than ten unspent dice when rolling, the extras are lost to no effect.
@@ -42,9 +42,9 @@ The difficulty of a roll is the number of successes required for the attempt to 
 Fortune
 A die that naturally rolls a 6 gives the attempt 1 additional Power. This Power does not count against the normal caps, and may be spent on any normal effect at any time, even if they would normally have to be declared before rolling, such as rolling additional dice or guaranteeing successes by turning failed dice into successes.
 Power
-The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Effort ability of its Primary Ability before accounting for bonuses or penalties.
+The actual effect of a roll, in terms of damage dealt, progress against challenges, etc. is measured in Power. An attempt starts with an amount of Power equal to the Force Rating of its Primary Ability before accounting for bonuses or penalties.
 
-Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Effort Abilities chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
+Additional Power may be gained through Talents, spending resources, Chaining, being Supported by allied Reactions, prior Prepare Actions, excess successes or Fortune from dice, or other effects. Once total Power is increased higher than the total Force Ratings chosen for the roll, any additional Power is halved, rounded down. Total Power after halving cannot be greater than double the combined Abilities, above. Fortune does not apply to these limits.
 
 If penalties or mitigation from Reacting characters, passive defenses, or Resilience of challenges result in Power being reduced to 0, the Action fails and has no effect.
 Spending Power

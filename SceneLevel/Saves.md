@@ -1,3 +1,1 @@
-If a character or one of their Major Intimacies are under threat, they may attempt a Save, Reacting without any AP cost or penalties. This reaction always uses Persistence as the primary Ability, and if the character made a previous, unsuccessful Reaction, that Reaction is treated as a Support to their Save. However, each Save costs 1 SPA, and after the Save, the character takes an upgraded Status chosen by the player of the Opposed character.
-
-TODO: #20 Link Statuses here
+If a character or one of their Major Intimacies are under threat, they may attempt a Save, removing their Protection from the Action's Power on Step 9, even if they Reacted, if it has already been applied, or even if it has been negated by the spending of a Tier. The character responsible for the threat may spend another Tier to negate this Protection as well.

@@ -6,4 +6,4 @@ The Dilemma imposed by the Influence attempt and its related damage may affect t
 
 If an Influence attempt aims to change an existing Intimacy, that Intimacy always resists it. It is thus recommended to first instill a new, conflicting Intimacy that can be leveraged against the original one.
 
-Influence is almost always a Social or related Action, and involves communication with the target, making them Overt from the target's perspective. Middlemen, written (or otherwise impersonal) communication channels, etc. may prevent the target from getting any useful information out of this Overtness, but this usually requires extra Actions or Assets to set up.
+Influence is almost always a Charm or related Action, and involves communication with the target, making them Overt from the target's perspective. Middlemen, written (or otherwise impersonal) communication channels, etc. may prevent the target from getting any useful information out of this Overtness, but this usually requires extra Actions or Assets to set up.

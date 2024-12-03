@@ -1,1 +1,1 @@
-The amount of damage a character can shrug off, and how difficult they are to affect even without Reacting, is determined by their Talents and their Persistence Ability ratings.
+The amount of damage a character can shrug off, and how difficult they are to affect even without Reacting, is determined by their Talents and their Heroics Ability ratings.
