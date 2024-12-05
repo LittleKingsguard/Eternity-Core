@@ -1,1 +1,0 @@
-Attacks may have the Lethal trait, raising the Track receiving damage by one level, as with spending a Tier. Lethal is not cumulative.

@@ -1,2 +1,0 @@
-Cost: --
-Illicit Connections are criminal rings, foreign spies, and other entities that local authorities are in conflict with, and possessing such Connections is itself an Offense, if proven and exposed. Conversely they are much more willing to assist in Actions and Projects that are already Offenses.

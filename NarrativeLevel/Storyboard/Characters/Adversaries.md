@@ -1,6 +1,6 @@
 Adversaries are the antagonists to the Heroes' protagonists, under the control of the GM (for GM-centric play) or a different player at the table (for full-table play) from their "main opponent's" player.
 
-The Adversaries for a new game under the default starting rules are Tier II characters, but do *not* cooperate, have any non-Public information about the other characters, and work at least partially towards cross purposes. There should be one Adversary for each Hero, and each one should have an objective and/or Intimacies that push them towards conflict with at least one Hero and at least one other Adversary.
+The Adversaries should default to being more capable than the heroes, and either using their own playbooks that reflect this or Hero playbooks modified to be stronger.
 
 Design Notes:
 Adversaries are meant to be significantly more powerful than Heroes, and confronting one directly is intended to be framed more as a group boss fight than a reasonable individual challenge. This is meant as a balance against the Adversaries individually being solo opponents, or only backed up by their own Minions. 

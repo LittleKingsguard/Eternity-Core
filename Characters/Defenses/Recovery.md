@@ -1,0 +1,1 @@
+A character's Recovery is how much they reduce their Stress/Distraction by when they take a Recovery Scene/Action or at the end of the Act/Round. This is determined by their Playbook.

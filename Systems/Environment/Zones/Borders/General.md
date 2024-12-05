@@ -1,1 +1,0 @@
-The borders of a Zone are where it touches other Zones, and typically represent some feature of the environment such as a wall, doorway, or other Obstacle. 

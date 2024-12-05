@@ -1,1 +1,0 @@
-The rules of this game are written to presume a game map for any sort of tactical combat, infiltration, chase, or other Scenes where relative positioning matters. However, the use of Zones and de-emphasis on specific measures such as feet or squares is intended to enable Theater-of-the-mind for tables or situations where map play is unavailable or not preferred.

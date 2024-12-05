@@ -1,4 +1,0 @@
-A character's Heroics is their ability to persevere despite setbacks. While a character cannot use Heroics as the Primary Ability for an Action, it is always the Primary Ability for Saves.
-
-The Finesse Rating corresponds to luck. While there are no Heroics Actions, a character with high ratings here might have their Heroics-Supported Actions narrated with convenient flukes of luck and chance, or, when expending PA, contrive seemingly-random coincidences or interference that aid them or foil an enemy's action.
-The Force Rating represents willpower and determination. A character with high ratings here might have their relevant actions described in terms of powering through adversity or "giving 110%".

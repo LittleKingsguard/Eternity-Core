@@ -1,3 +1,2 @@
 Tiers may be spent when the roll is declared, or after rolling. If a Tier is spent before the roll and the roll cannot spend that Tier and still meet the required Tier for success, the roll fails.
-If multiple Tiers are being spent, no single effect can account for more than half of the spent Tiers, rounded down.
 If a roll has a minimum Tier to succeed, the Tiers required to meet this threshold are not spent overcoming it. Any Tiers that are spent on effects do not count towards this threshold unless otherwise noted.

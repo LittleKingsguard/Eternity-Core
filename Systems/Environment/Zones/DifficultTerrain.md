@@ -1,1 +1,0 @@
-If an entire Zone is Difficult Terrain, any movement in that Zone, such as entering or leaving the Zone, Engaging other characters, or interacting with Hazards they are not already Threatened by, requires a roll vs. the Zone’s D/R. This is cumulative with any other D/R sources.

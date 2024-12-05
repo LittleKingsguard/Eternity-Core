@@ -1,1 +1,0 @@
-Some Talents may apply a straight upgrade to a roll. Minor Talents will only do this in niche circumstances, but it is a common element of Major Talents.

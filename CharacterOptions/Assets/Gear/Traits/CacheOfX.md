@@ -1,4 +1,0 @@
-Cost: +1 Tier or more
-Instead of just the one item, the character instead has a significant supply of them stored away they may access between Scenes, allowing them to consistently access and use Single-Use items in multiple Scenes or equip allies joining the Scene. 
-
-However, they do not have the spare copies on hand if they lose one mid-Scene, and if they supply more than a smal Troop's worth of allies (15-20 individuals) they expend the Asset unless they are all returned later. A cache large enough to equip more than a Size 1 Troop's worth of allies will require additional Tier increases in cost.

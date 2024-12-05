@@ -1,1 +1,0 @@
-A Pursuing character waits until after all Drifting characters have declared their intentions, then may choose to either follow a Drifting character, spending to cross any Obstacles or Hazards as above, or staying in place. If they stay, they may choose to force a Drifting character to stay with them by spending a higher total of AP and Effort than they did.

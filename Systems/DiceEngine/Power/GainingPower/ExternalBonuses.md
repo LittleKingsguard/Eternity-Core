@@ -1,1 +1,1 @@
-Prepare Actions, Gear, Supporting Reactions, Chaining, and so on can apply extra Power, up to the hard cap.
+Prepare Actions, Gear, Assist Reactions, Chaining, and so on can apply extra Power, up to the hard cap.

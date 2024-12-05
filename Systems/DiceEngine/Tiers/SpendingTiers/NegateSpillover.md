@@ -1,2 +1,0 @@
-High-Tier Actions have Spillover effects. Each Tier spent on this Bonus reduces the effective Tier of the Action by 2 when determining Spillover effects. 
-The normal limit on purchasing Bonuses does not apply, but the effective Tier cannot be reduced below 0.

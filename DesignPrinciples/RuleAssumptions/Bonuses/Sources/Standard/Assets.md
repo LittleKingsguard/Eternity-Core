@@ -1,1 +1,0 @@
-[Assets](https://github.com/LittleKingsguard/Eternity-Core/blob/1387327383b3450649408197bae483585201055e/CharacterOptions/Assets/General.md) may apply a Dice/Power Bonus to relevant Actions used. Each category of Asset counts separately, so a character can stack bonuses from multiple types on the same roll.

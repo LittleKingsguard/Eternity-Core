@@ -1,3 +1,0 @@
-The Prowess Ability defines how capable the character is in motion and physical action.
-The Finesse Rating corresponds to agility, grace, manual dexterity, and finesse, and high Difficulty on Prowess Actions represents a task requiring extreme precision and/or speed.
-The Force Rating corresponds to brute strength, stamina, and toughness. High Resistance on Prowess Actions represents a task that requires the character to use or withstand incredible force.

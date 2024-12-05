@@ -1,1 +1,0 @@
-An Evade Reaction can usually only be taken to avoid attacks directed at the Reacting character (though creative uses like tackling an ally out of the way, or even wildly changing topics to avoid a difficult question are possible). An Evade attempt gets upgraded one Tier for free, but receives Forced Movement from the attacking character.

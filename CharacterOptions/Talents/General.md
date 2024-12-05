@@ -1,1 +1,0 @@
-Talents are the capabilities a character has that are more specific or esoteric than skill and abilities represent. Talents are binary, either a character has one or they don’t, but each Talent has five levels of mastery accounting for how easily they are used and how much the drawbacks affect the character.

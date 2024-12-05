@@ -1,1 +1,0 @@
-If a character attempts to Progress a Crisis, for or against, and fails, they suffer the consequences of any associated Hazards. as with Obstacle Hazards, they may reuse the same roll to resist the Hazard, or take a separate Reaction.

@@ -1,5 +1,1 @@
-When a character fills a track with damage, they cannot act. If the filled track is the Action or Scene track, they may clear the damage in exchange for one point on the next track higher, representing the character committing more reserves to the fight, taking hits escaping a losing position, or otherwise trading long-term resources for immediate options. If the narrative track fills, the character is defeated and stops participating in the Narrative.
-
-However, at the GM or table’s discretion, the character may instead suffer a significant loss, typically enough to reduce them in Tier, and have them rejoin the Narrative in a new context. This is especially viable in cases where the character was defeated through indirect methods, such as attacking a wealthy character’s resources or the organization a character leads, and the character is still threatening (if not as influential) in their own right.
-
-This “reframing” removes all damage from the character. However, the lost Talents, Assets, and Abilities may only be regained the hard way (see Character Advancement).
+If all of a character's Plot Armor is spent, the character is defeated and stops participating in the Narrative.

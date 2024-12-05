@@ -1,4 +1,0 @@
-An Action-level Dilemma cannot affect more than the next Action the target takes, and cannot directly lead to obvious harm worse than APA damage. 
-
-Design Notes:
-Telling a foe to “pick a fight with someone their own size” might convince them to charge an obviously-capable fighter. Insulting someone’s bravery because they won’t swan dive into a vat of molten metal to prove themselves will not work (unless they can survive it). As a general rule, all characters can be assumed to have a Major Intimacy for their own survival, which will be invoked against attempts to control them into suicidal decisions.

@@ -1,1 +1,1 @@
-Remove any penalties to Power from an Action, including the inherent Resistance of a Challenge, or any opposing Reactions.
+Set the Resistance of an Action to 0, including the effects of any opposing Reactions.

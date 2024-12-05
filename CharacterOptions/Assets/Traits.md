@@ -1,1 +1,0 @@
-Traits are qualities about the Asset that provide additional benefits or penalties to their use or affect how easily they can be affected by other characters. These generally have a modifier that increases or reduces the Asset’s effective Bonus when setting the D/R/Tier of both creating and attacking the Asset.

@@ -1,1 +1,0 @@
-Most such entities a character might have Connections with will host private events or have private locations they will allow the character to use. Anyone else who wishes to Join or otherwise interfere without the character’s permission will need a relevant Access or Connections Asset of equal or higher bonus, or break in as under Restricted Scenes, above.

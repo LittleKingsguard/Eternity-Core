@@ -1,0 +1,1 @@
+Instead of applying a Dice/Power bonus, a Dominant Bonus becomes the Primary Ability, and the Ability that would otherwise be Primary is instead Secondary. Additionally, any Tier bonuses from Abilities are ignored.

@@ -1,2 +1,0 @@
-Cost: +4R
-The Asset and/or any records of ownership are kept in a well-guarded location. The Tier required to destroy or steal it is increased by 1, and the character will immediately discover any unsuccessful or low-Finesse aborted attempts.

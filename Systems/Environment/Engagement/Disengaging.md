@@ -1,3 +1,0 @@
-A character loses Engagement if they move into a separate Zone from the other character or the target is subjected to forced movement away by a different attacker.
-
-If either Engaged character takes an Action or Reaction that implies movement within the Zone, the other may choose to follow at no cost, taking the same Engagements or Threats as the original moving character. If they choose not to, they lose Engagement.

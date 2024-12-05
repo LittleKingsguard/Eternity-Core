@@ -1,1 +1,0 @@
-A character may declare their intent to take multiple Actions on consecutive Initiative counts, paying the AP at the start. Each additional one after the first costs only half as much AP, but, if the character takes an active Reaction or can’t attempt one of their intended Actions, all remaining Actions are canceled. The AP remains spent.

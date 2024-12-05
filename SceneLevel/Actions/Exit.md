@@ -1,1 +1,1 @@
-An Exit action allows a character to leave a scene. This fails automatically if successfully opposed.
+An Exit action allows a character to leave a scene. This fails automatically if opposed.

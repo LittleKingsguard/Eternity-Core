@@ -1,3 +1,1 @@
 Assets are generally easier to destroy than create, though it is also generally easier to protect an Asset with Reactions than it is to interfere with attempts to create them. Destroying an Asset is a Project or Action two Tiers above the Asset’s rating and with D/R equal to its effective bonus. Stealing an Asset is more complicated, and is usually one Tier more difficult than simply destroying it.
-
-However, some Assets, such as Gear, are tangible items that can be Disarmed or otherwise lost from its owning character and recovered by another over the course of a Scene. If the owning character Exits or Escapes the Scene without recovering the Asset, it is permanently lost. Likewise, another character may permanently steal the Asset by Exiting the Scene with it.

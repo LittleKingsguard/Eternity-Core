@@ -1,1 +1,0 @@
-A Minor Talent is typically a smaller effect that either provides an addendum effect to Action/Reactions/Scenes for which it is invoked, or allows the player to take a penalty to said attempt in exchange for a larger bonus.

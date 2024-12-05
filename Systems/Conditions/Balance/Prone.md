@@ -1,3 +1,0 @@
-The character is lying on the ground, or in an uncontrolled drift or fall if they are flying or swimming instead. When attempting to Evade, they do not Upgrade the roll, as normal. This lasts until the character takes a Miscellaneous Action to stand, or spends a Tier to Multitask as part of a separate Action.
-
-However, a Prone character on the ground makes better use of cover and has a lower profile. When making rolls for which a low profile is beneficial (hiding, avoiding fire, etc.), buying Successes costs 1 Die fewer.

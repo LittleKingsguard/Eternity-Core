@@ -1,1 +1,0 @@
-A Dilemma that has affected the Scene track can motivate them to alter their plans for the current Scene, such as Exiting the Scene, abandoning one of their current Goals, or assisting with someone else’s. Alternatively, it can induce them to start or join one future Scene.

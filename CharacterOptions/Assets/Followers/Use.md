@@ -1,3 +1,0 @@
-Similar to [Allies](https://github.com/LittleKingsguard/Eternity-Core/blob/4682dd39cdd933fa30fc242d54a0e0b575c4a661/CharacterOptions/Assets/Ally/Use.md), Followers can be brought into a Scene as a Minion. However, Followers always have the Troop trait, and can always be used, even if they are already present in an ongoing Scene, as the many individual followers can be in multiple places.
-
-However, only if the Scene is Escalated above the Follower group’s Tier do they risk destruction in a Scene as with Allies. The bulk of the Followers will not fit into a smaller Scene, and so even the total destruction of the Minion troop only advances Projects, as with harming an Ally.

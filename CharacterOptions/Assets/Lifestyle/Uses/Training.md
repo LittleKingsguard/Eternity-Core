@@ -1,1 +1,0 @@
-The amenities a character has access to through their Lifestyle can provide bonuses to Training Scenes through access to tools such as libraries, weight equipment, or simply ample space and privacy.

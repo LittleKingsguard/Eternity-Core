@@ -1,3 +1,0 @@
-See [Evidence](https://github.com/LittleKingsguard/Eternity-Core/blob/d68a05997db9e2fb0771dd0b17dd2345b67dfdfc/ResolutionEngine/Conflict/Investigate/Evidence.md).
-
-Additionally, if a character knows the Identity of a target, then they may choose to delve into the target's past as a Scene Goal. If the completed Goal(s) at least meet the target's Defense Tier, they may generate new Evidence that apples against all known Leads. Additionally, they may spend Agency or Impact from this total to dig up new Leads this Evidence would apply to as well. They may set Discover Goals that use this new evidence or Leads as part of the same Scene.

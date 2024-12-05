@@ -1,3 +1,0 @@
-Some circumstances, such as attacking with a longer weapon, result in a situation where one character may target the other much more freely than vice versa. In this case, the player of the benefiting character may choose whether they wish to count as Engaged or not for any given Action or effect. This may even happen at range, from different Zones. 
-
-Unlike normal Engagement, Suppression is not automatically ended by moving away. Instead, the trait granting Supression will list the conditions it can be broken under.

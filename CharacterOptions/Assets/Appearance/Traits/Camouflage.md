@@ -1,2 +1,0 @@
-Cost: -- or +1 Tier if Asset has other uses 
-Camouflage is an outfit designed to blend into a given environment or terrain, providing its benefits to attempts to remain hidden. It only becomes Overt once the character loses Stealth completely.

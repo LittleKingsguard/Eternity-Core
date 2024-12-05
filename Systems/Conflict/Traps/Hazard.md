@@ -1,3 +1,0 @@
-A Trap may be created as a Hazard in order to remain active without the character's attention or intervention (including by proxy of Minions). In this case, the character setting the Trap chooses whether to make it bypassible or indiscriminate.
-
-A Bypassible Trap (ex. a tripwire) can be safely avoided by anyone who knows about it, either by being informed by the setting character, or by Discovering the trap. An Indiscrinate Trap (ex. a minefield) will trigger on *anyone* who performs the blocked Action, including the setting character.

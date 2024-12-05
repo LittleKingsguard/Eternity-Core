@@ -1,4 +1,4 @@
-If introducing a Scene Goal as a Crisis, the Difficulty equals half of the amount of Agency invested in the Goal, and the Resistance is equal to the Impact invested. It is one Tier greater than the Goal itself, or the same Tier if it is also a Lethal or equivalently risky Hazard, or advances itself at a faster pace than once per Round. 
+If introducing a Scene Goal as a Crisis, the Difficulty equals half of the amount of Agency invested in the Goal, and the Resistance is equal to the Impact invested. It is one Tier greater than the Goal itself, or the same Tier if it advances itself at a faster pace than once per Round. 
 
 A Crisis Goal has Endurance 2 by default.
 

@@ -1,1 +1,0 @@
-A Touch range Action requires the character to be Engaged with their targets, though as usual they may choose to become Engaged with any target in the same Zone as part of the Action. Most Prowess Actions require Touch unless supported by Gear or some other bonus, as might whispers or otherwise making a Charm Action non-Overtly.

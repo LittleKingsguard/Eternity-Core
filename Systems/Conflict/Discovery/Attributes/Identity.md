@@ -1,3 +1,0 @@
-A character’s Identity is always Public. However, if the target is acting under an Alias, attempts to reveal information about them instead reveal the Alias, which must be destroyed or disassociated from the character before their real identity can be revealed. Any known information about the Alias, such as Talents, Assets, Projects, etc. is then transferred to the real character.
-
-If a character in a Scene is taking steps to conceal their Identity short of an Alias, they must be re-identified, though any other characters that already know their Identity upgrade all attempts to rediscover this. A player targeting them with an Action that depends on knowledge about them can also simply guess and accept the risk of failing automatically if they are wrong.

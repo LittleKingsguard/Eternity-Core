@@ -1,1 +1,0 @@
-To begin training to learn a new Talent or improve an Ability, the character must first introduce and complete a Scene Goal to establish the source of their new skills and the methods they use to learn them. This Goal must have Agency/Impact invested equal to the ratings of the associated Ability, and a Tier equal to the number of Major Talents for that Ability.

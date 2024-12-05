@@ -1,1 +1,0 @@
-Lifestyle Assets may include elements such as a private workshop, library, or other space where the character or any invited Allies could produce new Assets.

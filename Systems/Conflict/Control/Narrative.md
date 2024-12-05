@@ -1,1 +1,0 @@
-A Dilemma present in the Narrative track can convince the target to do pretty much anything, assuming it’s persuasive (i.e. damaging) enough, up to and including handing over all of their Assets and walking out of the story entirely. However, this is already very difficult, and trying to convince them to go back on Major Intimacies will make it even harder.

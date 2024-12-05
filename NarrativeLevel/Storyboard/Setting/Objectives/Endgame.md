@@ -1,3 +1,5 @@
 When the Heroes or any single Adversary have completed enough Preliminary Objectives (by default, any mandatory ones, and a majority of the remainder), they may choose to begin the Endgame.
 
-The Endgame is treated as a Storyboard-level Crisis that can be progressed or delayed as normal, and advances iteself at the end of each Act. However, instead of having Endurance, the character(s) involved lose one of their Preliminary Objectives if the Endurance would be reduced. The Crisis ends if this would take them below the threshold required to trigger it.
+The Endgame is treated as a Storyboard-level Crisis that can be progressed or delayed as normal, and advances itself at the end of each Act. However, instead of having Endurance, the character(s) involved lose one of their Preliminary Objectives if the Endurance would be reduced. The Crisis ends if this would take them below the threshold required to trigger it.
+
+TODO: #89 Reconsider Endgame rules in Eternal Light

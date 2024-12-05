@@ -1,1 +1,0 @@
-For particularly dangerous Hazards, a character may choose to become Imperiled if they are forced into the Hazard or fail an attempt to avoid it. An Imperiled character is in a possibly-literal cliffhanger, and if they take any Actions except to attempt to escape, the Hazard Opposes their roll. An Imperiled character is also still Threatened.

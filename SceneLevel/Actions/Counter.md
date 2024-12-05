@@ -1,3 +1,0 @@
-Countering allows a character to dismantle an opponent’s preparations, invoked Talents, or other bonuses directly. This is resolved as an Attack with a Dilemma removing the damage if they cancel the countered effect. If they refuse, the Power of the Attack is increased by 2 or the amount provided by the countered Bonus, whichever is higher.
-
-Scene-length Bonuses from higher-Tier Prepare Actions or Impact or Agency spent on entering the Scene require Actions of an equivalent or higher Tier to Counter. Bonuses from Agency or Impact acount as 2 Tiers higher than the base Tier for the Scene's Escalation.

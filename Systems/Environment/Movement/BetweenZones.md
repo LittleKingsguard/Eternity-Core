@@ -1,3 +1,0 @@
-Moving between Zones either requires Drifting, or taking a Move Action. Any other character in either the target Zone or their current Zone may React to this Move Action. If the Action is prevented by another character Opposing it from the same Zone, the movement is halted and they become Engaged. If the Reacting character was in the target Zone, and the moving character successfully enters the Zone, they become Engaged.
-
-TODO: #8 Link Drifting

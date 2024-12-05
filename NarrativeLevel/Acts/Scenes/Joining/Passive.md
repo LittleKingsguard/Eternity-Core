@@ -1,1 +1,0 @@
-Passively Joining a Scene is free, but the character is not present in the Scene, does not add Goals, and has a small action set they can typically only use to aid or hinder other characters within the Scene, determined by the Roles they have assumed for the Act. Passively joining a Scene does not count for adding progress to training.

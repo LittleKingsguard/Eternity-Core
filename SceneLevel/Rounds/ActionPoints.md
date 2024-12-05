@@ -1,4 +1,4 @@
-Action Points (AP) is gained at the start of each Round, derived from the Scene's chosen Action Abilities. The total can be raised up to the soft cap by spending APA on a point-for-point basis.
+Action Points (AP) are gained at the start of each Round, with each character gaining AP equal to the number of players. The total can be raised up to double by taking Distraction on a point-for-point basis.
 
 Action Points are used for taking additional Actions during the Round, Reacting to other character's Actions, and raising the character's Initiative.
 Each point of Initiative costs 1 AP.

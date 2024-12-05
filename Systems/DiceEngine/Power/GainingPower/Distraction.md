@@ -1,0 +1,1 @@
+Power can be purchased by accepting Distraction at a two-for-one rate, up to the soft cap.

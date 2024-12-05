@@ -1,1 +1,0 @@
-An Individual Minion acts much like a full character, only with more streamlined stats and rules.

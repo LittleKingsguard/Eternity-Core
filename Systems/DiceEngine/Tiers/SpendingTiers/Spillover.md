@@ -1,0 +1,1 @@
+High-Tier Actions have Spillover effects. This can be negated for 1 Tier, or upgraded by a Tier for each Tier spent, to a maximum of the remaining Tiers.

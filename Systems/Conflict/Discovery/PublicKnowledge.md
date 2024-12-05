@@ -1,1 +1,0 @@
-Some information about a character such as reputation or major Assets is public knowledge, and if the investigating character wouldn’t know it offhand, they can easily find out by asking around “between Scenes”. If a character Discovers any piece of public information about a character, they learn all other public information about them as well.

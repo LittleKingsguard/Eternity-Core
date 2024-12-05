@@ -1,1 +1,0 @@
-If an Influence Action has only affected the Action PA track, it can only create an Intimacy that lasts as long as the Scene does. This is always Minor. It may also alter an existing temporary Intimacy, if one exists.

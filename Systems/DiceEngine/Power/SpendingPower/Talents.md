@@ -1,1 +1,0 @@
-A character’s Talents or the Traits of an Asset or Challenge involved may allow or require the player to spend Power in exchange for some other effect.

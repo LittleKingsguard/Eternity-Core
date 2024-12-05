@@ -1,3 +1,0 @@
-Usually used to Oppose Attacks in melee, a Parry instead must overcome both the Successes and Power of the Action it Opposes. If the Action’s Successes do not overcome the Parry’s, the margin of victory is added to the Parry’s Power before applying that against the Action. However, if the Action has more Successes than the Parry, the Action’s Power cannot be reduced below the margin of success. If the Parry is of a higher Tier than the Action, it negates it automatically, as usual.
-
-However, unlike a normal Oppose it gains bonuses from any weapons or other Gear used to Parry, and some Talents trigger on Parries specifically.

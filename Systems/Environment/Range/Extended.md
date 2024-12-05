@@ -1,1 +1,0 @@
-An Extended-Reach effect can target anything in the character's current Zone without regard for Engagement, and can target characters in adjacent Zones that are threatened by or engaging border features such as Choke Points or Hazards.

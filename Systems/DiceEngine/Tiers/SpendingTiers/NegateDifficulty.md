@@ -1,1 +1,1 @@
-Set the Difficulty of an Action to 1, including the effects of any opposing Reactions.
+Set the Difficulty of an Action to 0, including the effects of any opposing Reactions.

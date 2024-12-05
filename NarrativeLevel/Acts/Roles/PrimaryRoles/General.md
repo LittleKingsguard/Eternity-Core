@@ -1,1 +1,0 @@
-A Primary Role can only be chosen if the player also chose the associated Ability as a Primary for the Act.

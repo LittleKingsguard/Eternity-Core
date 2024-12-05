@@ -1,1 +1,0 @@
-Walls, fences, ledges, balconies, and other barriers constitute an Obstacle border, and a character attempting to cross the border into the next Zone must overcome, bypass, or destroy the Obstacle as they pass or remain in their current Zone. Depending on the nature of the barrier, this may also block line-of-sight or line-of-effect for Actions that can affect different Zones.

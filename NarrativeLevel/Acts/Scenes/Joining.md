@@ -1,0 +1,1 @@
+Another character can Join a Scene another has started if they have knowledge of another character in the Scene or would have a reason to also be present at the same location (ex. the Scene is initiated as taking place at a major gala and the other character is a socialite.) Doing so costs 1 SP.

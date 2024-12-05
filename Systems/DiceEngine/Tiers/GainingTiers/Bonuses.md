@@ -1,1 +1,1 @@
-If a bonus is applied to a roll, and the source has a higher Tier than the roll, the roll is upgraded to that Tier. This increases the consequences of Spillover.
+If a bonus is applied to a roll, and the source has a higher Tier than the roll, the roll becomes Dominant and the Tier is raised to that level as part of the effects.

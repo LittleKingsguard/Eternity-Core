@@ -1,1 +1,0 @@
-If a Hazard fills the entire Zone, any character entering the Zone, or within the Zone on their first Action of the Round is subjected to the Hazard.

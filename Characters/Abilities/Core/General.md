@@ -1,1 +1,0 @@
-The Core Abilities define the normal ways all character can interact with the world, and all character possess them or finctional equivalents.

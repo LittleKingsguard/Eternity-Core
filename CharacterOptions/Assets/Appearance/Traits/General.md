@@ -1,1 +1,0 @@
-An Appearance is usually an Overt Asset.

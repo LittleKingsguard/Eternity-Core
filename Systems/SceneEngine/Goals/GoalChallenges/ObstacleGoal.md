@@ -1,4 +1,4 @@
-If introducing a Scene Goal as an Obstacle, the Difficulty equals half of the amount of Agency invested in the Goal, and the Resistance is equal to the Impact invested. It is three Tiers greater than the Goal itself, or two Tiers greater if it is also a Lethal or equivalently risky Hazard.
+If introducing a Scene Goal as an Obstacle, the Difficulty equals half of the amount of Agency invested in the Goal, and the Resistance is equal to the Impact invested. It is three Tiers greater than the Goal itself, or two Tiers greater if it is has sufficiently dangerous Consequences for attempting to overcome it.
 
 Overcoming the Obstacle completes the Goal. This usually requires a Project considering the high Tier of the Obstacle.
 

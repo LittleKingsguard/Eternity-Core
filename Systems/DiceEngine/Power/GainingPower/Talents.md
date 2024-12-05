@@ -1,1 +1,0 @@
-A character’s Talents or the Traits of an Asset or Challenge involved may grant Power in exchange for some other effect. The Soft Cap applies if the Talent was activated as part of the roll. If it is a Scene-length or permanent effect, part of a prior Prepare Action, or similar such benefit, it bypasses the soft cap.

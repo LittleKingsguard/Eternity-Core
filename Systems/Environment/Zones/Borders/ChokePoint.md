@@ -1,3 +1,0 @@
-A Choke Point is a terrain feature on the border of a Zone that is otherwise formed by Obstacles or Hazards. A Choke Point represents a narrow passage such as a doorway, breach, stairwell, or similar, and can be Engaged as a character can. A character Engaging a Choke Point can React or Guard to Support or Oppose any attempts to cross the border through the Choke Point. If they succeed in stopping the moving character, the character does not enter the target Zone but instead remains in their original Zone, also Engaged at the Choke Point. All characters Egaged at a Choke Point are also Engaged with each other.
-
-TODO: #7 Link Engagement here

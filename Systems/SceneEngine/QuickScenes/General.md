@@ -1,5 +1,5 @@
 A Quick Scene is used when either the current state of the game is too complicated to add an entire extra Focus Scene to, as with Cutaways or Flashbacks, or not enough players would have anything to do during the Scene, as with a Scene that wasn't joined by any other characters.
 
-A Quick Scene is resolved like an Action, using the chosen Primary and Supporting Abilities and any relevant Talents. Any other characters Joining may choose to make an independent Action, or to either Support or Oppose an existing Action declared. Actions are then upgraded twice, after rolling. Unlike normal rolls, players cannot spend Ascension Tokens to upgrade Tiers. Instead, they may spent *multiple* to gain 1 Success or 2 Power per Token.
+A Quick Scene is resolved like an Action, using the chosen Primary and Supporting Abilities. Any other characters Joining may choose to make an independent Action, or to either Support or Oppose an existing Action declared. Actions are then upgraded twice, after rolling. Unlike normal rolls, players cannot spend Ascension Tokens to upgrade Tiers. Instead, they may spent *multiple* to gain 1 Success or 2 Power per Token.
 
 Players may then briefly narrate their own success or failure and any consequences thereof before returning play to the Narrative level.

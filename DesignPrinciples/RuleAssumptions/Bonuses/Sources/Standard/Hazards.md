@@ -1,1 +1,0 @@
-If a character leverages a [Hazard](https://github.com/LittleKingsguard/Eternity-Core/blob/1387327383b3450649408197bae483585201055e/Systems/Frameworks/Challenges/Hazards/General.md) or similar feature as part of an attempt, they gain a bonus with Dice equal to the Difficulty and Power equal to half the Resistance.

@@ -1,1 +1,0 @@
-While Connections may not necessarily be willing to offer additional Assets for free, they can often provide significant help acquiring other Assets within their specialty.

@@ -1,6 +1,5 @@
 The Round ends when all characters have taken their turn and none are willing or able to take an additional Action by spending AP.
 
-First, any remaining Delay effects that were meant to trigger during this Round take effect, in descending order of Initiative.
 Then, any in-Scene crises or similar end-of-Round effects trigger.
 If specific order would matter in either case, the players of any instigating charcters can decide or settle it by contested roll.
 

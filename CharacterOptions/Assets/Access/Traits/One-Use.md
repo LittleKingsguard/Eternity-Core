@@ -1,2 +1,0 @@
-Adjustment: -1 Tier
-The entry method, once discovered, is easy to negate and even basic response procedures like changing the locks will prevent it from working twice. The Asset is expended after use unless absolutely no effort is made to investigate.

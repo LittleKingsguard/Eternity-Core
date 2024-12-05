@@ -1,5 +1,0 @@
-Control effects use a Dilemma to force characters to take a certain Action, start or join a certain Scene, or other effect. This usually a Wits or Charm roll that represents persuasion, manipulation, blackmail, or simply arranging the situation such that the option the controller wants the target to choose is genuinely the best (or even only viable) path forward.
-
-Social or related means of control usually involve communication with the target, making them Overt from the target's perspective. Middlemen, written (or otherwise impersonal) communication channels, etc. may prevent the target from getting any useful information out of this Overtness, but this usually requires extra Actions or Assets to set up. Wits or related Control methods can be entirely covert, leaving the target entirely unaware that they are dancing on another's strings (or why things are suddenly going wrong, if they decline the Dilemma), but are usually impossible to set up without a significant amount of information about the target.
-
-As with Influence, the scale of the future actions a Control Dilemma can affect depends on the PA track affected.

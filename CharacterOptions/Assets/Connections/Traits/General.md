@@ -1,1 +1,0 @@
-Connections are generally Confidential. Even if they are used to enter a Scene, the Restricted nature of the Scene will usually only reveal the Connection to other characters present in-Scene.
