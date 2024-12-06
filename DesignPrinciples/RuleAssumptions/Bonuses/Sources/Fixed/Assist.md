@@ -1,0 +1,1 @@
+Other characters [Assisting](https://github.com/LittleKingsguard/Eternity-Core/blob/1387327383b3450649408197bae483585201055e/SceneLevel/Reactions/Assist.md) the Action provide a Bonus with Dice equal to the Successes and half of the Power of their own roll.

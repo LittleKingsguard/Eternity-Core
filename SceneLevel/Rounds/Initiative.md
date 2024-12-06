@@ -1,4 +1,4 @@
-At the start of each Round, after gaining Action Points/Effort, all character may spend AP on increasing their Intiative.
+At the start of each Round, after gaining Action Points, all character may spend AP on increasing their Intiative.
 After all characters have done so, Intiative starts at the highest score among all characters. 
 At the first Intiative count, any characters at that count take their turn. The Priority count is then decremented by 1.
 
