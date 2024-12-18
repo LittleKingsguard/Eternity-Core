@@ -1,0 +1,1 @@
+Each Playbook represents and archetype, and contains the description of the archetype in both narrative and mechanical terms, as well as the instructions for creating the character and the list of build options available to the archetype.
