@@ -1,3 +1,3 @@
-A character may choose to Track another character if they are Hidden or Undetected by the target character when the target leaves a Scene. This lasts until the target character enters a Scene that the other character does not follow them into, the target character Breaks Contact, or establishes Contact on the tracker.
+A character may choose to Track another character if they are Hidden or Undetected by the target character when the target leaves a Scene. This lasts until the target character enters a Scene that the other character does not follow them into, the target character Breaks Contact, or establishes Contact on the tracker. Tracking may also be gained or lost as the result of a Crisis, similarly to establishing [Stealth](../../../Systems/Conflict/Stealth.md).
 
 The tracking character may always choose to initiate a Scene targeting the Tracked character, or Join a Scene they participate in.
