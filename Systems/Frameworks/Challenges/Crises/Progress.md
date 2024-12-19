@@ -1,1 +1,1 @@
-Unlike in a Project, a Crisis’s Progress is gained from and applied as a Floating Bonus to Actions/Scenes meant to manage the Crisis.
+Unlike in a Project, a Crisis’s Progress is gained from and applied as a Floating Bonus to Actions/Scenes meant to manage the Crisis. This may be negative, in which case it acts as a Floating Bonus towards attempts to advance the Crisis, and the Nemesis may choose to use it as Floating Penalty against attempts to manage the Crisis.
