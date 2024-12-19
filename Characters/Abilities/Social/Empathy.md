@@ -1,0 +1,3 @@
+Empathy is the character's ability to understand and relate to the emotions, thoughts, and perspectives of others.
+A robot with ratings in Empathy is capable of having a polite and civil conversation with humans, getting casual information or favors out of them, or engaging in persuasive debate. A robot with particularly high ratings may even be able to pass for human, at least under circumstances where their hardframe doesn't spoil the secret.
+A robot without ratings in Empathy will likely interact with humans in a similar manner as they would a computer or a piece of industrial machinery: issuing requests and instructions in as simple and direct terms as possible.

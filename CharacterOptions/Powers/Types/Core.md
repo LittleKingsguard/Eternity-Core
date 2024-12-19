@@ -1,1 +1,1 @@
-The Core Powers of a playbook are the defining tricks that make that playbook distinct from others possessing the same stats. Each playbook should have two that combine to identify their theme.
+The Core Modules of a playbook are the defining tricks that make that playbook distinct from others possessing the same stats. Each playbook should have two that combine to identify their theme.

@@ -1,1 +1,1 @@
-At the end of a Round/Act, characters remove Distraction/Stress equal to their Recovery value, specified in their playbook. They may also take a Recovery Action/Scene to do so.
+At the end of a Round/Act, characters remove Distraction/Overload equal to their Recovery value, specified in their playbook. They may also take a Recovery Action/Scene to do so.

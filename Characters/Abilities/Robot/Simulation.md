@@ -1,0 +1,5 @@
+Processing represents the character's ability to simulate and extrapolate from known data, analyze a problem for best-fit solutions, and otherwise resolve theoretical, abstract, or intellectual problems in a direct, rational manner. An intelligence forced to run on an insufficient mindframe may find their effective Tier reduced, but may always choose to compensate for this by making the Action a Project instead, as the slower processor forces them to take more time.
+
+A Tier 0 Processing Ability is roughly human-level in intellectual capability.
+Tier 1 Processing is functionally a supercomputer with a sense of intuition, performing such feats as playing dedicated chess engines to a draw, or deriving the mathematical procedures surrounding differential equations, when starting from the base principles of 2 + 2 = 4.
+Tier 2 Processing is vitually incomprehensible in either the depth or breadth of its understanding, performing feats such as containing the chaos of an entire accurated-simulated biosphere in their mind's eye, or starting from the foundations of "I think, therefore I am" and deducing the existence of progressive income tax and rice pudding from there.

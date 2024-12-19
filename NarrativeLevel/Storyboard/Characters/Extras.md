@@ -4,4 +4,4 @@ When pulled into a Scene, Extras use Minion rules for characters, with Dice/Powe
 
 Players may spend Ascension Tokens to define new aspects of the character, such as Intimacies or Locations they visit, or, once at the end of each Scene they participate in, to raise either their Dice or Power by 1.
 
-An Extra has Stress, but as Minions they do not have an PA track, and if they would take PA damage they are removed from the story immediately.
+An Extra has Overload, but as Minions they do not have an PA track, and if they would take PA damage they are removed from the story immediately.

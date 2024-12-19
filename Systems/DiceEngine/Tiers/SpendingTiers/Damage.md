@@ -1,2 +1,2 @@
-If an attack would inflict Distraction on a target, instead inflict Stress.  
-If it would already inflict Stress, two additional Tiers may be spent to instead force the target to spend Plot Armor equal to the damage.
+If an attack would inflict Distraction on a target, instead inflict Overload.  
+If it would already inflict Overload, two additional Tiers may be spent to instead force the target to spend Plot Armor equal to the damage.

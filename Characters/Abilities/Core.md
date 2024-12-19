@@ -1,1 +1,4 @@
-The Core Abilities for a game are the ones all player characters have in common and will start with ratings in. These should be broadly defined, such as "Prowess" or "Wits", as the player should be able to cover most game situations with some combination of two of them. A game should have no more than 3-4 total Core Abilities.
+The Robot Abilities are the ones all player characters (except Transhumans) have in common and will start with ratings in. These are fundamental parts of being a robot, and represent the skills and abilities that are integral to a machine, but outside the realm of human capability or knowledge. These are:
+* Machinery
+* Processing
+* Connection

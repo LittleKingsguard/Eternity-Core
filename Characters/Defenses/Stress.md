@@ -1,1 +1,1 @@
-Stress is similar to Plot Armor in that it is a resource that tracks how far the character is pushing their luck. A character's total Stress and how much they Recover at the end of an Act or during a Recovery Scene is determined by their playbook.
+Overload is similar to Plot Armor in that it is a resource that tracks how far the character is pushing their luck. A character's total Overload and how much they Recover at the end of an Act or during a Recovery Scene is determined by their playbook.

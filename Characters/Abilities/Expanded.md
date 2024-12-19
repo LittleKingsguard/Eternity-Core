@@ -1,3 +1,6 @@
-Expanded Abilities are additional Abilities that may be specific to a single character, or represent some capability that they may not have universal access to, such as magic, extreme wealth, advanced technology, etc.
+Social Abilities are additional Abilities that all humans (including Transhumans) have, but that robots may be unfamiliar with. Most robots are only familiar with one such Ability, and cannot start with ratings above 0 in the other two. To use any Social Ability, the robot must spend Comprehension, and may spend additional Comprehension in place of accepting Distraction for additional bonuses.
 
-In addition to the traits of Core Abilities, Expanded Abiliities each have a specific resource (ex. mana for magic) that they must gain or expend in order to use the Ability.
+The Social Abilities are:
+* Society
+* Deception
+* Empathy

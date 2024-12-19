@@ -1,1 +1,1 @@
-If the Stress track is completely filled, the track is instead reset to 0 damage, and the character loses 1 Plot Armor. Plot Armor cannot be cleared.
+If the Overload track is completely filled, the track is instead reset to 0 damage, and the character loses 1 Plot Armor. Plot Armor cannot be cleared.
