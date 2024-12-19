@@ -1,1 +1,3 @@
 A Floating Bonus is not divided into Dice and Power, and has no Tier. Instead the player may divide the total value of all such Bonuses between Dice and Power (or Agency and Impact), regardless of the Tier of the attempt.
+
+This can also be negative, creating a Floating Penalty such as Distraction. In this case, the Nemesis may distribute the penalty between Dice and Power after all bonuses have been applied, or spend 8 or more to reduce the roll's Tier by 1 for each 8 spent.
